@@ -1,0 +1,15 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+3800,4,5,975000,Shethcorp Pvt. Ltd.,31.0,18.0,Semi-Furnished,Prabhadevi,Vijay,Beau Monde,17075256
+6300,4,6,877000,Ahuja Constructions,53.0,48.0,Semi-Furnished,Worli,Shashank Kamble,Ahuja Towers,29882551
+5500,4,4,1000000,,26.0,18.0,Semi-Furnished,Napean Sea Road,Ajmera,,40066643
+5800,4,5,1000000,,60.0,30.0,Semi-Furnished,Shree Siddhivinayak Mandir Chowk,Ajmera,,40283787
+5420,4,4,850000,K Raheja Corp,41.0,35.0,Semi-Furnished,Mahalakshmi,Ajmera,Raheja Vivarea,43856355
+5000,4,4,1000000,,20.0,14.0,Semi-Furnished,Nepeansea Road,Ajmera,,43894985
+4555,4,5,850000,SD Corporation Private Limited,,,Furnished,Tardeo,Zeeshan,The Imperial,44470767
+6000,4,6,1000000,Ahuja Constructions,53.0,23.0,Semi-Furnished,Worli,Deepak Jagasia,Ahuja Towers,45286105
+4500,4,4,825000,,15.0,14.0,Semi-Furnished,Breach Candy,Ajmera,,45831827
+6300,4,6,900000,Ahuja Constructions,54.0,30.0,Semi-Furnished,Prabhadevi,Rambabu  Shah,Ahuja Towers,46502973
+5800,4,3,1000000,Ahuja Constructions,50.0,34.0,Semi-Furnished,Prabhadevi,Ajmera,Ahuja Towers,46915309
+5600,4,4,1000000,Ahuja Constructions,53.0,17.0,Semi-Furnished,Worli,Ajay  Singh,Ahuja Towers,46973767
+6700,4,5,850000,,14.0,10.0,Furnished,Bandra West,Ketan  Jaiswal,Sandhu Palace,47065779
+9500,4,5,975000,Sunteck Realty Limited,18.0,2.0,Semi-Furnished,Bandra Kurla Complex,Vimal  Nagar,Sunteck Signature Island ,47208235

@@ -1,0 +1,67 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+6300,4,4,800000,Ahuja Constructions,52.0,32.0,Semi-Furnished,Worli,Amar Jadhav,Ahuja Towers,18122747
+4490,4,4,650000,Suntrek Corporation,21.0,8.0,Semi-Furnished,Andheri West,Manoj Rajpal,Suntrek,20210865
+3450,4,3,550000,Raheja Developers Ltd.,14.0,12.0,Semi-Furnished,Bandra Band Stand,Indoo,Raheja Sunkist,29312429
+5700,4,5,666000,Ahuja Constructions,53.0,22.0,Furnished,Worli,Shashank Kamble,Ahuja Towers,29882797
+6000,4,4,675000,,11.0,10.0,Furnished,Juhu,Samir Pandya,,30302675
+4000,4,4,600000,,6.0,0.0,Furnished,Cuffe Parade,Sunny Thukral,,30381795
+3840,4,4,600000,,12.0,1.0,Unfurnished,Mount Mary,Devesh  Pandey,,38441131
+6000,4,4,550000,Satguru Developers,5.0,5.0,Furnished,Juhu,Nitesh Thawani,Vibhuti Apartment,39490287
+4000,4,5,675000,,9.0,6.0,Unfurnished,Bandra West,Mangesh Parab,,39895399
+3415,4,5,750000,SD Corporation Private Limited,60.0,29.0,Semi-Furnished,Chikalwadi,Ajmera,The Imperial,40061715
+4000,4,4,650000,,50.0,25.0,Semi-Furnished,Mahalaxmi Race Course,Ajmera,,40065013
+2850,4,5,550000,,26.0,15.0,Semi-Furnished,Kemps Corner,Ajmera,,40096631
+4000,4,4,700000,,7.0,1.0,Semi-Furnished,Breach Candy,Ajmera,,40281447
+4000,4,5,750000,,5.0,3.0,Semi-Furnished,Colaba Upper Gateway Of India Area,Ajmera,,40395645
+5000,4,5,550000,,14.0,4.0,Furnished,Khar West,Mangesh Parab,,40397401
+4000,4,5,650000,AVM Developers Private Limited,15.0,10.0,Semi-Furnished,Santacruz West,Gagan  Chadha,Salmona ville,40914079
+5800,4,4,750000,Millennium Group,32.0,31.0,Furnished,Lower Parel,Amol  Tambe,Phoenix Towers,40934997
+4960,4,5,650000,,23.0,19.0,Furnished,Juhu Versova Link Road,Rahul  Singh ,,41552115
+3760,4,4,598000,Kalpataru Limited,16.0,15.0,Furnished,JVPD Scheme,Rahul  Singh ,Kalpataru Solitaire,41749257
+3500,4,4,600000,India Bulls Real Estate Limited.,45.0,33.0,Semi-Furnished,Lower Parel,Sanjay Kumar,India Bulls Sky Forest,42812517
+5832,4,4,600000,Sunteck Realty Limited,28.0,8.0,Semi-Furnished,Bandra Kurla Complex,Mohit Bhagnari,Signia Isles,42958543
+6090,4,4,600000,Omkar Realtors and Developers Pvt. Ltd.,60.0,24.0,Furnished,Worli,Pratik Chhabra,Omkar 1973,43000659
+4500,4,4,750000,,12.0,3.0,Semi-Furnished,Nepeansea Road,Rajiv Gehi,,43429373
+2162,4,4,540000,Kalpataru Limited,24.0,22.0,Furnished,PK Kurne Chowk,Dolly  Parekh,Kalpataru Horizon,43545939
+5500,4,5,575000,Omkar Realtors and Developers Pvt. Ltd.,65.0,39.0,Semi-Furnished,Worli,Bharat,Omkar 1973,43761093
+4000,4,5,550000,K Raheja Corp,40.0,38.0,Semi-Furnished,Mahalakshmi,Dolly  Parekh,Raheja Vivarea,44153637
+4000,4,4,550000,,3.0,1.0,Unfurnished,Haji Ali,Zeeshan,,44309113
+4000,4,4,775000,,20.0,1.0,Unfurnished,Cumbala Hill,Dwello,,44382077
+3278,4,4,600000,Indiabulls Real Estate,40.0,38.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Rajesh  Singh,Indiabulls Blu,44810753
+4000,4,4,550000,,13.0,6.0,Furnished,Juhu,Nitesh Thawani,,44872261
+4647,4,5,550000,Suntech Realty Limited,25.0,7.0,Semi-Furnished,Bandra East,Shoeb  Sayed,Signia Pearl,44948955
+4500,4,5,550000,,19.0,17.0,Furnished,Bandra West,Tarik Mirza,,45015799
+4500,4,4,750000,,4.0,3.0,Semi-Furnished,Nepeansea Road,Ajay  Singh,,45048627
+5500,4,4,750000,AVIGHNA GROUP,62.0,30.0,Furnished,Lower Parel,Hiren  Dave,One Avighna Park,45107735
+6000,4,4,550000,,10.0,3.0,Unfurnished,Bandra West,Ajay  Kapur,,45147115
+4500,4,5,650000,Shahpoorji Palloinji Construction,34.0,17.0,Semi-Furnished,Breach Candy,Ajay  Singh,Suraj Millenium,45153711
+2940,4,4,550000,Shapoorji Pallonji Real Estate,120.0,43.0,Semi-Furnished,Tardeo,Ajay  Singh,Imperial Towers,45313659
+4550,4,4,600000,K Raheja Corp,45.0,24.0,Furnished,Mahalakshmi,Shoeb  Sayed,Raheja Vivarea,45374225
+5115,4,5,600000,K Raheja Corp,41.0,7.0,Semi-Furnished,Mahalakshmi,Zeeshan,Raheja Vivarea,45420869
+2400,4,4,550000,,8.0,5.0,Furnished,Pali Hill,Durgesh jadhav,,45602391
+3100,4,5,650000,,10.0,2.0,Furnished,JVPD Scheme,Hiten  Java,,45814225
+3100,4,5,600000,,10.0,3.0,Furnished,JVPD Scheme,Hiten  Java,,45816883
+3100,4,5,580000,,10.0,4.0,Furnished,JVPD Scheme,Hiten  Java,,45817295
+4400,4,4,700000,,41.0,16.0,Semi-Furnished,Prabhadevi,Ajay  Singh,,46001401
+3000,4,5,625000,B Brothers,34.0,24.0,Semi-Furnished,Prabhadevi,Surya Mishra,Bayview Terraces,46135621
+3600,4,4,550000,,20.0,13.0,Semi-Furnished,Nepeansea Road,Harakh Shah,,46342063
+3000,4,6,550000,Dheeraj Realty,20.0,7.0,Semi-Furnished,Bandra East,Chetan,Insignia,46500377
+3800,4,5,650000,Makers Developers,30.0,10.0,Furnished,Cuffe Parade,Abhay  Singh,Maker Tower,46853003
+3800,4,4,555000,,22.0,6.0,Furnished,Juhu Versova Link Road,Jyoti,,46861943
+3800,4,4,550000,,22.0,5.0,Furnished,Juhu Versova Link Road,Jyoti,,46862037
+3800,4,4,560000,,22.0,6.0,Furnished,Juhu Versova Link Road,Jyoti,,46862997
+3800,4,4,600000,,22.0,5.0,Furnished,Juhu Versova Link Road,Jyoti,,46863723
+5400,4,5,800000,Ahuja Constructions,42.0,26.0,Semi-Furnished,Worli,Rahul Vaid,Ahuja Towers,46877825
+3800,4,5,750000,Shethcorp Pvt. Ltd.,33.0,18.0,Furnished,Prabhadevi,Mallesh  Shetty,Beau Monde,47024349
+3100,4,4,525000,Raheja Universal Pvt Ltd.,38.0,22.0,Furnished,Haji Ali,Dilip Roge,Raheja Excelsior,47037611
+3800,4,4,600000,,22.0,5.0,Unfurnished,Juhu Versova Link Road,Sanjay Jain,,47053051
+2940,4,4,550000,Shapoorji Pallonji Real Estate,60.0,14.0,Furnished,Gamadia Colony,Ajmera,Imperial Towers,47056389
+6350,4,4,550000,Omkar Realtors and Developers Pvt. Ltd.,55.0,20.0,Furnished,Worli,Dolly  Parekh,Omkar 1973,47060523
+4000,4,5,625000,K Raheja Corp,41.0,25.0,Semi-Furnished,Mahalakshmi,Deepak Tejwani,Raheja Vivarea,47073555
+3800,4,5,650000,,25.0,4.0,Semi-Furnished,Bandra Kurla Complex,Ajay  Singh,,47088987
+4500,4,4,550000,K Raheja Corp,40.0,22.0,Semi-Furnished,Mahalakshmi,Mallesh  Shetty,Raheja Vivarea,47107365
+3100,4,4,540000,B Brothers,30.0,20.0,Semi-Furnished,Prabhadevi,Mallesh  Shetty,Bayview Terraces,47119829
+5000,4,4,600000,,22.0,6.0,Furnished,Carter Road,Mallesh  Shetty,,47126183
+6000,4,5,750000,,9.0,8.0,Furnished,Santacruz West,Tarik Mirza,Subhangan Apartment,47189701
+7500,4,6,800000,,8.0,4.0,Semi-Furnished,Juhu Beach Area,Kalpesh Varaiya,,47244567
+4080,4,5,620000,K Raheja Corp,60.0,30.0,Semi-Furnished,Mahalakshmi,lifescape property,Raheja Vivarea,47327947

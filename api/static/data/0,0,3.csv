@@ -1,0 +1,299 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+1275,3,2,25000,,,,Unfurnished,Mira Road,Ajay,,11400264
+1400,3,3,28000,,9.0,7.0,Unfurnished,Goregaon East,Suresh,,11860735
+1060,3,2,10000,,7.0,4.0,Furnished,Powai,Vinonap,,11934187
+800,3,1,15000,,,,Unfurnished,Sakinaka,Mamta Gautam,,13820523
+1000,3,3,35000,,7.0,6.0,Semi-Furnished,Kandivali East,Aankit Kumar Jain,,14487839
+1450,3,3,31000,Lokhandwala Constructions,26.0,6.0,Furnished,Lokhandwala Twp,Ketan Jaiswal,Sapphire Heights,18304438
+780,3,3,10000,,20.0,20.0,Furnished,Goregaon East,Y.D,,19057739
+800,3,2,24000,,3.0,1.0,Semi-Furnished,Mulund West,Arvind,,19893203
+1500,3,3,20000,,7.0,6.0,Unfurnished,,Kirti Dixit,,20571685
+1370,3,3,37000,Shethcorp Pvt. Ltd.,13.0,6.0,Semi-Furnished,Thakur Complex,Ketan Jaiswal,Sheth Clarion,20710128
+1250,3,3,13000,Rajhans Group,7.0,5.0,Unfurnished,Vasai,Ritesh Lanjewar,Rajhans Dreams,22719119
+1100,3,2,12000,,3.0,1.0,Semi-Furnished,Boisar West,Akbar Khan,,22863119
+1250,3,3,32500,Lokhandwala Group,22.0,14.0,Unfurnished,Lokhandwala Twp,Ketan Jaiswal,Fountain Heights,23247641
+1600,3,2,14000,,18.0,17.0,Unfurnished,Thane-Kalyan-Dombivli,Narsinha Kini,,23800875
+1400,3,3,37000,Lokhandwala Group,26.0,3.0,Furnished,Lokhandwala Twp,Ketan Jaiswal,Fountain Heights,24021085
+1065,3,3,27000,,7.0,5.0,Unfurnished,Lokhandwala Twp,Mukesh  Sharma,,25061601
+1400,3,3,37000,Grandeur Developer,23.0,14.0,Unfurnished,Datta Pada,Ketan Jaiswal,Grandeur Tower,25413487
+1750,3,3,32000,Lokhandwala Group,19.0,19.0,Semi-Furnished,Lokhandwala Twp,Vikesh  Vishwakarma,Fountain Heights,25799777
+1800,3,3,35000,Grandeur Developer,34.0,21.0,Semi-Furnished,Borivali East,Ketan Jaiswal,Grandeur Tower,26156885
+1050,3,2,15000,,3.0,0.0,Semi-Furnished,Navi Mumbai-Khargar-Panvel,CAPT ARUN INAMDAR,,26165733
+1250,3,2,32000,Lokhandwala Constructions,21.0,9.0,Semi-Furnished,Lokhandwala Twp,Vikesh  Vishwakarma,Sapphire Heights,26224973
+1325,3,3,35000,Kanakia Spaces Realty Pvt. Ltd.,29.0,1.0,Semi-Furnished,"Thakur Village, Kandivali East",Vikesh  Vishwakarma,Challenger Tower,26584459
+1560,3,3,32000,Lokhandwala Construction Industries Pvt Ltd,18.0,3.0,Semi-Furnished,Lokhandwala Twp,Vikesh  Vishwakarma,Sapphire Height,27088723
+1450,3,2,35500,,,,Semi-Furnished,Lokhandwala Twp,Ketan Jaiswal,,28619227
+1350,3,3,32000,Lokhandwala Construction Industries Pvt Ltd,21.0,21.0,Semi-Furnished,Lokhandwala Twp,Mukesh  Sharma,Whispering Palms,28739961
+1250,3,3,33500,Kanakia Spaces Realty Pvt. Ltd.,22.0,15.0,Unfurnished,Datta Pada,Ketan Jaiswal,Kanakia Samarpan Tower,29393981
+1250,3,3,37000,Kanakia Spaces Realty Pvt. Ltd.,20.0,6.0,Furnished,Magathane,Ketan Jaiswal,Kanakia Samarpan Tower,30209825
+1250,3,3,31500,Lokhandwala Constructions,19.0,14.0,Semi-Furnished,Lokhandwala Twp,Ketan Jaiswal,Sapphire Heights,30210015
+1350,3,3,35000,,22.0,15.0,Semi-Furnished,Dahisar East,Kuldeep,,30510941
+1750,3,3,35000,Lokhandwala Group,19.0,12.0,Semi-Furnished,Lokhandwala Twp,Vikesh  Vishwakarma,Fountain Heights,30725389
+1750,3,3,35000,Lokhandwala Construction Industries Pvt Ltd,18.0,10.0,Furnished,Lokhandwala Twp,Ketan Jaiswal,Sapphire Height,31112755
+1250,3,3,37000,Kanakia Spaces Realty Pvt. Ltd.,20.0,10.0,Furnished,Magathane,Ketan Jaiswal,Kanakia Samarpan Tower,31235575
+1150,3,3,33000,Kanakia Spaces Realty Pvt. Ltd.,24.0,5.0,Semi-Furnished,Magathane,Ketan Jaiswal,Kanakia Samarpan Tower,31514381
+1250,3,3,31000,Lokhandwala Constructions,24.0,13.0,Semi-Furnished,Lokhandwala Twp,Ketan Jaiswal,Sapphire Heights,32094831
+1220,3,3,35000,Lokhandwala Construction Industries Pvt Ltd,7.0,4.0,Furnished,Lokhandwala Twp,Vikesh  Vishwakarma,Lokhandwala Spring Leaf,33412845
+1250,3,3,35000,,8.0,7.0,Unfurnished,IC Colony,Yuvraj Salian,,34326161
+1400,3,3,17000,,7.0,3.0,Unfurnished,Vasai West,Sajith  Thomas,,34439865
+860,3,3,30000,,8.0,7.0,Semi-Furnished,Mulund West,Tennyson R,,35516517
+1200,3,3,18000,,,,Semi-Furnished,Vasai East,Sajith  Thomas,,35577791
+1350,3,3,35000,Lokhandwala Construction Industries Pvt Ltd,7.0,4.0,Unfurnished,Kandivali East,Mukesh  Sharma,Lokhandwala Highland,36675467
+1450,3,3,15000,,7.0,4.0,Semi-Furnished,Vasai West,Sajith  Thomas,,37025979
+1250,3,3,34000,,18.0,11.0,Unfurnished,Charkop Sector 8,Nidhi  Agarwal,,37058483
+1350,3,2,35000,Kamanwala Housing Construction Ltd.,19.0,5.0,Unfurnished,Malad West,Hemant Dewang,Kamanwala Manavsthal,37211799
+1400,3,3,27000,,12.0,9.0,Unfurnished,Mira Road,Santosh Dubey,,37585017
+1493,3,2,21000,,34.0,7.0,Unfurnished,Thane-Kalyan-Dombivli,Ajit Panda,,39857037
+1500,3,1,32000,,,,Furnished,Asha Nagar,Chunilal Mali,,40195387
+90,3,3,21000,,3.0,0.0,Semi-Furnished,Charkop Sector 8,jaswant jaswantbank,,40215205
+1300,3,3,22000,Strawberry Construction,12.0,3.0,Unfurnished,Mira Road,Robert Noronha,Sandstone,40525305
+1195,3,2,34000,Kamanwala Housing Construction Ltd.,19.0,16.0,Unfurnished,Malad West,john,Kamanwala Manavsthal,40882309
+1250,3,3,21000,,12.0,5.0,Unfurnished,Mira Road,Raaj,Pratik Samarpan,41015231
+1100,3,3,12000,Rustomjee,7.0,1.0,Unfurnished,Virar West,Sen Sales Team,Rustomjee Global City,41160229
+1100,3,2,17000,,8.0,4.0,Unfurnished,Thane-Kalyan-Dombivli,Altaf Ali,,41306727
+1150,3,3,21000,Arkade Group,14.0,8.0,Unfurnished,Mira Road,Robert Noronha,Arkade Art,41324979
+1250,3,2,33000,Kamanwala Housing Construction Ltd.,19.0,10.0,Unfurnished,Malad West,Shahid Manaf,Kamanwala Manavsthal,41373181
+1400,3,3,28500,SKD Realty LLP,22.0,22.0,Semi-Furnished,Mira Road,Raaj,Pinnacolo,41433225
+1200,3,2,19000,,7.0,4.0,Unfurnished,Mira Road,Amit Shah,Asha Deep Bulding,41458005
+1050,3,3,35000,Prem Group,,,Semi-Furnished,Mulund East,Vishal Ujjainkar,Prem Bhavini Enclave,41721299
+1250,3,2,34000,Lokhandwala Construction Industries Pvt Ltd,21.0,12.0,Semi-Furnished,Lokhandwala Twp,Ajit Maurya Shrivastava,Sapphire Height,41947331
+830,3,3,29000,,21.0,9.0,Semi-Furnished,Thane,Sridhar Venkatraman,,42063259
+1070,3,2,20000,,3.0,3.0,Furnished,Vasai,Poonam,,42167977
+1170,3,2,25000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,20.0,6.0,Unfurnished,Bhayandar East,Sahil  Mehta,Samriddhi,42202981
+1150,3,2,32000,Lokhandwala Group,20.0,16.0,Semi-Furnished,Lokhandwala Twp,Ajit Maurya Shrivastava,Fountain Heights,42215833
+1100,3,2,34000,Kamanwala Housing Construction Ltd.,19.0,15.0,Unfurnished,Malad West,Zeeshan,Kamanwala Manavsthal,42504949
+1150,3,3,23000,Cooperative Group Housing Society,7.0,3.0,Unfurnished,Mira Road,Vinod Dodia,Avishkar Garden CHS,42512247
+1350,3,2,30000,Mahadev & Company Pvt Ltd,22.0,8.0,Unfurnished,Bhandup West,Ravinder  Lohat,Samarth Garden,42557989
+1350,3,3,36000,,,,Semi-Furnished,Lokhandwala Twp,Mukesh  Sharma,,42746015
+1625,3,3,25000,Abhijit Realtors and Infraventures Pvt. Ltd.,8.0,2.0,Furnished,Manish Nagar,priya singh,Jayanti Nagari III,42824883
+1350,3,3,35000,,,,Semi-Furnished,Kandivali East,Pankaj Asija,,42847123
+1350,3,3,36000,Lokhandwala Construction Industries Pvt Ltd,18.0,10.0,Furnished,Lokhandwala Twp,Mukesh  Sharma,Lokhandwala Highland,42887147
+1250,3,2,33500,Kamanwala Housing Construction Ltd.,19.0,15.0,Unfurnished,Malad West,Shahid Manaf,Kamanwala Manavsthal,42992683
+1050,3,2,35000,Kamanwala Housing Construction Ltd.,19.0,14.0,Unfurnished,Malad West,Zeeshan,Kamanwala Manavsthal,43031851
+1080,3,3,34000,Lokhandwala Construction Industries Pvt Ltd,7.0,3.0,Furnished,Lokhandwala Twp,Pankaj Asija,Lokhandwala Spring Leaf,43062783
+-2147483648,3,3,15000,,15.0,6.0,Semi-Furnished,Kalyan,Arunesh  Pandey,Punyodaya Park,43171031
+1321,3,3,25000,Salangpur Nirmaan,14.0,8.0,Unfurnished,Beverly Park,Jayakar,Salasar Aangan,43602109
+1250,3,2,36000,,12.0,8.0,Unfurnished,Dhanukar Wadi,Vinay Agrawal,Dahanukarwadi,43617093
+1350,3,3,32000,Cooperative Group Housing Society,7.0,4.0,Semi-Furnished,Dattani Park,Karan Pandey,Shiv Surbhi CHS,43667897
+1400,3,3,35000,Lokhandwala Construction Industries Pvt Ltd,16.0,8.0,Semi-Furnished,Lokhandwala Twp,Pankaj  Dubey,Lokhandwala Highland,43776081
+1000,3,3,30000,,3.0,0.0,Furnished,Khar West,Jamila Daredia,,43827533
+1250,3,3,35000,,14.0,6.0,Unfurnished,Lokhandwala Twp,Sajith  Thomas,,43865961
+1500,3,3,35000,Shree Developers,18.0,6.0,Semi-Furnished,Charkop,Prabhat,Platinum Tower,44493107
+1150,3,2,36000,,22.0,4.0,Unfurnished,Rajendra Nagar,Mahinder  Singh,Rustomjee Pinnacle,44570261
+1250,3,2,37500,Lokhandwala Constructions,26.0,4.0,Furnished,Lokhandwala Twp,Raju Singh,Sapphire Heights,44634543
+1250,3,2,36000,,,,Semi-Furnished,Lokhandwala Twp,Bipin Asija,,44637093
+1050,3,2,33000,Integrated Spaces Limited ,17.0,8.0,Semi-Furnished,Mulund West,Manoj,Integrated Kamal,44659485
+-2147483648,3,3,25000,Evershine Builders,20.0,17.0,Furnished,Andheri West,Amit Sharma,Evershine Cosmic,44691303
+1255,3,2,32000,Lokhandwala Construction Industries Pvt Ltd,,,Semi-Furnished,Kandivali East,Bipin Asija,Sapphire Height,44704673
+1110,3,2,36000,,22.0,5.0,Unfurnished,Rajendra Nagar,Mahinder  Singh,Rustomjee Pinnacle,44759035
+1250,3,3,32000,,22.0,21.0,Unfurnished,Dahisar East,Vitthal,,44780961
+1050,3,2,34000,Integrated Spaces Limited ,18.0,10.0,Semi-Furnished,Mulund West,Riyaz  Khan,Integrated Kamal,44844003
+1100,3,2,30000,,7.0,5.0,Unfurnished,IC Colony,Yuvraj Salian,,44915225
+800,3,2,11000,,8.0,2.0,Semi-Furnished,Safed Pul,Akki Arora,,44932341
+1100,3,2,33000,Kamanwala Housing Construction Ltd.,19.0,6.0,Unfurnished,Malad West,Zeeshan,Kamanwala Manavsthal,45115765
+1050,3,2,36000,,22.0,8.0,Unfurnished,Rajendra Nagar,Mahinder  Singh,Rustomjee Pinnacle,45161401
+1150,3,3,26000,Royal Palms,20.0,13.0,Unfurnished,Aarey Milk Colony,Farhan,Royal Palms Diamond Isle Phase II,45215823
+1335,3,3,24000,,15.0,8.0,Unfurnished,Mira Road,Manoj  Dwivedi,,45218453
+1350,3,3,35000,,7.0,3.0,Unfurnished,Thakur Complex,Visambhar Mishra,Om Vastu,45251147
+1350,3,3,25000,Poonam Estate,18.0,10.0,Unfurnished,Mira Road,Jayakar,Cluster 3,45337041
+1050,3,3,36000,Integrated Spaces Limited ,23.0,10.0,Semi-Furnished,Mulund West,Ganesh  Pardeshi,Integrated Kamal,45342249
+1150,3,3,24000,Royal Palms,13.0,3.0,Semi-Furnished,Aarey Milk Colony,Farhan,Royal Palms Diamond Isle Phase II,45436147
+1495,3,3,23000,,35.0,2.0,Furnished,,Renu Bala Dhar,,45451451
+-2147483648,3,3,20000,,7.0,7.0,Unfurnished,Mira Road,Asit Shah,,45452179
+1430,3,3,37000,Acme Group,,,Unfurnished,Kandivali East,Bipin Asija,Acme Oasis,45484489
+1110,3,3,36000,Evershine Builders,7.0,1.0,Unfurnished,"Thakur Village, Kandivali East",Manoj Tiwari,Evershine Millenium Paradise,45484985
+950,3,2,33000,Integrated Spaces Limited ,17.0,8.0,Unfurnished,Mulund West,Karan  Sehgal,Integrated Kamal,45531469
+1250,3,3,25000,Leena Group,15.0,6.0,Unfurnished,Unique Garden,Vishal Kamble,Bhairav Residency,45534851
+1400,3,2,25000,Shree Laxmi Developers,14.0,14.0,Furnished,Vinay Nagar,Pramod  Shukla,Balaji Hill View,45595859
+1550,3,3,33000,Acme Group,20.0,18.0,Semi-Furnished,Lokhandwala Twp,Ketan Jaiswal,Acme Oasis,45602791
+1015,3,2,34000,Acme Group,36.0,-1.0,Semi-Furnished,Alika Nagar,Chandrahas  Mishra,Acme Oasis,45624669
+1300,3,2,35000,Acme Group,36.0,-1.0,Semi-Furnished,Alika Nagar,Chandrahas  Mishra,Acme Oasis,45624709
+789,3,3,25000,Royal Palms,18.0,3.0,Unfurnished,Aarey Milk Colony,Rajani rajput,Royal Palms Diamond Isle Phase II,45644401
+1000,3,2,30000,,4.0,0.0,Unfurnished,Sardar Nagar No 4,Bobby,,45710433
+1340,3,3,37000,Grandeur Developer,,,Semi-Furnished,Borivali East,Rohit  Mishra,Grandeur Tower,45734801
+1650,3,3,23000,,14.0,5.0,Semi-Furnished,Bhayandar West,Tejas Shah,Sai Samarpan,45793485
+1000,3,1,17500,,4.0,3.0,Semi-Furnished,Mira Road,R k Sinha,,45814205
+1430,3,3,34000,,,,Unfurnished,Lokhandwala Twp,Ricky  Asija,,45822009
+1060,3,3,21000,Arkade Group,14.0,4.0,Unfurnished,Vinay Nagar,Amit V,Arkade Art,45829057
+1350,3,3,35000,Prerana Housing & Developers,7.0,3.0,Unfurnished,Kandivali West,Shivam Nanda,Siddhi Appartment,45835367
+1250,3,2,35000,Kamanwala Housing Construction Ltd.,,,Unfurnished,Malad West,Shahid Manaf,Kamanwala Manavsthal,45854201
+1250,3,2,37000,Integrated Spaces Limited ,17.0,10.0,Semi-Furnished,Mulund West,Vidyut Dhumal,Integrated Kamal,45914847
+1250,3,3,22000,Rashmi Realty Builders Pvt. Ltd,7.0,7.0,Semi-Furnished,Mira Road,Asit Shah,Rashmi Pride B,45952993
+1200,3,2,36000,,7.0,2.0,Unfurnished,Chakala,Rahul,,45955123
+1250,3,2,37000,,7.0,7.0,Unfurnished,Chakala,Rahul,,45955389
+1160,3,2,35000,,12.0,11.0,Unfurnished,LIC Housing Colony,Amol  Sathe,Mangal Deep,45960789
+1650,3,3,37000,Benzer Group,25.0,15.0,Unfurnished,Thakur Complex,Sanjiv  Mishra,Benzer Tower,45999187
+1800,3,3,35000,,10.0,8.0,Semi-Furnished,Mulund West,Mahesh  Thakkar,Redwood Apartments,46030481
+700,3,2,16500,,7.0,5.0,Semi-Furnished,Malad West,Annu,,46037395
+1250,3,3,22000,Kinjal Group,12.0,5.0,Unfurnished,Unique Garden,Amit V,La Gardenia,46040139
+1200,3,2,36000,Acme Group,36.0,17.0,Unfurnished,Lokhandwala Twp,Vinod Singh,Acme Oasis,46043493
+1020,3,2,23000,,2.0,2.0,Semi-Furnished,Sheetal Nagar,Pramod  Shukla,,46048315
+968,3,2,35000,,3.0,3.0,Semi-Furnished,Borivali West,George Chandy,,46053013
+1200,3,3,37000,,,,Unfurnished,Jankalyan Nagar,Hitesh Mali,,46062393
+1430,3,3,30000,Acme Group,33.0,11.0,Unfurnished,Lokhandwala Twp,Sanjiv  Mishra,Acme Oasis,46069325
+1289,3,2,35000,Acme Group,38.0,14.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,46072169
+1250,3,3,33000,Evershine Builders,8.0,1.0,Unfurnished,"Thakur Village, Kandivali East",Sampat Pandey,Evershine Millenium Paradise,46078937
+1365,3,2,20000,Hubtown Limited,16.0,11.0,Unfurnished,Mira Road,Monu Gupta,Hubtown Redwood and Rosewood,46086155
+1100,3,3,25000,Royal Palms,20.0,13.0,Unfurnished,Aarey Milk Colony,Hussain  Shaikh,Royal Palms Ruby Isle Apartment,46095949
+1240,3,3,26000,Strawberry Construction,14.0,6.0,Unfurnished,Mira Road,Amit V,Sandstone,46110257
+1205,3,2,34000,Kanakia Spaces Realty Pvt. Ltd.,11.0,-1.0,Semi-Furnished,Borivali East,Chandrahas  Mishra,Kanakia Samarpan Tower,46112817
+1350,3,3,24000,Unique Shanti Developers LLP,12.0,9.0,Unfurnished,Poonam Gardens,Amit V,Serenity Sapphire,46153117
+1350,3,2,35000,Acme Group,35.0,13.0,Unfurnished,Lokhandwala Twp,Mahinder  Singh,Acme Oasis,46158861
+1002,3,3,35000,Integrated Spaces Limited ,25.0,10.0,Unfurnished,Mulund West,Deepak  Nagar,Integrated Kamal,46162769
+1400,3,3,34000,,10.0,5.0,Unfurnished,Thakur Complex,Manoj  Dubey,Thakur Complex,46163793
+1150,3,3,18000,M Baria Developers,14.0,7.0,Unfurnished,Tirupati Nagar,Santosh  Kshirsagar,Twin Tower,46184283
+1430,3,2,35000,Acme Group,36.0,14.0,Unfurnished,Kandivali East,Pankaj Asija,Acme Oasis,46184485
+1325,3,3,37000,Kanakia Spaces Realty Pvt. Ltd.,28.0,7.0,Unfurnished,"Thakur Village, Kandivali East",Rajiv Mishra,Kanakia Challengers,46214327
+1000,3,3,25000,Royal Palms,20.0,13.0,Unfurnished,Goregaon East,Hussain  Shaikh,Royal Palms Diamond Isle Phase I,46217349
+1015,3,3,36000,Shethcorp Pvt. Ltd.,15.0,4.0,Unfurnished,Thakur Complex,Sampat Pandey,Sheth Clarion,46235267
+1100,3,2,35000,,7.0,3.0,Semi-Furnished,Charkop Sector 1,Pradip Lotekar,,46247091
+1350,3,3,35000,Evershine Builders,7.0,4.0,Unfurnished,Kandivali East,Visambhar Mishra,Evershine Millenium Paradise,46257933
+1300,3,2,4000,,22.0,8.0,Semi-Furnished,Mulund West,ayush,,46259021
+1600,3,3,37000,Benzer Group,24.0,15.0,Unfurnished,Thakur Complex,Visambhar Mishra,Benzer Tower,46261757
+1250,3,2,35000,,20.0,8.0,Unfurnished,Rajendra Nagar,Prashant Vithalani,,46268965
+1240,3,3,26000,Strawberry Construction,14.0,12.0,Furnished,Mira Road,Arif Halari,Sandstone,46274483
+1289,3,2,35000,Acme Group,38.0,14.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,46304539
+1296,3,3,32000,A Shapoorji Pallonji,33.0,27.0,Unfurnished,"Thakur Village, Kandivali East",Vinod Singh,Sarova Epsilon,46311065
+1150,3,3,35000,,7.0,1.0,Furnished,Thakur Complex,Jogendra  Singh,Gokul Tower,46318075
+1137,3,3,34000,,,,Semi-Furnished,Lokhandwala Twp,Ricky  Asija,,46318799
+1450,3,2,35000,Acme Group,35.0,18.0,Unfurnished,Lokhandwala Twp,Mahinder  Singh,Acme Oasis,46319757
+1000,3,3,30000,,7.0,4.0,Unfurnished,Bhayandar West,Tejas Shah,,46325903
+1082,3,3,25000,Royal Palms,20.0,11.0,Unfurnished,Aarey Milk Colony,Sanjay  Yadav,Royal Palms Diamond Isle Phase I,46332607
+1170,3,2,24000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,21.0,10.0,Unfurnished,Bhayandar East,Ashok  Parte,Samriddhi,46361593
+1450,3,2,33000,Kanakia Spaces Realty Pvt. Ltd.,21.0,5.0,Unfurnished,Datta Pada,Mehul Suchak,Kanakia Samarpan Tower,46366109
+720,3,3,35000,Sethia Group,,,Unfurnished,Malad West,Saurabh Patil,Raj Shivganga,46388091
+1050,3,2,35000,,5.0,2.0,Semi-Furnished,Chakala,Rahul,,46394421
+1289,3,2,35000,Acme Group,38.0,1.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,46398633
+900,3,2,27000,The Wadhwa Group,,,Unfurnished,Mulund West,Rajesh  Pillai,The Nest,46436029
+1245,3,3,34000,Acme Group,38.0,12.0,Unfurnished,Lokhandwala Twp,Ricky  Asija,Acme Oasis,46447843
+1050,3,3,30000,Lokhandwala Construction Industries Pvt Ltd,7.0,3.0,Unfurnished,Lokhandwala Twp,Manoj Yadav  Yadav,Lokhandwala Highland,46449447
+1450,3,2,33000,Kanakia Spaces Realty Pvt. Ltd.,21.0,5.0,Unfurnished,Datta Pada,Mehul Suchak,Kanakia Samarpan Tower,46455919
+1500,3,3,30000,,22.0,5.0,Unfurnished,Goregaon East,anandraj,,46466711
+1450,3,2,25000,Jainam Developers,15.0,6.0,Semi-Furnished,Bhayandar East,Vicky  Lakum,Sonam Srivilas Golden Nest Phase XV,46479261
+1600,3,3,37000,,36.0,9.0,Unfurnished,Lokhandwala Twp,Kundan  Singh,,46484133
+1250,3,3,25000,Strawberry Construction,14.0,6.0,Semi-Furnished,Mira Road,Chirag  Shah,Sandstone,46492047
+1170,3,2,35000,Lodha Group,16.0,10.0,Furnished,Dahisar East,Ashok  Parte,Lodha Casa Essenza,46499667
+1450,3,2,36000,Kanakia Spaces Realty Pvt. Ltd.,30.0,5.0,Unfurnished,"Thakur Village, Kandivali East",Sanjiv  Mishra,Kanakia Challengers,46529373
+1250,3,3,25000,Friends Associates,14.0,12.0,Unfurnished,Beverly Park,Pramod  Shukla,Vasudev Planet,46538909
+1500,3,3,32000,Bhoomi Group,11.0,8.0,Semi-Furnished,"Thakur Village, Kandivali East",Ketan Jaiswal,Bhoomi Valley,46541713
+1050,3,2,35000,Integrated Spaces Limited ,18.0,10.0,Semi-Furnished,Mulund West,Riyaz  Khan,Integrated Kamal,46544129
+1200,3,3,30000,,22.0,5.0,Semi-Furnished,Goregaon East,anandraj,,46547727
+1150,3,2,35000,Ahuja Constructions,9.0,2.0,Semi-Furnished,Charkop Sector 3,Pradip Lotekar,Astor Palace,46547803
+1161,3,2,15000,,18.0,12.0,Unfurnished,Thane-Kalyan-Dombivli,Rakhi,,46556825
+900,3,2,21000,,5.0,3.0,Unfurnished,Royal Palms Estate,Amit  Singh,,46560415
+1550,3,3,37000,Grandeur Developer,25.0,9.0,Semi-Furnished,Magathane,Ketan Jaiswal,Grandeur Tower,46566297
+1700,3,3,24000,,7.0,2.0,Unfurnished,Andheri West,Vikash,,46579233
+1290,3,2,29000,Delta Realty,19.0,11.0,Unfurnished,Mira Road,Amit V,Delta Vrindavan,46591643
+1100,3,2,16000,,18.0,15.0,Unfurnished,Thane-Kalyan-Dombivli,Suresh Kumar Fotedar,,46592159
+1350,3,3,35000,,7.0,4.0,Furnished,Daulat Nagar,Rizwan Kalsekar,,46595055
+-2147483648,3,3,10000,GHP Corporation,25.0,12.0,Unfurnished,Powai,Ajay,Suncity Complex,46603637
+1350,3,2,34000,Acme Group,36.0,18.0,Unfurnished,Lokhandwala Twp,Mahinder  Singh,Acme Oasis,46619807
+1400,3,3,26000,Unique Shanti Developers LLP,19.0,10.0,Unfurnished,Mira Road,Rahul,Poonam Estate Cluster 3,46621019
+1350,3,3,23500,Strawberry Construction,12.0,4.0,Unfurnished,Unique Garden,Amit V,Sandstone,46629423
+1289,3,2,35000,Acme Group,38.0,1.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,46631345
+1100,3,2,35000,S D CORPORATION PVT. LTD.,33.0,27.0,Unfurnished,"Thakur Village, Kandivali East",Vinod Singh,Shapoorji Pallanji Alphine,46634547
+1250,3,3,21000,Chheda Group,15.0,10.0,Unfurnished,Bhayandar East,Vishal Kamble,Rameshwar Tower,46635273
+1200,3,3,37000,Romell Group,22.0,10.0,Unfurnished,Borivali West,Akshay  Borle,Romell Empress,46636589
+1300,3,3,15000,,6.0,2.0,Unfurnished,Malad West,vigneshuuar,,46650777
+1170,3,2,35000,Lodha Group,16.0,8.0,Semi-Furnished,Dahisar East,Ashok  Parte,Lodha Casa Essenza,46654127
+1380,3,1,36000,,4.0,4.0,Furnished,Goregaon East,Sudhir Tambe,,46662097
+1200,3,3,37000,Grandeur Developer,33.0,9.0,Unfurnished,Magathane,Prashant Vithalani,Grandeur Tower,46664755
+1200,3,2,36000,,22.0,8.0,Unfurnished,Rajendra Nagar,Mahinder  Singh,Rustomjee Pinnacle,46666449
+575,3,2,15000,,5.0,5.0,Furnished,Vile Parle East,Varsha,,46672015
+1350,3,3,30000,,29.0,25.0,Unfurnished,Ramdev Park,Jayakar,,46675699
+1100,3,2,19900,Lucky Homes,10.0,1.0,Unfurnished,Poonam Gardens,Amit V,Happy Home Heights,46677043
+1250,3,2,37000,Kanakia Spaces Realty Pvt. Ltd.,14.0,12.0,Furnished,Magathane,Prashant Vithalani,Kanakia Samarpan Tower,46681203
+1500,3,3,32000,Acme Group,28.0,11.0,Semi-Furnished,Lokhandwala Twp,Ketan Jaiswal,Acme Oasis,46693465
+1100,3,3,35000,Atul Corporates,18.0,11.0,Semi-Furnished,Rajendra Nagar,Shrinivas Reddy,Ratna Mohan Triveni CHS,46698593
+1065,3,3,30000,,,,Unfurnished,Lokhandwala Twp,Bipin Asija,,46705831
+1500,3,3,22000,,6.0,1.0,Semi-Furnished,Virar West,Dilip  Gupta,,46706383
+1200,3,3,19000,Evershine Builders,8.0,8.0,Unfurnished,Mira Road,Sanjay,Evershine Woods,46707255
+1390,3,3,25000,Leena Group,14.0,3.0,Unfurnished,Mira Road,Dinesh  Rayran,Bhairav Residency,46716789
+1341,3,3,27000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,22.0,2.0,Unfurnished,Bhayandar East,Dinesh  Rayran,Samriddhi,46716971
+1341,3,3,27000,JP Infra,23.0,12.0,Unfurnished,Mira Road,Dinesh  Rayran,JP North Estella,46716987
+-2147483648,3,3,30000,,22.0,5.0,Semi-Furnished,Goregaon East,anandraj,Royal Palms,46723147
+1230,3,3,14700,M R Realtors,23.0,10.0,Semi-Furnished,Goregaon West,Durgesh,Galaxy Royale,46730943
+1060,3,2,22000,Arkade Group,15.0,9.0,Unfurnished,Vinay Nagar,Ashok Sharma,Arkade Art,46745145
+1000,3,3,28000,,20.0,13.0,Unfurnished,Royal Palms Estate,AFSAR AFSAR ALI SAYYED,,46748233
+1080,3,3,30000,Royal Palms,17.0,6.0,Unfurnished,Goregaon East,rajesh nadar,Summit Apartment,46756353
+-2147483648,3,3,20000,,3.0,0.0,Semi-Furnished,Altamount Road,Sagar Dewan,,46777437
+1400,3,3,27000,SKD Realty LLP,24.0,10.0,Semi-Furnished,Beverly Park,Sanjay Singh Thakur,Pinnacolo,46781889
+1350,3,2,34000,Acme Group,36.0,14.0,Unfurnished,Lokhandwala Twp,Mahinder  Singh,Acme Oasis,46788375
+520,3,2,5000,,6.0,3.0,Furnished,Ghatkopar West,Bhagyashree,,46792583
+1000,3,2,32000,,4.0,0.0,Unfurnished,GTB Nagar,Bobby,,46792803
+1100,3,2,36000,Neptune Group,22.0,18.0,Semi-Furnished,Bhandup West,Santosh Bhandari,Neptune Complex,46807331
+1200,3,2,30000,,4.0,2.0,Semi-Furnished,Evershine Nagar,satish dalal,,46821275
+1255,3,2,36000,,,,Unfurnished,Lokhandwala Twp,Bipin Asija,,46826339
+1250,3,2,30000,Delta Realty,20.0,11.0,Unfurnished,Mira Road,Mudassir,Delta Vrindavan,46854563
+700,3,2,13000,,4.0,2.0,Unfurnished,Mira Road,Jimisha  Seth,,46863901
+1400,3,2,25000,Shree Laxmi Developers,14.0,14.0,Furnished,Vinay Nagar,Pramod  Shukla,Balaji Hill View,46876547
+980,3,3,37000,,15.0,5.0,Unfurnished,Thakur Complex,Manoj  Dubey,Thakur Complex,46915315
+1450,3,3,27000,JP Infra,23.0,15.0,Unfurnished,Mira Road,Saurabh  Patel,JP North Estella,46931887
+1000,3,2,18000,,4.0,3.0,Unfurnished,Mira Road,Pramod  Shukla,,46947977
+1092,3,3,28000,Royal Palms,20.0,10.0,Unfurnished,Aarey Milk Colony,Sanjay  Yadav,Summit Apartment,46971295
+1100,3,3,27000,,4.0,4.0,Semi-Furnished,Sarvodaya Nagar,Om  Agrawal,,46971667
+1100,3,2,35000,,21.0,11.0,Unfurnished,Datta Pada,Prashant Vithalani,Rustomjee Pinnacle,46975763
+1050,3,3,37000,Shethcorp Pvt. Ltd.,15.0,7.0,Unfurnished,Asha Nagar,Sampat Pandey,Sheth Clarion,46978135
+1400,3,3,35000,,7.0,3.0,Furnished,Kandivali East,Dwarkadas  Jogeshwar,,47006379
+-2147483648,3,3,37000,,12.0,6.0,Furnished,Thane,Ritesh Mehta,,47006639
+920,3,3,12000,,4.0,3.0,Unfurnished,Naigaon East,Sukhdeep Chawla,,47016197
+1568,3,3,13333,,3.0,3.0,Furnished,Wadala West,Anish Dwivedi,,47022177
+1341,3,3,25000,JP Infra,23.0,7.0,Unfurnished,Mira Road,Mangilal  Purohit,JP North,47032331
+1341,3,3,27000,JP Infra,23.0,21.0,Semi-Furnished,Mira Road,Mangilal  Purohit,JP North,47032375
+1100,3,1,20000,,5.0,5.0,Furnished,Mumbai Central,Bhavna Suresh Shah,,47047857
+1265,3,3,36000,,,,Unfurnished,Malad West,Hitesh Mali,,47052555
+950,3,3,25000,,20.0,13.0,Unfurnished,Goregaon East,Hussain  Shaikh,Royal Palms,47056955
+1255,3,2,33000,,,,Semi-Furnished,Lokhandwala Twp,Ricky  Asija,,47066321
+1050,3,3,13000,,,,Semi-Furnished,Vasai East,Santosh  Yadav,,47069021
+937,3,3,30000,,20.0,16.0,Furnished,Royal Palms Estate,Saeed  Patel,,47069509
+1341,3,3,28000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,20.0,18.0,Semi-Furnished,Bhayandar East,Anand  Tiwari,Samriddhi,47069565
+1400,3,2,28000,Kalpataru Limited,14.0,6.0,Unfurnished,Mira Road,Seema  Luthra,Kalpataru Srishti,47070765
+1400,3,4,23000,,12.0,6.0,Semi-Furnished,Mira Road,Seema  Luthra,,47071299
+1400,3,3,25000,PNK Builder,7.0,4.0,Unfurnished,Mira Road,Seema  Luthra,Poonam Sagar Complex,47071793
+1050,3,2,31000,Right Channel Construction Pvt. Ltd.,21.0,14.0,Unfurnished,Borivali East,Prashant Vithalani,Vrindavan,47073197
+1422,3,3,35000,Acme Group,38.0,25.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,47073619
+1250,3,2,25000,,7.0,6.0,Semi-Furnished,Vasai West,Sanju Rajpurohit,,47075793
+1250,3,2,25000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,20.0,3.0,Unfurnished,Bhayandar East,Seema  Luthra,Samriddhi,47082589
+1400,3,2,26000,Kalpataru Limited,13.0,4.0,Unfurnished,Mira Road,Seema  Luthra,Kalpataru Srishti,47082681
+1040,3,3,24000,,15.0,12.0,Furnished,Mira Road,Sunitha,,47082899
+-2147483648,3,3,30000,,23.0,10.0,Semi-Furnished,Mulund East,Amit  Shah,,47088467
+1100,3,2,35000,,22.0,5.0,Unfurnished,Magathane,Mahinder  Singh,Rustomjee Pinnacle,47095065
+1500,3,3,36000,Grandeur Developer,34.0,17.0,Unfurnished,Magathane,Prashant Vithalani,Grandeur Tower,47098029
+2000,3,3,13000,,20.0,12.0,Furnished,Goregaon East,Nikhil Anand,Royal Palms,47106329
+1075,3,2,18000,,7.0,6.0,Unfurnished,Mira Road,Narayana,Raj Mandir Complex,47109195
+735,3,3,12000,,7.0,1.0,Unfurnished,Virar West,aditya sare,,47110545
+1422,3,3,35000,Acme Group,38.0,14.0,Semi-Furnished,Kandivali East,Azuro,Acme Oasis,47110825
+1365,3,3,22000,RNA NG Builders,14.0,10.0,Unfurnished,Ramdev Park,Amit V,NG Silver Spring,47111555
+1000,3,2,14600,Brindavan Builders,6.0,5.0,Unfurnished,Malad West,Surbhi,Brindavan,47124023
+-2147483648,3,2,36000,Kalpataru Limited,27.0,12.0,Semi-Furnished,Mulund East,Amitabh Agarwal,Kamdhenu,47130891
+1000,3,3,17500,,4.0,3.0,Unfurnished,Mira Road,Richit  Saini,,47132473
+1040,3,3,25000,,15.0,10.0,Furnished,Unique Garden,Vishal Kamble,,47135629
+1250,3,2,34000,,23.0,10.0,Unfurnished,Datta Pada,Prashant Vithalani,Rustomjee Pinnacle,47135681
+1300,3,3,36000,,,,Furnished,Kandivali West,Rajan Sarawagi,,47159537
+1195,3,2,32000,Kamanwala Housing Construction Ltd.,19.0,19.0,Unfurnished,Malad West,Kunal Jogeshwar,Kamanwala Manavsthal,47159685
+1325,3,3,35000,Kanakia Spaces Realty Pvt. Ltd.,27.0,1.0,Unfurnished,Kandivali East,Dhaval  Harmani,Challenger Tower,47160927
+1100,3,2,36000,Neptune Group,22.0,18.0,Semi-Furnished,Bhandup West,Santosh,Neptune Living Point,47166005
+1380,3,2,28000,SKD Realty LLP,22.0,13.0,Unfurnished,Mira Road,Ashok  Parte,Pinnacolo,47168489
+1200,3,3,15000,Shiv Shakti Corporation,12.0,5.0,Semi-Furnished,Vasai East,Vijay  Giri,Yashwant Empire,47170623
+1240,3,3,27000,,29.0,15.0,Unfurnished,Thane,Shashikant,,47186145
+1427,3,3,20000,Godrej Properties,11.0,7.0,Furnished,Chembur,Mathivathan,Godrej Central,47201377
+1150,3,2,35000,,23.0,16.0,Unfurnished,Datta Pada,Prashant Vithalani,Rustomjee Pinnacle,47206347
+900,3,3,24000,,20.0,12.0,Unfurnished,Royal Palms Estate,Hussain  Shaikh,,47208049
+-2147483648,3,4,11000,Evershine Builders,3.0,1.0,Unfurnished,Vasai,Abhijeet,Evershine City,47209535
+1600,3,3,23000,,6.0,2.0,Furnished,Millat Nagar,Vikas,,47213377
+1000,3,2,14000,,4.0,1.0,Furnished,Mahim West,Pratibha,,47219287
+1450,3,3,27000,JP Infra,23.0,10.0,Unfurnished,Mira Road,Kunal  Kaushal,JP North Estella,47225521
+1300,3,3,36000,Shree Developers,16.0,4.0,Furnished,Charkop Sector 8,Pradip Lotekar,Platinum Tower,47227605
+1236,3,2,12500,,4.0,0.0,Semi-Furnished,Virar West,Sujeet Jha,,47230199
+1350,3,2,36000,,22.0,12.0,Semi-Furnished,Magathane,Mahinder  Singh,Rustomjee Pinnacle,47234083
+1250,3,2,37000,Lokhandwala Constructions,28.0,18.0,Unfurnished,Lokhandwala Twp,Manoj Yadav  Yadav,Sapphire Heights,47237763
+1050,3,3,27000,Gujarat Group Builders & Developers and A.G. Superstructures Pvt. Ltd.,20.0,12.0,Unfurnished,Bhayandar East,Kunal  Kaushal,Samriddhi,47248223
+1150,3,2,35000,,23.0,10.0,Unfurnished,Datta Pada,Prashant Vithalani,Rustomjee Pinnacle,47260975
+1485,3,3,36000,Shethcorp Pvt. Ltd.,14.0,10.0,Semi-Furnished,Thakur Complex,Amar Jaiswal,Dheeraj Hill View Tower,47269125
+1225,3,3,23000,Unique Shanti Developers LLP,12.0,8.0,Unfurnished,Mira Road,Manoj Kohli,Swayam Apartment,47276127
+1400,3,3,27000,Shree Laxmi Developers,14.0,14.0,Furnished,Vinay Nagar,Pramod  Shukla,Balaji Hill View,47279517
+1150,3,3,36000,Rustomjee,20.0,7.0,Furnished,Charkop Village,Shobna  Karki,Rustomjee Meridian,47291789
+1100,3,3,35000,,7.0,2.0,Semi-Furnished,Mandapeshwar,Dharmesh Lakkad,,47299925
+1035,3,2,8000,,3.0,3.0,Unfurnished,Bolinj,Vishwanath  Choudhary,,47315699
+1400,3,3,22000,,25.0,9.0,Unfurnished,Beverly Park,Pramod  Shukla,Ravi Gaurav Woods Phase II,47333881
+1250,3,3,21000,,8.0,5.0,Unfurnished,Mira Bhayandar,Rajendra  Upadhyay,,47334781

@@ -1,0 +1,180 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+2144,3,4,400000,Kalpataru Limited,40.0,24.0,Furnished,Worli,Amar Jadhav,Kalpataru Horizon,11444454
+4000,3,3,450000,,6.0,3.0,Furnished,Walkeshwar,Vilas,,11935865
+2500,3,3,380000,Godrej Properties,22.0,16.0,Unfurnished,Worli Sea Face,Vijay,Godrej Bayview,17208199
+2600,3,3,350000,,42.0,28.0,Furnished,Breach Candy,Ajay  Kapur,,17678070
+3300,3,3,350000,Lodha Group,30.0,19.0,Semi-Furnished,Lower Parel,Vijay,World Crest,23306817
+2550,3,3,450000,SD Corporation Private Limited,60.0,17.0,Semi-Furnished,Tardeo,Ajmera,The Imperial,23849513
+2500,3,3,450000,,15.0,11.0,Furnished,Napean Sea Road,Ajay  Kapur,,27776409
+2500,3,4,400000,,12.0,3.0,Furnished,Carter Road,Mangesh Parab,,27866371
+2141,3,3,425000,,8.0,3.0,,Malabar Hill,Arun  Barot,,27959617
+2000,3,4,350000,,15.0,3.0,Furnished,Bandra West,Tarik Mirza,,28341983
+2400,3,4,400000,Lodha Group,60.0,30.0,Furnished,Lower Parel,Irshad,World Crest,28572945
+3000,3,4,400000,K Raheja Corp,41.0,27.0,Unfurnished,Mahalakshmi,Vikram Garud,Raheja Vivarea,29636971
+2800,3,3,400000,,30.0,19.0,Semi-Furnished,Mahalakshmi,Ajay  Kapur,,29668179
+2800,3,3,450000,,37.0,21.0,Semi-Furnished,Mahalakshmi,Ajay  Kapur,,29668309
+3500,3,4,400000,,7.0,7.0,Semi-Furnished,Bandra West,Mangesh Parab,,30476089
+2800,3,5,375000,,12.0,10.0,Furnished,Khar West,Mangesh Parab,,30499835
+2500,3,4,350000,,8.0,5.0,Furnished,Waterfield Road,Mangesh Parab,,30527507
+4000,3,4,550000,,12.0,6.0,Semi-Furnished,Bandra West,Kamal,Jivesh Terraces,31877253
+2800,3,4,350000,,10.0,5.0,Furnished,Bandra West,Mangesh Parab,,33071023
+2500,3,4,330000,,15.0,13.0,Furnished,Bandra West,Mangesh Parab,,33091815
+2200,3,4,350000,,16.0,16.0,Furnished,Bandra West,Mangesh Parab,,33092091
+3100,3,4,500000,,16.0,11.0,Furnished,Nepeansea Road,Mukul  Kukreja,,34502605
+1850,3,4,350000,,25.0,11.0,Furnished,World Trade Centre,Mukul  Kukreja,,35243459
+2920,3,4,350000,,32.0,18.0,Furnished,Cuffe Parade,Sudesh  Kapoor,DSK Durgamata Towers,36080289
+2000,3,3,350000,,9.0,7.0,Furnished,Nepeansea Road,Kumar Kanan,,36972231
+2500,3,3,675000,,10.0,8.0,Semi-Furnished,Bandra Band Stand,Rishi  Dusija,Jivesh Terraces,37196225
+2000,3,4,350000,,8.0,7.0,Furnished,Nepeansea Road,Kumar Kanan,,38082717
+2710,3,4,350000,K Raheja Corp,41.0,3.0,Furnished,Mahalakshmi,Aqib  Khan,Raheja Vivarea,38484125
+2710,3,4,375000,K Raheja Corp,46.0,17.0,Unfurnished,Mahalakshmi,Manoj Prithiani,Raheja Vivarea,38662831
+2450,3,3,425000,B Brothers,34.0,27.0,Furnished,Prabhadevi,Amol  Tambe,Bayview Terraces,38668603
+3500,3,4,480000,,25.0,9.0,Semi-Furnished,Priyadarshini Park,Ajay  Singh,,38934497
+3000,3,4,500000,,8.0,4.0,Semi-Furnished,Hanging Garden,Vijay  Makhijani,,39302155
+2710,3,3,375000,K Raheja Corp,40.0,8.0,Semi-Furnished,Mahalakshmi,Aakash  Kale,Raheja Vivarea,39466441
+2200,3,3,400000,,10.0,1.0,Semi-Furnished,Juhu,amod dubey,,39506773
+1880,3,4,500000,Lodha Group,60.0,22.0,Furnished,Lower Parel,Dolly  Parekh,World Crest,39709077
+2450,3,4,350000,,19.0,12.0,Semi-Furnished,Napean Sea Road,Dara  Mistry,,39972909
+3500,3,3,475000,,11.0,8.0,Semi-Furnished,Bandra West,Durgesh jadhav,,40125345
+4500,3,5,600000,,13.0,12.0,Furnished,Santacruz West,Mangesh Parab,,40335755
+-2147483648,3,3,450000,,10.0,6.0,Unfurnished,Prabhadevi,Ghanshyam Fatnani,,40652027
+-2147483648,3,3,425000,,22.0,3.0,Furnished,Nariman Point,Vikram  Joshi,,40713603
+3200,3,3,410000,,20.0,3.0,Furnished,Nariman Point,Vikram  Joshi,,40751605
+2400,3,4,400000,,14.0,7.0,Semi-Furnished,Teen Batti Chowk,Ajmera,,41066211
+2450,3,3,425000,B Brothers,42.0,25.0,Furnished,Prabhadevi,Ajay  Singh,Bayview Terraces,41449693
+2106,3,3,425000,K Raheja Corp,30.0,16.0,Semi-Furnished,Mahalakshmi,Manoj Prithiani,Raheja Vivarea,41658409
+4000,3,4,725000,,7.0,3.0,Semi-Furnished,Bandra West,Nitesh Thawani,Wilfred Apartment ,41744523
+3300,3,4,345000,AVIGHNA GROUP,61.0,22.0,Semi-Furnished,Lower Parel,Amol  Tambe,One Avighna Park,42342119
+3800,3,3,500000,,15.0,10.0,Furnished,Cuffe Parade,Mukul  Kukreja,,42706665
+3500,3,3,375000,,18.0,12.0,Furnished,Pali Hill,Lalit Lakhani,,42795285
+3000,3,3,390000,,22.0,6.0,Semi-Furnished,Nepeansea Road,Ajay  Singh,Sonmarg Apartment,42811697
+3500,3,4,425000,K Raheja Corp,42.0,31.0,Semi-Furnished,Mahalakshmi,Ajay  Singh,Raheja Vivarea,42987149
+3500,3,3,450000,,3.0,2.0,Semi-Furnished,JVPD Scheme,Chetan,,43052053
+2200,3,3,475000,Shethcorp Pvt. Ltd.,40.0,9.0,Semi-Furnished,Prabhadevi,Aakash  Kale,Beau Monde,43443779
+3000,3,4,375000,,14.0,13.0,Semi-Furnished,Pali Hill,Mangesh Parab,,43530515
+3000,3,3,400000,,12.0,12.0,Semi-Furnished,Juhu,Sumairaa,,43565483
+3500,3,4,400000,,25.0,10.0,Furnished,Peddar Road,Naresh,,43596769
+2106,3,4,365000,K Raheja Corp,61.0,38.0,Semi-Furnished,Rohidas Chowk,Dolly  Parekh,Raheja Vivarea,43654341
+2700,3,3,400000,,22.0,11.0,Semi-Furnished,Pedder Road,Ajay  Singh,,43817837
+2400,3,4,350000,,14.0,7.0,Furnished,Pali Hill,Sanjay Kumar,,43859877
+4500,3,3,475000,Orbit Corporation,20.0,12.0,Semi-Furnished,Nepeansea Road,Ajmera,Orbit Arya,43909427
+2500,3,4,375000,,15.0,8.0,Furnished,Breach Candy,Vijay  Makhijani,,44002891
+3300,3,3,365000,,7.0,1.0,Furnished,Altamount Road,Ajay  Singh,,44135691
+1875,3,3,500000,Lodha Group,41.0,19.0,Semi-Furnished,Parel,Santosh  Pandey,Lodha Venezia,44192273
+-2147483648,3,3,400000,,7.0,2.0,Semi-Furnished,Altamount Road,Ghanshyam Fatnani,,44283697
+1350,3,3,400000,Kalpataru Limited,20.0,1.0,Unfurnished,Worli,Dwello,Kalpataru Horizon,44381467
+2000,3,3,475000,,15.0,1.0,Unfurnished,Prabhadevi,Dwello,,44382431
+1663,3,3,450000,Indiabulls Real Estate,50.0,19.0,Furnished,Worli,Bipin Panchal,Indiabulls Blu,44454129
+1900,3,4,330000,Indiabulls Real Estate,52.0,29.0,Semi-Furnished,Worli,Ravi,Indiabulls Blu,44457365
+2550,3,4,400000,SD Corporation Private Limited,62.0,35.0,Semi-Furnished,Tardeo,Zeeshan,The Imperial,44471659
+1950,3,3,395000,,18.0,14.0,Furnished,Cuffe Parade,Ajay  Kapur,,44576295
+2050,3,3,450000,,20.0,7.0,Semi-Furnished,Prabhadevi,Ghanshyam Fatnani,,44799621
+2350,3,4,350000,Vision Group,42.0,24.0,Furnished,Prabhadevi,Rajesh  Singh,Vision Crest,44806881
+2361,3,3,450000,Indiabulls Real Estate,55.0,19.0,Furnished,Worli,Rajesh  Singh,Indiabulls Blu,44808207
+3000,3,3,400000,Raj Developers,25.0,18.0,Furnished,Dadar TT Circle,Rajesh  Singh,EL Prado,44810519
+3000,3,3,400000,,5.0,2.0,Furnished,Juhu,Nitesh Thawani,,44865431
+-2147483648,3,3,340000,K Raheja Corp,29.0,11.0,Semi-Furnished,Mahalakshmi,Ghanshyam Fatnani,Raheja Vivarea,44906439
+5000,3,3,400000,,7.0,5.0,Furnished,Juhu Vile Parle Development Scheme,Manu ,,44928699
+2000,3,3,500000,Shethcorp Pvt. Ltd.,30.0,20.0,Furnished,Prabhadevi,Hiren  Dave,Beau Monde,44929257
+2400,3,4,350000,,20.0,16.0,Furnished,Nepeansea Road,Ashok Turakhia,,44948281
+2144,3,3,400000,Kalpataru Limited,34.0,21.0,Furnished,Worli,Amol  Tambe,Kalpataru Horizon,44975689
+2200,3,4,350000,,6.0,2.0,Furnished,Priyadarshini Park,Rajesh  Singh,,45015405
+3200,3,3,425000,,24.0,11.0,Furnished,Nariman Point,Ajay  Singh,NCPA Apartment,45071145
+3200,3,3,350000,,12.0,7.0,Semi-Furnished,Tardeo,Ajay  Singh,Vastu Shilp Apartment,45072769
+2000,3,3,355000,,9.0,3.0,Furnished,Juhu Vile Parle Development Scheme,Chetan,,45132589
+2000,3,3,360000,,9.0,5.0,Furnished,Juhu Vile Parle Development Scheme,Chetan,,45132827
+3200,3,3,500000,,32.0,23.0,Semi-Furnished,Nepeansea Road,Ajay  Singh,,45153079
+2200,3,3,450000,,22.0,10.0,Semi-Furnished,Altamount Road,Ajay  Singh,,45188883
+3040,3,3,400000,K Raheja Corp,41.0,37.0,Semi-Furnished,Mahalakshmi,Zeeshan,Raheja Vivarea,45245729
+2700,3,3,375000,,12.0,5.0,Furnished,JVPD Scheme,amod dubey,,45274757
+2800,3,3,375000,,4.0,1.0,Semi-Furnished,Altamount Road,Ajay  Singh,,45312679
+2550,3,3,450000,Shapoorji Pallonji Real Estate,120.0,10.0,Semi-Furnished,Tardeo,Ajay  Singh,Imperial Towers,45313967
+3000,3,3,400000,,10.0,2.0,Semi-Furnished,JVPD Scheme,amod dubey,,45333919
+3250,3,4,370000,K Raheja Corp,43.0,25.0,Semi-Furnished,Mahalakshmi,lifescape property,Raheja Vivarea,45334467
+1400,3,3,400000,,12.0,9.0,Furnished,Bandra West,Durgesh jadhav,,45366987
+1400,3,3,450000,,7.0,4.0,Semi-Furnished,Bandra West,Durgesh jadhav,,45415525
+2710,3,3,430000,K Raheja Corp,48.0,25.0,Semi-Furnished,Mahalakshmi,Shoeb  Sayed,Raheja Vivarea,45437303
+1600,3,3,350000,Sheth Developers,17.0,14.0,Furnished,Bandra Band Stand,Sandeep Sadh,Sea Bird Apartment,45461159
+3300,3,3,375000,Peninsula,13.0,10.0,Semi-Furnished,Worli,Ajay  Singh,Palm Beach,45468927
+2800,3,3,385000,,12.0,6.0,Semi-Furnished,Malabar Hill,Ajay  Singh,,45470603
+2850,3,3,450000,B Brothers,41.0,16.0,Semi-Furnished,Prabhadevi,Ajay  Singh,Bayview Terraces,45600111
+2141,3,3,375000,,10.0,4.0,Furnished,Hanging Garden,Ashok Turakhia,,45638361
+2500,3,3,400000,,7.0,4.0,Furnished,Breach Candy,Ajay  Singh,,45719345
+2200,3,3,400000,,8.0,4.0,Semi-Furnished,Breach Candy,Ajay  Singh,,45741749
+2710,3,3,375000,K Raheja Corp,41.0,36.0,Semi-Furnished,Mahalakshmi,Zeeshan,Raheja Vivarea,45759765
+2689,3,4,350000,Indiabulls Real Estate,40.0,35.0,Furnished,Worli,Sachin  Bamgude,Indiabulls Blu,45788691
+3350,3,3,500000,,5.0,3.0,Semi-Furnished,Carmichael Road,Ajmera,,45842153
+2250,3,3,395000,Kalpataru Limited,21.0,9.0,Semi-Furnished,Worli,Ajay  Singh,Kalpataru Horizon,46000869
+1800,3,3,350000,,,,Furnished,Juhu,Sony  Bhatia,,46052629
+2000,3,3,375000,,10.0,5.0,Semi-Furnished,Walkeshwar,Ravi Bhor,,46097103
+-2147483648,3,3,500000,,14.0,4.0,Unfurnished,Walkeshwar,Dhiren,,46135337
+2000,3,3,380000,Indiabulls Real Estate,40.0,18.0,Furnished,Worli,Pratik Chhabra,Indiabulls Blu,46163249
+3100,3,3,375000,,15.0,10.0,Semi-Furnished,Mahalakshmi,Harakh Shah,,46178933
+2000,3,3,400000,,20.0,10.0,Semi-Furnished,Prabhadevi,Harakh Shah,,46207031
+2350,3,3,350000,Vision Group,36.0,17.0,Semi-Furnished,Prabhadevi,Rambabu  Shah,Vision Crest,46224971
+2250,3,4,420000,Shethcorp Pvt. Ltd.,32.0,9.0,Furnished,Prabhadevi,Rajesh  Singh,Beau Monde,46269661
+2400,3,4,375000,Kalpataru Limited,25.0,19.0,Semi-Furnished,Worli,Nilesh,Kalpataru Horizon,46339559
+2361,3,3,350000,,60.0,22.0,Unfurnished,Shiv Sagar Estate,Rajiv Gehi,,46341849
+2800,3,3,330000,,30.0,20.0,Furnished,Lower Parel,Harakh Shah,,46365405
+3550,3,3,365000,,20.0,17.0,Unfurnished,Pedder Road,Ajmera,Kanchanjunga Apartment,46367437
+-2147483648,3,3,400000,,6.0,3.0,Unfurnished,Breach Candy,Ghanshyam Fatnani,,46373785
+2500,3,3,400000,,20.0,5.0,Furnished,Altamount Road,Harakh Shah,,46376545
+2500,3,3,400000,,20.0,5.0,Furnished,Altamount Road,Harakh Shah,,46382915
+3400,3,3,500000,,10.0,6.0,Furnished,Colaba,Mohit Ramchandani,,46430781
+2871,3,4,375000,,35.0,0.0,Furnished,Lokhandwala Complex,Sameer  Jagtiani,,46433863
+2400,3,4,800000,,12.0,11.0,Semi-Furnished,Bandra West,Mangesh Parab,,46486497
+2000,3,3,350000,,9.0,4.0,Furnished,Walkeshwar,Mohit Ramchandani,,46530367
+3063,3,3,350000,K Raheja Corp,60.0,26.0,Semi-Furnished,Mahalakshmi,lifescape property,Raheja Vivarea,46534609
+3000,3,3,400000,K Raheja Corp,40.0,20.0,Semi-Furnished,Mahalakshmi,lifescape property,Raheja Vivarea,46535475
+4200,3,4,400000,,25.0,12.0,Semi-Furnished,Prabhadevi,Rahul Vaid,,46570661
+1850,3,3,350000,Vision Group,30.0,12.0,Furnished,Prabhadevi,Rambabu  Shah,Vision Crest,46592881
+1900,3,3,365000,,10.0,7.0,Furnished,Walkeshwar,Ravi Bhor,,46664775
+-2147483648,3,3,350000,,5.0,0.0,Semi-Furnished,Peddar Road,Harshad Shah,,46680231
+-2147483648,3,3,445000,,25.0,15.0,Semi-Furnished,Nepeansea Road,Harshad Shah,,46680747
+2710,3,3,350000,,41.0,15.0,Semi-Furnished,Worli,Vassera Property Solutions Pvt. Ltd.,,46685323
+-2147483648,3,3,550000,,5.0,2.0,Unfurnished,Tardeo,Kuntal Padamsi,Kamal Mahal,46687957
+2500,3,3,375000,,5.0,2.0,Semi-Furnished,Worli Sea Face,Dolly  Parekh,,46731569
+2100,3,3,400000,Shethcorp Pvt. Ltd.,19.0,7.0,Furnished,Prabhadevi,Ghanshyam Fatnani,Beau Monde,46732569
+2030,3,5,350000,,12.0,7.0,Furnished,Bandra Band Stand,Manish,,46749427
+1600,3,3,850000,,22.0,12.0,Furnished,Powai,Anish,,46770947
+2400,3,4,350000,,8.0,4.0,Unfurnished,Juhu,Saif Ali Sarang,,46778443
+-2147483648,3,3,450000,Shethcorp Pvt. Ltd.,23.0,9.0,Furnished,Prabhadevi,Ghanshyam Fatnani,Beau Monde,46825409
+2144,3,3,360000,Kalpataru Limited,33.0,15.0,Furnished,Worli,Dilip Roge,Kalpataru Horizon,46827945
+1800,3,4,375000,India Bulls Real Estate Limited.,40.0,18.0,Furnished,Lower Parel,Rahul Vaid,India Bulls Sky Forest,46876851
+2800,3,4,400000,Shapoorji Pallonji Real Estate,46.0,26.0,Semi-Furnished,Tardeo,Rahul Vaid,Imperial Towers,46877573
+2200,3,4,400000,Shethcorp Pvt. Ltd.,42.0,22.0,Semi-Furnished,Prabhadevi,Rahul Vaid,Beau Monde,46877643
+5000,3,4,750000,,19.0,17.0,Furnished,Mount Mary,Ali  Khan,,46889327
+5000,3,4,750000,,19.0,17.0,Furnished,Bandra West,Ali  Khan,,46890447
+2710,3,4,350000,K Raheja Corp,61.0,32.0,Semi-Furnished,Mahalakshmi,lifescape property,Raheja Vivarea,46915477
+2710,3,4,400000,K Raheja Corp,50.0,19.0,Furnished,Mahalakshmi,Shoeb Abdul Gaffer Rangoonwala,Raheja Vivarea,46921269
+2500,3,5,350000,K Raheja Corp,35.0,22.0,Semi-Furnished,Mahalakshmi,Rahul Vaid,Raheja Vivarea,46957769
+3000,3,4,450000,Shapoorji Pallonji Real Estate,40.0,16.0,Semi-Furnished,Tardeo,Rahul Vaid,Imperial Towers,46957899
+3900,3,3,350000,,10.0,0.0,Semi-Furnished,Breach Candy,Ajmera,,46979591
+2550,3,3,350000,Kalpataru Limited,,,Furnished,Worli,Ramprasad  Padhi,Kalpataru Horizon,46997053
+2500,3,4,400000,Indiabulls Real Estate,50.0,18.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Mallesh  Shetty,Indiabulls Blu,47001729
+2150,3,3,500000,,25.0,10.0,Furnished,Prabhadevi,Ashok Turakhia,,47022249
+2250,3,4,380000,Shethcorp Pvt. Ltd.,33.0,11.0,Furnished,Prabhadevi,Mallesh  Shetty,Beau Monde,47024661
+2550,3,3,400000,Shapoorji Pallonji Real Estate,60.0,16.0,Unfurnished,Gamadia Colony,Ajmera,Imperial Towers,47056139
+2250,3,3,395000,Kalpataru Limited,32.0,19.0,Semi-Furnished,PK Kurne Chowk,Ajmera,Kalpataru Horizon,47072155
+4550,3,3,350000,,27.0,19.0,Semi-Furnished,Pedder Road,Ajmera,Kanchanjunga Apartment,47076935
+2500,3,4,380000,,11.0,1.0,Furnished,Mount Mary,Ketan  Jaiswal,,47084843
+4000,3,4,600000,,19.0,7.0,Semi-Furnished,Nepeansea Road,Santosh P,,47086649
+3100,3,3,500000,B Brothers,40.0,10.0,Semi-Furnished,Prabhadevi,Mallesh  Shetty,Bayview Terraces,47119651
+2100,3,3,410000,Shethcorp Pvt. Ltd.,35.0,10.0,Furnished,Prabhadevi,Mallesh  Shetty,Beau Monde,47119911
+3000,3,3,450000,,25.0,10.0,Furnished,Breach Candy,Mallesh  Shetty,,47125879
+3600,3,3,375000,,30.0,6.0,Furnished,Pedder Road,Mallesh  Shetty,,47126015
+3000,3,3,350000,K Raheja Corp,35.0,6.0,Semi-Furnished,Mahalakshmi,Mallesh  Shetty,Raheja Vivarea,47126289
+2200,3,3,350000,Shapoorji Pallonji Real Estate,60.0,16.0,Semi-Furnished,Tardeo,Mallesh  Shetty,Imperial Towers,47126369
+3510,3,3,400000,,23.0,1.0,Semi-Furnished,Oberoi,Ajmera,NCPA Apartment,47149835
+1700,3,3,400000,,40.0,30.0,Semi-Furnished,Prabhadevi,Harakh Shah,,47159035
+2890,3,4,350000,Oberoi Realty Limited,36.0,15.0,Furnished,Lokhandwala Complex,Rahul  Singh ,Oberoi Sky Heights,47219009
+1740,3,3,800000,Ekta World,22.0,7.0,Semi-Furnished,Powai lake,Sagar  Gawai,Lake Lucerne,47227497
+3600,3,3,425000,,45.0,32.0,Semi-Furnished,Saat Rasta,Ajay  Singh,,47231333
+1860,3,3,1150000,Oberoi Realty Limited,51.0,11.0,Semi-Furnished,Aarey Milk Colony,R K Singh,Oberoi Exquisite,47233335
+3500,3,3,450000,,20.0,12.0,Semi-Furnished,Malabar Hill,Harakh Shah,,47233891
+-2147483648,3,4,600000,,60.0,33.0,Unfurnished,Worli,Dhiren,,47270859
+3500,3,3,450000,,10.0,2.0,Semi-Furnished,Pali Hill,Shrikant  Solanki,,47280999
+3500,3,3,450000,,10.0,2.0,Semi-Furnished,Pali Hill,Shrikant  Solanki,,47284701
+2500,3,5,350000,,20.0,15.0,Furnished,Nepeansea Road,Edal Jhaveri,,47297787
+2900,3,4,500000,,20.0,10.0,Semi-Furnished,Bandra West,Vijay,,47306859
+4000,3,4,600000,,20.0,8.0,Semi-Furnished,Bandra West,gopal singh,,47312621

@@ -1,0 +1,90 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+3000,5,5,175000,,7.0,5.0,Semi-Furnished,Chembur,Pankaj Dembla,,6064718
+3200,5,5,175000,,13.0,6.0,Semi-Furnished,Chembur,Pankaj Dembla,,7827038
+2800,5,5,175000,,9.0,5.0,Furnished,Andheri East,Sushant,,11422646
+2000,5,5,115000,,8.0,6.0,Semi-Furnished,Khar West,Khan,,11555287
+2400,5,4,196000,Kalpataru Limited,17.0,9.0,Unfurnished,Andheri East,Sushant,Kalpataru Estates,12495786
+4000,5,4,120000,,13.0,12.0,Unfurnished,Ghatkopar East,Ashwin  Shah,,14233521
+3000,5,5,200000,,5.0,4.0,Furnished,Vile Parle East,Raju Mehta,,18561483
+3200,5,5,160000,Cooperative Group Housing Society,16.0,16.0,Unfurnished,Chembur,Narayan  Singh,diamond garden,29969251
+2500,5,5,180000,,16.0,15.0,Semi-Furnished,Sion,Roshan  Khanvilkar,,32798683
+3835,5,5,225000,Runwal Developers,26.0,18.0,Unfurnished,Andheri West,Chirag Chhabria,Runwal Elegante,34199525
+3835,5,5,250000,Runwal Developers,28.0,8.0,Semi-Furnished,Andheri West,Indoo,Runwal Elegante,37067161
+3000,5,5,250000,,3.0,1.0,Furnished,Vile Parle East,Kush Shah,,39195975
+3200,5,5,250000,,21.0,8.0,Furnished,Kala Nagar,Kamal,,39824513
+5505,5,7,270000,Lodha Group,45.0,31.0,Semi-Furnished,Goregaon East,Ashu,Lodha Fiorenza,41055335
+3600,5,5,200000,,13.0,2.0,Unfurnished,Vallabh Baug,Nimesh,,42269123
+2950,5,4,150000,Oberoi Realty Limited,35.0,5.0,Semi-Furnished,Yeshodham,Ankush  Pujari,Oberoi Woods,42411799
+2710,5,5,115000,The Wadhwa Group,43.0,28.0,Semi-Furnished,Best Nagar - Goregaon West,Vishal Mihani Lalwani,Imperial Heights,42450327
+3000,5,4,170000,,30.0,12.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Vilas  Sakpal,,43177639
+3835,5,5,270000,Runwal Developers,27.0,16.0,Semi-Furnished,Lokhandwala Complex,Beant Singh  Dhindsa,Runwal Elegante,43680943
+2300,5,4,150000,Omkar Realtors and Developers Pvt. Ltd.,54.0,-1.0,Semi-Furnished,Malad East,Ramesh,Omkar Alta Monte,44213587
+2200,5,5,150000,Aashish Promotors & Builders,25.0,14.0,Furnished,Goregaon West,kanani,Garden Estate,44454927
+2250,5,4,130000,The Advantage Raheja,17.0,6.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Gulzar Malik Gulzar,Brookhaven,44541615
+1900,5,4,150000,Samarth Development Corporation,20.0,16.0,Furnished,Andheri West,Arjun Joshi,Samarth Aangan,44680283
+3200,5,4,275000,Peninsula Land,23.0,15.0,Unfurnished,Parel,Dwarkadas  Jogeshwar,Ashok Garden,44889573
+3100,5,5,111000,Oberoi Realty Limited,27.0,23.0,Semi-Furnished,"Thakur Village, Kandivali East",Virchandra Mishra,Oberoi Gardens,45058793
+2000,5,4,130000,,4.0,1.0,Furnished,JB Nagar,Aakaar Housing Agency,,45254273
+2950,5,4,150000,,36.0,18.0,Semi-Furnished,Goregaon East,Nitesh Thawani,,45361699
+2815,5,5,150000,The Wadhwa Group,44.0,24.0,Furnished,Goregaon West,Vishal Mihani Lalwani,Imperial Heights,45454399
+2854,5,5,160000,Oberoi Realty Limited,27.0,20.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Sandeep Sadh,Project Oberoi Splendor,45468985
+3100,5,6,135000,,10.0,8.0,Unfurnished,Chakala,Jay Bhardwaj,Express Enclave,45595007
+2850,5,5,280000,,60.0,32.0,Semi-Furnished,Sewri,Ajay  Singh,Ashok Gardens,45742341
+2120,5,5,125100,Runwal Developers,15.0,8.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,45795647
+2500,5,4,125000,Keshav Vitthal Sonawane,10.0,0.0,Semi-Furnished,Kurla,Sudhakar Shetty,Kohinoor City Phase II,45798763
+-2147483648,5,4,240000,Lodha Group,75.0,27.0,Semi-Furnished,Worli,Jitesh Jain jitesh,Lodha The Park,45937309
+1200,5,5,125000,,4.0,1.0,Furnished,Andheri East,Ramesh  Sharma,,45945351
+2210,5,5,125800,Runwal Developers,15.0,11.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46041953
+2805,5,3,185000,Runwal Developers,27.0,12.0,Semi-Furnished,Lokhandwala Complex,Bunty,Runwal Elegante,46044925
+2670,5,5,285000,,40.0,11.0,Semi-Furnished,Sewri,Manoj Prithiani,Ashok Gardens,46048333
+2810,5,5,285000,,23.0,14.0,Furnished,Sewri,Jitesh Jain jitesh,Ashok Gardens,46119149
+2200,5,5,124000,Runwal Developers,15.0,11.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46161471
+3300,5,6,185000,Runwal Developers,27.0,15.0,Semi-Furnished,Lokhandwala Complex,Rishikesh  Upadhayay,Runwal Elegante,46208971
+2225,5,5,125000,Runwal Developers,15.0,11.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46223961
+2500,5,5,125000,Romell Real Estate Pvt Ltd,22.0,16.0,Furnished,Churi Wadi,Manoj Yadav  Yadav,Romell  Grandeur,46239765
+1600,5,5,125000,,10.0,6.0,Furnished,Vile Parle West,Vipul ` Shah,,46246073
+3592,5,5,135000,Raheja Universal Pvt Ltd.,36.0,4.0,Furnished,"Thakur Village, Kandivali East",Manoj Yadav  Yadav,Raheja Reflections Odyssey,46259059
+3251,5,5,120000,Sunteck Realty Limited,28.0,15.0,Unfurnished,Magathane,Manoj Yadav  Yadav,Signia High,46275329
+2240,5,5,124000,Runwal Developers,15.0,10.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46335413
+2240,5,5,123000,Runwal Developers,15.0,6.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46384159
+3200,5,5,150000,Shiv Shakti Group,25.0,22.0,Unfurnished,Andheri West,Suresh  Yadav ,Shiv Shakti Apartments,46449033
+3000,5,6,150000,Shiv Shakti Group,24.0,10.0,Unfurnished,Andheri West,Sailesh  Daswani,Shiv Shakti Apartments,46455235
+2754,5,4,150000,Oberoi Realty Limited,27.0,8.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,46456555
+2950,5,4,143000,Oberoi Realty Limited,22.0,8.0,Semi-Furnished,Andheri East,Lanc,Project Oberoi Splendor,46467369
+2200,5,5,250000,Oberoi Realty Limited,19.0,9.0,Furnished,Lokhandwala Complex,Sumairaa,Oberoi Springs,46535633
+2245,5,5,124000,Runwal Developers,15.0,12.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46538917
+2250,5,5,123000,Runwal Developers,15.0,8.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46574655
+2268,5,5,125000,Runwal Developers,15.0,11.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46637163
+4700,5,5,210000,,2.0,0.0,Semi-Furnished,Vile Parle East,Jay Bhardwaj,,46642121
+2754,5,4,150000,Oberoi Realty Limited,27.0,14.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,46657163
+3500,5,5,199000,,5.0,1.0,Unfurnished,Subhash Road,Sagar Visawadia,,46723979
+2754,5,4,150000,Oberoi Realty Limited,27.0,12.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,46725963
+2270,5,5,125000,Runwal Developers,15.0,13.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46758027
+2754,5,4,150000,Oberoi Realty Limited,27.0,9.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,46801807
+3000,5,5,275000,Lodha Group,75.0,24.0,Semi-Furnished,Worli,Kishore  Aireja,Lodha Park,46869109
+2815,5,4,120000,The Wadhwa Group,45.0,7.0,Semi-Furnished,Goregaon West,Lalwani Lalwani,Imperial Heights,46886301
+2700,5,5,150000,,32.0,26.0,Furnished,Andheri West,Prathmesh,,46922527
+2500,5,4,180000,,18.0,14.0,Semi-Furnished,Versova,Amaan,,46930347
+3000,5,4,120000,The Wadhwa Group,44.0,11.0,Semi-Furnished,Goregaon West,Lalwani Lalwani,Imperial Heights,46944353
+2270,5,5,120000,Runwal Developers,15.0,8.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,46952291
+2670,5,5,275000,,23.0,12.0,Semi-Furnished,Sewri,Ajay Singh,Ashok Gardens,46959559
+2754,5,4,150000,Oberoi Realty Limited,27.0,12.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,46988293
+3000,5,5,160000,,28.0,18.0,Semi-Furnished,Andheri West,abdul wafa,,46998933
+2754,5,4,145000,,27.0,10.0,Semi-Furnished,Andheri East,Lanc,,47012457
+3000,5,5,200000,,5.0,3.0,Furnished,Sion East,Avani,,47057759
+2590,5,4,250000,Oberoi Realty Limited,35.0,25.0,Furnished,Lokhandwala Complex,Bunty,Oberoi Springs,47073241
+3000,5,5,300000,,17.0,10.0,Unfurnished,Worli Naka Acharaya Atre Chowk,Mallesh  Shetty,,47107245
+3000,5,5,160000,Shiv Shakti Group,28.0,19.0,Semi-Furnished,Andheri West,Santosh,Shiv Shakti Apartments,47107695
+2480,5,4,120000,Kalpataru Limited,18.0,2.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Vanita,Kalpataru Estates,47120807
+2480,5,4,120000,Kalpataru Limited,18.0,2.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Vanita,Kalpataru Estates,47121229
+2500,5,4,150000,Kalpataru Limited,18.0,2.0,Furnished,JVLR-Jogeshwari Vikhroli Link Road,Vanita,Kalpataru Estates,47121657
+3835,5,5,250000,Runwal Developers,,,Semi-Furnished,Andheri West,Akshay,Runwal Elegante,47122187
+2800,5,4,300000,,2.0,0.0,Unfurnished,Gorai 2,Kishan  Sharma,,47148915
+2260,5,5,125000,Runwal Developers,15.0,7.0,Semi-Furnished,Ghatkopar West,Sachin  Deshmukh,Runwal The Orchard Residency,47193547
+2200,5,3,130000,Keshav Vitthal Sonawane,10.0,3.0,Semi-Furnished,Kurla West,Sanjeev,Kohinoor City Phase II,47193585
+2250,5,5,125000,Keshav Vitthal Sonawane,10.0,0.0,Semi-Furnished,Kurla West,Sanjeev,Kohinoor City Phase II,47195391
+2700,5,4,270000,Oberoi Realty Limited,,,Semi-Furnished,Andheri West,Indoo,Oberoi Springs,47197981
+2754,5,4,150000,Oberoi Realty Limited,27.0,13.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,47210831
+2600,5,4,270000,Oberoi Realty Limited,,,Furnished,Andheri West,Akshay,Oberoi Springs,47243095
+2980,5,5,151000,Rustomjee,20.0,9.0,Furnished,Goregaon West,Kunal Jogeshwar,Rustomjee Ozone,47308481
+2754,5,4,150000,Oberoi Realty Limited,27.0,14.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Project Oberoi Splendor,47322229

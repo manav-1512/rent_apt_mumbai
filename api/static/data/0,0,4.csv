@@ -1,0 +1,6 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+1595,4,4,35000,,18.0,15.0,Furnished,,Deepak  Narang Narang,,27225175
+-2147483648,4,2,30000,,,0.0,Unfurnished,Borivali East,Milind Swant,,45393133
+500,4,1,32000,,,,Furnished,,Vikram,,46462509
+2200,4,2,25000,,4.0,2.0,Semi-Furnished,Bandra Kurla Complex,suraj,,47247289
+1500,4,3,18000,,13.0,9.0,Unfurnished,,m sharma,,47267839

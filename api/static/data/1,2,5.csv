@@ -1,0 +1,20 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+3835,5,5,250000,Runwal Developers,28.0,8.0,Semi-Furnished,Andheri West,Indoo,Runwal Elegante,37067161
+3000,5,5,250000,,3.0,1.0,Furnished,Vile Parle East,Kush Shah,,39195975
+3200,5,5,250000,,21.0,8.0,Furnished,Kala Nagar,Kamal,,39824513
+5505,5,7,270000,Lodha Group,45.0,31.0,Semi-Furnished,Goregaon East,Ashu,Lodha Fiorenza,41055335
+3835,5,5,270000,Runwal Developers,27.0,16.0,Semi-Furnished,Lokhandwala Complex,Beant Singh  Dhindsa,Runwal Elegante,43680943
+3200,5,4,275000,Peninsula Land,23.0,15.0,Unfurnished,Parel,Dwarkadas  Jogeshwar,Ashok Garden,44889573
+2850,5,5,280000,,60.0,32.0,Semi-Furnished,Sewri,Ajay  Singh,Ashok Gardens,45742341
+-2147483648,5,4,240000,Lodha Group,75.0,27.0,Semi-Furnished,Worli,Jitesh Jain jitesh,Lodha The Park,45937309
+2670,5,5,285000,,40.0,11.0,Semi-Furnished,Sewri,Manoj Prithiani,Ashok Gardens,46048333
+2810,5,5,285000,,23.0,14.0,Furnished,Sewri,Jitesh Jain jitesh,Ashok Gardens,46119149
+2200,5,5,250000,Oberoi Realty Limited,19.0,9.0,Furnished,Lokhandwala Complex,Sumairaa,Oberoi Springs,46535633
+3000,5,5,275000,Lodha Group,75.0,24.0,Semi-Furnished,Worli,Kishore  Aireja,Lodha Park,46869109
+2670,5,5,275000,,23.0,12.0,Semi-Furnished,Sewri,Ajay Singh,Ashok Gardens,46959559
+2590,5,4,250000,Oberoi Realty Limited,35.0,25.0,Furnished,Lokhandwala Complex,Bunty,Oberoi Springs,47073241
+3000,5,5,300000,,17.0,10.0,Unfurnished,Worli Naka Acharaya Atre Chowk,Mallesh  Shetty,,47107245
+3835,5,5,250000,Runwal Developers,,,Semi-Furnished,Andheri West,Akshay,Runwal Elegante,47122187
+2800,5,4,300000,,2.0,0.0,Unfurnished,Gorai 2,Kishan  Sharma,,47148915
+2700,5,4,270000,Oberoi Realty Limited,,,Semi-Furnished,Andheri West,Indoo,Oberoi Springs,47197981
+2600,5,4,270000,Oberoi Realty Limited,,,Furnished,Andheri West,Akshay,Oberoi Springs,47243095

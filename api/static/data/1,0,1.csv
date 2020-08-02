@@ -1,0 +1,9 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+750,1,1,125000,Makers Developers,10.0,4.0,Furnished,World Trade Centre,Sunil Kumar  Singh,Maker Tower,31253627
+600,1,1,115000,,12.0,3.0,Furnished,Altamount Road,Kishore  Aireja,Pushpak Apartment,41134331
+850,1,2,120000,,9.0,7.0,Unfurnished,Bandra West,Tarik Mirza,,41696441
+1000,1,1,135000,,10.0,2.0,Furnished,Altamount Road,Madan  Tiwari,,41742899
+650,1,1,125000,Makers Developers,15.0,6.0,Unfurnished,Cuffe Parade,Sameer H,Maker Tower,42011953
+750,1,2,125000,Makers Developers,15.0,5.0,Furnished,Cuffe Parade,Abhay  Singh,Maker Tower,45187483
+600,1,1,135000,,5.0,3.0,Furnished,Juhu Tara Road,Durgesh jadhav,,46587889
+1050,1,2,120000,Krypton Developer,23.0,20.0,Furnished,Prabhadevi,Rajendra,Krypton Tower,46691563

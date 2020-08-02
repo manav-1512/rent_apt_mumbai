@@ -1,0 +1,13 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+4000,3,4,550000,,12.0,6.0,Semi-Furnished,Bandra West,Kamal,Jivesh Terraces,31877253
+2500,3,3,675000,,10.0,8.0,Semi-Furnished,Bandra Band Stand,Rishi  Dusija,Jivesh Terraces,37196225
+4500,3,5,600000,,13.0,12.0,Furnished,Santacruz West,Mangesh Parab,,40335755
+4000,3,4,725000,,7.0,3.0,Semi-Furnished,Bandra West,Nitesh Thawani,Wilfred Apartment ,41744523
+2400,3,4,800000,,12.0,11.0,Semi-Furnished,Bandra West,Mangesh Parab,,46486497
+-2147483648,3,3,550000,,5.0,2.0,Unfurnished,Tardeo,Kuntal Padamsi,Kamal Mahal,46687957
+5000,3,4,750000,,19.0,17.0,Furnished,Mount Mary,Ali  Khan,,46889327
+5000,3,4,750000,,19.0,17.0,Furnished,Bandra West,Ali  Khan,,46890447
+4000,3,4,600000,,19.0,7.0,Semi-Furnished,Nepeansea Road,Santosh P,,47086649
+1740,3,3,800000,Ekta World,22.0,7.0,Semi-Furnished,Powai lake,Sagar  Gawai,Lake Lucerne,47227497
+-2147483648,3,4,600000,,60.0,33.0,Unfurnished,Worli,Dhiren,,47270859
+4000,3,4,600000,,20.0,8.0,Semi-Furnished,Bandra West,gopal singh,,47312621

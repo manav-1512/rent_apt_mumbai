@@ -1,0 +1,16 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+3000,5,5,175000,,7.0,5.0,Semi-Furnished,Chembur,Pankaj Dembla,,6064718
+3200,5,5,175000,,13.0,6.0,Semi-Furnished,Chembur,Pankaj Dembla,,7827038
+2800,5,5,175000,,9.0,5.0,Furnished,Andheri East,Sushant,,11422646
+2400,5,4,196000,Kalpataru Limited,17.0,9.0,Unfurnished,Andheri East,Sushant,Kalpataru Estates,12495786
+3000,5,5,200000,,5.0,4.0,Furnished,Vile Parle East,Raju Mehta,,18561483
+2500,5,5,180000,,16.0,15.0,Semi-Furnished,Sion,Roshan  Khanvilkar,,32798683
+3835,5,5,225000,Runwal Developers,26.0,18.0,Unfurnished,Andheri West,Chirag Chhabria,Runwal Elegante,34199525
+3600,5,5,200000,,13.0,2.0,Unfurnished,Vallabh Baug,Nimesh,,42269123
+3000,5,4,170000,,30.0,12.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Vilas  Sakpal,,43177639
+2805,5,3,185000,Runwal Developers,27.0,12.0,Semi-Furnished,Lokhandwala Complex,Bunty,Runwal Elegante,46044925
+3300,5,6,185000,Runwal Developers,27.0,15.0,Semi-Furnished,Lokhandwala Complex,Rishikesh  Upadhayay,Runwal Elegante,46208971
+4700,5,5,210000,,2.0,0.0,Semi-Furnished,Vile Parle East,Jay Bhardwaj,,46642121
+3500,5,5,199000,,5.0,1.0,Unfurnished,Subhash Road,Sagar Visawadia,,46723979
+2500,5,4,180000,,18.0,14.0,Semi-Furnished,Versova,Amaan,,46930347
+3000,5,5,200000,,5.0,3.0,Furnished,Sion East,Avani,,47057759

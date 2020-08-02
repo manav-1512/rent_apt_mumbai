@@ -1,0 +1,15 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+4000,5,4,875000,,7.0,5.0,Semi-Furnished,Pali Hill,Ramprasad  Padhi,Wilnomona Apartment,36736251
+6500,5,6,950000,,25.0,10.0,Semi-Furnished,Malabar Hill,Ajay  Singh,,39861605
+2500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44026621
+3500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44026623
+2500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44062445
+3500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44062447
+7500,5,5,1000000,,29.0,20.0,Unfurnished,Worli,Rajiv Gehi,,45458121
+4000,5,5,1200000,,20.0,20.0,Furnished,Napean Sea Road,Ajmera,,45766337
+6500,5,6,1000000,Kalpataru Limited,24.0,18.0,Furnished,Worli,Rajiv Gehi,Kalpataru Horizon,45870955
+5000,5,4,1000000,,7.0,3.0,Semi-Furnished,Bandra West,Chetan,,46869207
+5600,5,5,900000,Ahuja Constructions,45.0,23.0,Unfurnished,Prabhadevi,Mallesh  Shetty,Ahuja Towers,47031729
+5700,5,5,850000,Ahuja Constructions,60.0,20.0,Semi-Furnished,Worli,Mallesh  Shetty,Ahuja Towers,47126209
+8000,5,5,900000,,9.0,6.0,Furnished,Malabar Hill,Mallesh  Shetty,,47126345
+4200,5,5,1200000,,10.0,8.0,Furnished,Mahalakshmi,Mallesh  Shetty,,47126401

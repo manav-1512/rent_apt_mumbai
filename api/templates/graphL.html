@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+        
+        <div style = 'background-color: #4091e2 ; padding : 10px 20px; border-radius: 12px'>
+        <form method = "post">
+            {% csrf_token %}
+                {{form}}
+                &emsp;  
+                              
+            <input type = "submit" value = "Apply Filters" style = 'background-color: powderblue; color:#1e1e2f; border-radius: 8px'>
+        </form>
+        </div> 
+       <div style = 'height: 10px; ' ></div>
+        <div style = 'background-color : rgba(64,145,226,0.8); border-radius: 12px; padding : 10px 18%'>
+        <img src = "{{image}}" style = 'border-radius: 20px'>
+        </div>
+{% endblock %}

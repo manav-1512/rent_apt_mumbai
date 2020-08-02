@@ -1,0 +1,112 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+1400,2,2,180000,,32.0,9.0,Furnished,Lower Parel,Vilas,,11303993
+1200,2,2,200000,,11.0,7.0,Furnished,Bandra West,Rishi  Dusija,Mount Marry,12150442
+1405,2,3,180000,Peninsula Land,32.0,10.0,Semi-Furnished,Parel,Avinash gurav,Ashoka Towers,13921382
+1515,2,3,170000,Ashford Group,26.0,18.0,Semi-Furnished,Lower Parel,Vijay,Ashford Casagrand,17259962
+1600,2,3,225000,,8.0,2.0,Semi-Furnished,Nepeansea Road,Mukul  Kukreja,,23410479
+1500,2,2,200000,,21.0,9.0,Furnished,Worli Sea Face,Vijay,,24604647
+1380,2,2,170000,Godrej Properties,51.0,10.0,Semi-Furnished,Mahalakshmi,Kailash,Planet Godrej,26079081
+1000,2,2,180000,,10.0,10.0,Semi-Furnished,Peddar Road,Vaseem  Siddique,,33537515
+1000,2,2,170000,,11.0,11.0,Semi-Furnished,Malabar Hill,Vaseem  Siddique,Malabar Apartments,33537707
+1000,2,2,180000,,12.0,12.0,Semi-Furnished,Kemps Corner,Vaseem  Siddique,Mahavir Heights - Kemps Corner,33537995
+1290,2,3,200000,,20.0,12.0,Furnished,World Trade Centre,Sudesh  Kapoor,,35726135
+1600,2,2,210000,,18.0,15.0,Furnished,Cuffe Parade,Kailash,Jolly Maker Apartment,35811591
+1290,2,3,175000,,16.0,10.0,Furnished,Cuffe Parade,Sudesh  Kapoor,,36080041
+1000,2,2,175000,,12.0,5.0,Furnished,Breach Candy,Vaseem  Siddique,,36213797
+1295,2,3,170000,,16.0,2.0,Furnished,World Trade Centre,Madan  Tiwari,Jolly Maker Apartment,36530009
+1275,2,3,170000,,21.0,8.0,Furnished,World Trade Centre,Madan  Tiwari,,36680505
+1250,2,2,200000,,15.0,12.0,Furnished,Cuffe Parade,Jesudas Cordeiro,,36709829
+1265,2,3,170000,,15.0,5.0,Furnished,Cuffe Parade,Madan  Tiwari,,36861257
+1000,2,2,200000,,10.0,7.0,Furnished,Bandra West,Rishi  Dusija,,36966253
+1500,2,3,180000,,12.0,7.0,Furnished,Altamount Road,Vijay  Makhijani,,37263335
+1250,2,2,175000,Chaitanya Group,50.0,12.0,Semi-Furnished,Prabhadevi,Rashtriya Multiservice Real Estate & Multi Service Provider,Chaitanya Towers,37757133
+1040,2,2,200000,,12.0,8.0,Unfurnished,Mount Mary,Ramprasad  Padhi,Silver Cascade,38452083
+1200,2,2,185000,,12.0,7.0,Furnished,Mount Mary,Sarfraz khan,,38681879
+900,2,3,200000,Makers Developers,16.0,9.0,Furnished,World Trade Centre,Vikram Kapoor,Maker Tower,39286345
+1250,2,2,190000,,11.0,6.0,Furnished,Bandra West,Tarik Mirza,Mount Marry,39341651
+1700,2,2,180000,,12.0,10.0,Furnished,Gamdevi,Vaseem  Siddique,,39595817
+1400,2,3,200000,,9.0,8.0,Furnished,Bandra West,Tarik Mirza,Sea Beach View,39814741
+1300,2,3,225000,,16.0,9.0,Semi-Furnished,Breach Candy,Dara  Mistry,,39973413
+1800,2,2,175000,,13.0,5.0,Furnished,Walkeshwar,O P Singh,,40142601
+1550,2,2,175000,,6.0,3.0,Semi-Furnished,Marine Drive,Mohit Ramchandani,,40436623
+1200,2,2,200000,,9.0,7.0,Furnished,Breach Candy,Amol  Tambe,,40934553
+1390,2,2,190000,Godrej Properties,50.0,25.0,Furnished,Mahalakshmi,Kailash,Planet Godrej,41370739
+1287,2,2,200000,Lodha Group,35.0,18.0,Furnished,Mahalaxmi Race Course,Pankaj,Lodha Primero,41479333
+1366,2,2,175000,Godrej Properties,45.0,22.0,Furnished,Mahalaxmi Race Course,Amit Sahi,Planet Godrej,41662523
+1200,2,3,200000,,9.0,5.0,Semi-Furnished,Breach Candy,Kishore  Aireja,,42088061
+1500,2,2,175000,,10.0,1.0,Unfurnished,Church Gate,Mukul  Kukreja,,42146711
+1570,2,3,175000,Rustomjee,22.0,14.0,Semi-Furnished,Khar West,Vikas Singh Singh,Rustomjee Paramount,42172115
+1366,2,2,175000,Godrej Properties,45.0,22.0,Furnished,Mahalaxmi Race Course,Amit Sahi,Planet Godrej,42378797
+1200,2,2,175000,,10.0,6.0,Semi-Furnished,Breach Candy,Ashok Turakhia,,42604491
+1606,2,2,200000,,23.0,12.0,Semi-Furnished,Sewri,Kartik  Mudaliar,Ashok Gardens,43115689
+1606,2,2,180000,,23.0,14.0,Semi-Furnished,Sewri,Kartik  Mudaliar,Ashok Gardens,43185773
+1350,2,2,200000,Indiabulls Real Estate,51.0,17.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Venu  Gajam,Indiabulls Blu,43581525
+1400,2,2,200000,,10.0,5.0,Semi-Furnished,Breach Candy,Vijay  Makhijani,,43619495
+1500,2,2,170000,,13.0,4.0,Furnished,Bandra West,Sandeep Sadh,,43645629
+1600,2,2,200000,,7.0,4.0,Semi-Furnished,Hanging Garden,Ajay  Singh,,43817167
+1275,2,3,180000,Omkar Realtors and Developers Pvt. Ltd.,35.0,14.0,Furnished,Parel,Santosh  Pandey,Omkar Veda,43848227
+1200,2,3,200000,,12.0,5.0,Furnished,Breach Candy,Vijay  Makhijani,,44005231
+1150,2,3,200000,,12.0,5.0,Furnished,Breach Candy,Vijay  Makhijani,,44005751
+1500,2,2,200000,,12.0,5.0,Semi-Furnished,Juhu Tara,amod dubey,,44092767
+1300,2,2,175000,,8.0,7.0,Furnished,Gamdevi,Kumar Kanan,,44202621
+1200,2,2,200000,,12.0,10.0,Semi-Furnished,Bandra West,Ramprasad  Padhi,Silver Cascade,44269017
+1500,2,2,175000,,8.0,1.0,Furnished,Church Gate,Mukul  Kukreja,,44348729
+1700,2,3,200000,,4.0,3.0,Unfurnished,Union Park,Deepak  Kewlani,,44784909
+1150,2,2,180000,,15.0,13.0,Furnished,Bandra West,Dhiren  Chainani,Satguru Shlok,45472711
+1220,2,2,200000,Makers Developers,2.0,2.0,Furnished,World Trade Centre,Madan  Tiwari,Maker Tower,45473081
+1500,2,3,210000,,3.0,1.0,Semi-Furnished,Altamount Road,Mustafa  Chhil,,45533637
+950,2,2,175000,,7.0,6.0,Furnished,Perry Rd,Le Roy,,45537809
+1000,2,2,200000,,8.0,4.0,Semi-Furnished,Bandra West,Durgesh jadhav,,45671277
+1560,2,2,200000,,9.0,6.0,Semi-Furnished,Walkeshwar,Ajay  Singh,,45717143
+850,2,2,175000,,12.0,10.0,Furnished,Breach Candy,Vaseem  Siddique,,45790997
+850,2,2,175000,,18.0,10.0,Furnished,Breach Candy,Vaseem  Siddique,,45847561
+1350,2,3,200000,,12.0,8.0,Furnished,Pali Hill,Vijay  Makhijani,,45900223
+1200,2,2,190000,,14.0,3.0,Furnished,Breach Candy,Ravi Bhor,,46065081
+2000,2,1,185000,,15.0,10.0,Semi-Furnished,Shivaji Park,Harakh Shah,,46073429
+1300,2,2,199000,,13.0,11.0,Unfurnished,Bhulabhai Desai Marg,Sunil Savla,,46136063
+1300,2,2,180000,,20.0,10.0,Furnished,Breach Candy,Harakh Shah,,46207869
+1500,2,2,225000,,15.0,10.0,Semi-Furnished,Altamount Road,Harakh Shah,,46232143
+1350,2,2,175000,,12.0,4.0,Furnished,Altamount Road,Santosh P,,46326901
+2090,2,2,175000,,30.0,6.0,Semi-Furnished,Lower Parel,Rambabu  Shah,,46389087
+900,2,2,200000,,5.0,3.0,Furnished,Pali Hill,Durgesh jadhav,,46407823
+1200,2,2,175000,Makers Developers,20.0,5.0,Furnished,Cuffe Parade,Aakash  Kale,Maker Tower,46436919
+1500,2,3,215000,,11.0,4.0,Furnished,Nepeansea Road,Ravi Bhor,,46442891
+2200,2,3,175000,,22.0,12.0,Furnished,Worli Sea Face,Rahul Vaid,,46520303
+1290,2,2,190000,,24.0,10.0,Semi-Furnished,Cuffe Parade,Anil Cordeiro,Jolly Maker Apartment,46560567
+1275,2,3,175000,,20.0,18.0,Semi-Furnished,World Trade Centre,Madan  Tiwari,,46600511
+1020,2,3,190000,,14.0,8.0,Furnished,Cuffe Parade,Madan  Tiwari,,46600997
+1000,2,3,170000,Makers Developers,15.0,5.0,Furnished,Cuffe Parade,Madan  Tiwari,Maker Tower,46601071
+1295,2,3,190000,,15.0,9.0,Furnished,World Trade Centre,Madan  Tiwari,Jolly Maker Apartment,46601425
+1100,2,1,170000,,10.0,4.0,Furnished,Walkeshwar,Vaseem  Siddique,,46607833
+1000,2,2,170000,,12.0,8.0,Furnished,Babulnath Chowk,Vaseem  Siddique,,46608077
+1000,2,2,170000,,16.0,10.0,Furnished,Babulnath Chowk,Vaseem  Siddique,,46608285
+1000,2,2,170000,,15.0,10.0,Semi-Furnished,Walkeshwar,Vaseem  Siddique,,46608511
+1500,2,3,200000,,12.0,8.0,Furnished,Altamount Road,Vijay  Makhijani,,46624967
+1250,2,2,180000,,18.0,9.0,Semi-Furnished,Cuffe Parade,Anil Cordeiro,,46661503
+1000,2,1,170000,,40.0,25.0,Semi-Furnished,Lower Parel,Ghanshyam  Gupta,,46663229
+1500,2,2,225000,,20.0,12.0,Furnished,Nepeansea Road,Harakh Shah,,46678161
+1350,2,3,175000,,15.0,7.0,Furnished,Nepeansea Road,Edal Jhaveri,,46696535
+925,2,2,175000,Makers Developers,15.0,4.0,Furnished,Cuffe Parade,Anil Cordeiro,Maker Tower,46700165
+1220,2,2,190000,Makers Developers,15.0,1.0,Semi-Furnished,Cuffe Parade,Anil Cordeiro,Maker Tower,46701079
+1200,2,3,180000,,7.0,5.0,Furnished,Bandra Band Stand,Manish,Mon Repos Apartment,46748743
+1350,2,2,175000,,17.0,11.0,Semi-Furnished,Cuffe Parade,Ajay  Singh,,46756877
+1201,2,2,200000,Lodha Group,78.0,24.0,Unfurnished,Worli,Gaurav  Panjabi,The Park,46784971
+1450,2,3,200000,,7.0,4.0,Furnished,Malabar Hill,Ravi Bhor,,46870775
+1050,2,2,170000,,5.0,3.0,Furnished,Juhu,Devesh  Pandey,,46903283
+1500,2,2,200000,,37.0,10.0,Semi-Furnished,Prabhadevi,Mallesh  Shetty,,46928041
+1600,2,2,200000,,20.0,12.0,Furnished,Prabhadevi,Harakh Shah,,46933529
+900,2,2,220000,,4.0,1.0,Semi-Furnished,,Rajesh,,46933855
+1800,2,2,200000,,20.0,15.0,Furnished,Church Gate,Harakh Shah,,46940343
+1000,2,2,175000,,20.0,16.0,Semi-Furnished,Breach Candy,Harakh Shah,,46941139
+1300,2,2,180000,,8.0,6.0,Furnished,Altamount Road,Kishore  Aireja,,47023067
+1540,2,2,230000,,23.0,15.0,Furnished,Lower Parel,Anil Cordeiro,,47038093
+1200,2,2,200000,,12.0,5.0,Semi-Furnished,Altamount Road,Kamal,,47052875
+-2147483648,2,2,225000,,6.0,5.0,Semi-Furnished,Marine Drive,NEETAA TULSIDAS,,47084607
+1000,2,2,225000,,6.0,5.0,Semi-Furnished,Marine Drive,NEETAA TULSIDAS,,47092709
+1600,2,3,180000,,3.0,1.0,Unfurnished,Altamount Road,Mustafa  Chhil,,47165813
+1200,2,3,180000,,7.0,4.0,Furnished,Bandra West,Ketan  Jaiswal,Mon Repos B,47224789
+1400,2,2,180000,,11.0,4.0,Furnished,Altamount Road,Mohit Ramchandani,,47226695
+1400,2,2,200000,,11.0,4.0,Semi-Furnished,Babulnath Chowk,Mohit Ramchandani,,47227031
+1250,2,3,175000,,8.0,4.0,Furnished,Nepeansea Road,Nitin Talreja,,47237983
+-2147483648,2,2,180000,,9.0,4.0,Semi-Furnished,Bandra West,Ghanshyam Fatnani,,47243547
+1500,2,3,175000,,10.0,3.0,Furnished,Altamount Road,Ravi Bhor,,47319531

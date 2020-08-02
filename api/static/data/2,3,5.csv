@@ -1,0 +1,67 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+5000,5,5,700000,,9.0,6.0,Semi-Furnished,Worli,Ajay  Kapur,,5706544
+20,5,5,400000,,12.0,6.0,Unfurnished,Bandra West,Vilas,,11030760
+5833,5,8,450000,Indiabulls Distribution Services Limited,49.0,37.0,Furnished,Lower Parel,Pravin  Vaishnav,Indiabulls Sky,24392797
+5833,5,8,450000,Indiabulls Distribution Services Limited,49.0,37.0,Furnished,Lower Parel,Pravin  Vaishnav,Indiabulls Sky,24625163
+3000,5,5,350000,,12.0,5.0,Semi-Furnished,Santacruz West,Rajni S,,25382187
+4750,5,5,400000,Hiranandani Group,29.0,13.0,Furnished,Powai,Ramesh  Babar,Hiranandani Gardens,27163737
+5300,5,5,600000,,16.0,10.0,Semi-Furnished,Bandra East,Ajay  Kapur,,29089027
+5170,5,6,650000,Sunteck Realty Limited,22.0,12.0,Unfurnished,Bandra Kurla Complex,Indoo,Signia Isles,29312841
+5600,5,4,505000,Indiabulls Distribution Services Limited,50.0,50.0,Unfurnished,Lower Parel,Deepa,Indiabulls Sky,30541265
+5600,5,4,775000,,5.0,3.0,Furnished,Pali Hill,Narmada Ghanvat Parmar,Palli Hill,34471013
+5000,5,5,390890,,10.0,7.0,Semi-Furnished,Juhu,Mehul  Gada,,34571731
+4000,5,4,875000,,7.0,5.0,Semi-Furnished,Pali Hill,Ramprasad  Padhi,Wilnomona Apartment,36736251
+5600,5,4,775000,,5.0,3.0,Furnished,Pali Hill,Narmada Ghanvat Parmar,Palli Hill,37657513
+3000,5,5,500000,,10.0,9.0,Unfurnished,Malabar Hill,Ashok Turakhia,,38960833
+5000,5,5,350000,,16.0,13.0,Unfurnished,Bandra West,Ali  Khan,,39342147
+6500,5,6,950000,,25.0,10.0,Semi-Furnished,Malabar Hill,Ajay  Singh,,39861605
+7000,5,5,625000,,8.0,0.0,Furnished,Juhu,Nitesh Thawani,,40809155
+5500,5,5,800000,Bombay Real Estate Development Company,22.0,16.0,Semi-Furnished,Malabar Hill,Ajay  Singh,IL Palazzo,40869191
+3500,5,5,350000,,12.0,10.0,Furnished,Khar West,Vijay,,41025235
+4575,5,4,375000,Hiranandani Group,30.0,9.0,Furnished,Powai lake,Mihir Desai,Evita,41083795
+3500,5,5,600000,,14.0,11.0,Semi-Furnished,Nepeansea Road,Ajmera,Ashoka Apartments,42300993
+2600,5,5,450000,,9.0,9.0,Unfurnished,Prem Puriji Chowk,Ashok Turakhia,,42305033
+4750,5,5,400000,Hiranandani Group,36.0,19.0,Semi-Furnished,Central Area,Shinoy,Hiranandani Gardens,42356569
+4000,5,6,800000,Bombay Real Estate Development Company,20.0,19.0,Semi-Furnished,Malabar Hill,Ajmera,IL Palazzo,42427623
+2670,5,5,350000,,24.0,19.0,Furnished,Sewri,Kailash,Ashok Gardens,42492459
+4800,5,5,550000,,7.0,1.0,Furnished,Juhu Vile Parle Development Scheme,Chetan,,43027107
+4500,5,5,600000,,10.0,2.0,Furnished,Bandra East,Ajay  Kapur,,43383647
+4000,5,5,480000,,20.0,11.0,Semi-Furnished,JVPD Scheme,Sumairaa,,43565895
+5000,5,8,700000,Lodha Group,75.0,-1.0,Semi-Furnished,Lower Parel,Rajiv Gehi,World Crest,43866925
+2500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44026621
+3500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44026623
+2500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44062445
+3500,5,5,1200000,,,,Furnished,Chembur,Imran  Sheikh,,44062447
+4200,5,6,550000,,11.0,10.0,Furnished,Juhu,Nitesh Thawani,,44567869
+4500,5,5,600000,,13.0,12.0,Furnished,Pali Hill,Gagan  Chadha,Capri Heights Apartment,44833619
+5000,5,6,700000,,18.0,9.0,Semi-Furnished,Bandra Band Stand,Sanjay Kumar,,44864391
+-2147483648,5,6,600000,,18.0,14.0,Furnished,Pali Hill,Devesh  Pandey,,44920899
+1950,5,5,450000,,,,Unfurnished,Nepeansea Road,Digvijay Ram Salve,Bhaveshwar Sagar,45080009
+5000,5,5,550000,,20.0,10.0,Furnished,World Trade Centre,Vikram Kapoor,,45139033
+5600,5,6,532000,Oberoi Realty Limited,23.0,7.0,Furnished,Lokhandwala Complex,Rahul  Singh ,Oberoi Sky Gardens,45453971
+7500,5,5,1000000,,29.0,20.0,Unfurnished,Worli,Rajiv Gehi,,45458121
+7785,5,6,650000,Omkar Realtors and Developers Pvt. Ltd.,55.0,33.0,Furnished,Bhim Nagar,Dolly  Parekh,Omkar 1973,45530155
+7785,5,5,650000,Omkar Realtors and Developers Pvt. Ltd.,55.0,21.0,Furnished,Bhim Nagar,Dolly  Parekh,Omkar 1973,45530445
+4000,5,5,1200000,,20.0,20.0,Furnished,Napean Sea Road,Ajmera,,45766337
+6500,5,6,1000000,Kalpataru Limited,24.0,18.0,Furnished,Worli,Rajiv Gehi,Kalpataru Horizon,45870955
+-2147483648,5,5,350000,Kalptaru Construction,23.0,22.0,Furnished,Parel,Jitesh Jain jitesh,Kalpataru Habitat Apartment,46119381
+4500,5,6,400000,Zara Habitats Llp,20.0,19.0,Furnished,Dadar West,Santosh,Horizon,46121559
+3855,5,5,425000,Peninsula Land Limited,31.0,25.0,Furnished,Parel,Jitesh Jain jitesh,Ashok tower,46414995
+4000,5,5,500000,,20.0,11.0,Furnished,Cuffe Parade,Harakh Shah,,46478953
+6000,5,5,350000,Prathana Builders And Developers,13.0,-1.0,Semi-Furnished,Parel,Harakh Shah,Prarthna Heights,46642383
+5250,5,5,600000,,20.0,18.0,Unfurnished,Bandra West,Ajay  Kapur,,46708393
+2500,5,5,475000,,14.0,12.0,Semi-Furnished,Byculla,Harakh Shah,,46806907
+6750,5,6,700000,AVIGHNA GROUP,50.0,27.0,Furnished,Lower Parel,Vivek  Solanki,One Avighna Park,46865715
+5000,5,4,1000000,,7.0,3.0,Semi-Furnished,Bandra West,Chetan,,46869207
+8000,5,6,650000,,46.0,33.0,Semi-Furnished,Worli,Rahul Vaid,,46877473
+5600,5,5,900000,Ahuja Constructions,45.0,23.0,Unfurnished,Prabhadevi,Mallesh  Shetty,Ahuja Towers,47031729
+4000,5,4,350000,Prathana Builders And Developers,57.0,35.0,Semi-Furnished,Bharat Mata Chowk,Santosh P,Prarthna Heights,47079531
+4900,5,5,550000,Lodha Group,81.0,41.0,Semi-Furnished,Worli,Mallesh  Shetty,Lodha World One,47113915
+5661,5,5,550000,Indiabulls Distribution Services Limited,45.0,44.0,Semi-Furnished,Lower Parel,Mallesh  Shetty,Indiabulls Sky,47125767
+6000,5,5,550000,,3.0,0.0,Furnished,Napean Sea Road,Mallesh  Shetty,,47125835
+5000,5,5,550000,,30.0,8.0,Furnished,Pedder Road,Mallesh  Shetty,,47125959
+5700,5,5,850000,Ahuja Constructions,60.0,20.0,Semi-Furnished,Worli,Mallesh  Shetty,Ahuja Towers,47126209
+8000,5,5,900000,,9.0,6.0,Furnished,Malabar Hill,Mallesh  Shetty,,47126345
+4200,5,5,1200000,,10.0,8.0,Furnished,Mahalakshmi,Mallesh  Shetty,,47126401
+7000,5,6,720000,,8.0,1.0,Semi-Furnished,Malabar Hill,Pooja  Mehta,,47264869
+5900,5,7,800000,Ahuja Constructions,45.0,20.0,Furnished,Worli,Mallesh  Shetty,Ahuja Towers,47265935

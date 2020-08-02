@@ -1,0 +1,2194 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+850,1,1,60000,,6.0,5.0,Semi-Furnished,Bandra West,Ajay  Kapur,Super Star Apartment,2074068
+550,1,1,60000,,7.0,5.0,Furnished,Bandra West,Ajay  Kapur,,6732243
+600,1,1,60000,,8.0,7.0,Furnished,Bandra West,Ajay  Kapur,Reclamation,7033088
+600,1,1,55000,KN Builders,4.0,1.0,Semi-Furnished,Bandra West,Ajay  Kapur,Ajanta Apartment,8273224
+500,1,1,60000,,6.0,1.0,Furnished,Bandra West,Ajay  Kapur,,8273483
+500,1,1,55000,,10.0,7.0,Semi-Furnished,Bandra West,Ajay  Kapur,,8273590
+600,1,1,55000,,8.0,4.0,Semi-Furnished,Bandra West,Ajay  Kapur,,8382676
+750,1,1,55000,,8.0,4.0,Semi-Furnished,Bandra West,Ajay  Kapur,,8382701
+700,1,1,45000,,9.0,7.0,Furnished,Bandra West,Idris Khatri,Little Flower Apartment,9848235
+700,1,1,45000,,10.0,7.0,Unfurnished,Dadar West,Vikram Garud,,9864573
+750,1,1,40000,,9.0,5.0,Furnished,Bandra West,Idris Khatri,,9944693
+500,1,1,55000,Nilesh Construction,4.0,3.0,Furnished,Bandra West,Ajay  Kapur,Dharam Jyot Apartment,10422045
+600,1,1,50000,,4.0,3.0,Semi-Furnished,Santacruz West,Ajay  Kapur,,10674088
+671,1,1,50000,,21.0,11.0,Semi-Furnished,Mahim,Arun S,,11618412
+600,1,1,45000,,6.0,1.0,Furnished,Worli,Vijay,,11680496
+650,1,1,60000,,3.0,1.0,Furnished,Worli,Vijay,,11711982
+800,1,1,65000,,19.0,3.0,Furnished,Worli,Vijay,,11815713
+700,1,1,40000,,15.0,10.0,Furnished,Worli,Vijay,,11827295
+560,1,1,40000,,4.0,0.0,Furnished,Santacruz West,Ritesh Lanjewar,,12018724
+600,1,1,55000,,10.0,5.0,Unfurnished,Prabhadevi,Vijay,Project Prabhadevi,12126209
+780,1,2,38000,Godrej Constructions,20.0,11.0,Semi-Furnished,Vikhroli East,Kanchan Tendulkar,Godrej Garden Enclave B Type Tower,12519605
+580,1,1,40000,,12.0,7.0,Furnished,Bandra West,Ritesh Lanjewar,,13615615
+680,1,2,55000,,8.0,6.0,Furnished,Bandra West,Shakir Shandiwan,Pali Hill Apartment,13653517
+525,1,1,40000,,14.0,8.0,Furnished,Andheri West,Vishal dudeja,,13656023
+650,1,1,45000,,7.0,5.0,Semi-Furnished,Colaba,O P Singh,,13675478
+700,1,2,60000,,12.0,7.0,Furnished,Bandra West,Shakir Shandiwan,,13843913
+650,1,1,40000,,9.0,2.0,Semi-Furnished,Mahalakshmi,Mahesh,,14154132
+600,1,1,38000,Acme Builders Pvt Ltd,8.0,6.0,Unfurnished,Andheri East,Sushant,Ascent Residency,14590570
+600,1,1,55000,,11.0,2.0,Semi-Furnished,Santacruz West,Ajay  Kapur,,14615466
+900,1,1,55000,,22.0,5.0,Semi-Furnished,Prabhadevi,Vijay,,14882217
+445,1,2,40000,,7.0,5.0,Unfurnished,Wadala,Waman Nadkarni,,15340188
+550,1,1,50000,Rizvi Builders,8.0,5.0,Unfurnished,Bandra West,Ajay  Kapur,Rizvi Complex,15433522
+750,1,2,55000,,7.0,5.0,Furnished,Juhu Tara Road,Asif Hasmi,,16072658
+500,1,1,40000,,6.0,4.0,Furnished,Colaba,O P Singh,Usha Sadan Apartment,16228614
+700,1,1,40000,,32.0,9.0,Unfurnished,Wadala,Veena Arneja,Lloyds Estate,16340639
+600,1,2,65000,,12.0,2.0,Semi-Furnished,Prabhadevi,Vijay,,16488227
+750,1,2,60000,,6.0,1.0,Semi-Furnished,Worli,Vijay,Vinod Mahal,16488745
+575,1,1,55000,,7.0,4.0,Furnished,Carter Road,Shafik Sayed,,16491037
+650,1,1,45000,Ajmera Realty & Infra India Ltd.,25.0,18.0,Unfurnished,Andheri West,Chirag Chhabria,Beverly Hills and Royal Empire,16683650
+615,1,2,39000,,7.0,5.0,Semi-Furnished,Veera Desai Chowk,Kamal Malkani,,16787219
+700,1,2,55000,Kalpatru,14.0,10.0,Unfurnished,Prabhadevi,Sachin  Bamgude,Rishabh Tower,16839823
+900,1,2,45000,,20.0,12.0,Unfurnished,Lower Parel,Sachin  Bamgude,Aakanksha Tower,16839824
+500,1,1,42000,,27.0,20.0,Unfurnished,Matunga West,Vikram Garud,,17120628
+550,1,1,38000,,,,Unfurnished,Matunga West,Vikram Garud,,17337154
+650,1,1,40000,,,,Semi-Furnished,Matunga West,Vikram Garud,,17337403
+700,1,2,43000,Supreme Universal,22.0,3.0,Furnished,Powai,Ram Prakash  Verma,Lake Homes,17417742
+700,1,2,40000,Silver Group,17.0,10.0,Furnished,Lokhandwala Complex,Asif Hasmi,Silver Arch Spring Co Operative Housing Society Ltd,17510406
+800,1,2,60000,,6.0,4.0,Semi-Furnished,Bandra West,Shakir Shandiwan,Band Stand,17713044
+650,1,1,45000,,7.0,3.0,Unfurnished,Lokhandwala Complex,Chirag Chhabria,,17734405
+700,1,2,48000,,6.0,2.0,Furnished,Bandra West,Shakir Shandiwan,,17737474
+750,1,2,55000,,6.0,2.0,Unfurnished,Bandra West,Shakir Shandiwan,,17737828
+750,1,2,48000,,5.0,3.0,Furnished,Bandra West,Shakir Shandiwan,Rizvi Union Park,17809255
+750,1,2,50000,,8.0,7.0,Furnished,Bandra West,Shakir Shandiwan,,17940375
+645,1,1,58000,,12.0,6.0,Furnished,Pali Hill,Shafik Sayed,,17976106
+700,1,2,65000,,6.0,3.0,Furnished,Bandra West,Shakir Shandiwan,Pali Hill Apartment,17987476
+550,1,1,45000,,7.0,7.0,Furnished,Pali Hill,Nisha,Diago Apartment,18058183
+500,1,1,60000,,8.0,8.0,Furnished,Pali Hill,Rishi  Dusija,,18591039
+650,1,2,40000,,7.0,5.0,Furnished,Vile Parle East,Bharat,,18980512
+650,1,1,45000,,7.0,5.0,Semi-Furnished,Lower Parel,Ashok kumar,,19090159
+650,1,2,40000,,16.0,9.0,Unfurnished,Andheri West,Chirag Chhabria,Amit Estate,19105842
+600,1,1,65000,,4.0,1.0,Furnished,Colaba,O P Singh,,19299671
+650,1,1,40000,Panorama Group,17.0,9.0,Semi-Furnished,Andheri West,Arjun Joshi,Panorama Tower,19531130
+600,1,1,42000,,7.0,4.0,Semi-Furnished,Andheri West,Dinesh Malhotra,,19640468
+650,1,1,52000,,12.0,2.0,Unfurnished,Prabhadevi,Vikram Garud,,19642092
+650,1,2,40000,,7.0,5.0,Unfurnished,Andheri West,Asif Hasmi,,19664861
+500,1,1,45000,,8.0,5.0,Semi-Furnished,Carter Road,Sarfraz khan,,19692489
+600,1,1,42000,,3.0,1.0,Semi-Furnished,Bandra West,Sarfraz khan,,19692717
+500,1,2,60000,,3.0,3.0,Semi-Furnished,Bandra West,Sarfraz khan,,19718929
+500,1,2,50000,,6.0,3.0,Furnished,Bandra West,Sarfraz khan,,19718971
+760,1,2,65000,,22.0,6.0,Semi-Furnished,Lower Parel,Vijay,,19722997
+600,1,1,46000,,5.0,2.0,Semi-Furnished,Bandra West,Sarfraz khan,,19726688
+650,1,2,45000,Indra Darshan Developer,12.0,6.0,Furnished,Andheri West,Asif Hasmi,Indra Darshan Apartment,19874378
+621,1,2,40000,,7.0,3.0,Furnished,Lokhandwala Complex,Kamal Malkani,Mota Mansion Apartment,20199771
+900,1,2,52000,,21.0,5.0,Furnished,Powai,Jitendra Jagasia,,20282801
+500,1,1,55000,,3.0,2.0,Semi-Furnished,Bandra West,Sarfraz khan,,20407139
+600,1,1,45000,,7.0,4.0,Unfurnished,Andheri West,Chirag Chhabria,,20413781
+687,1,2,42000,,7.0,3.0,Furnished,Lokhandwala Complex,Kamal Malkani,Mota Mansion Apartment,20569400
+700,1,2,40000,,19.0,18.0,Unfurnished,Lower Parel,Vikram Garud,,20604872
+700,1,1,45000,,7.0,4.0,Unfurnished,Lokhandwala Complex,Chirag Chhabria,,20681278
+585,1,2,42000,,5.0,2.0,Unfurnished,Yari Road,Kamal Malkani,Chanchal Kalyan Complex,20707048
+728,1,2,39000,Godrej Constructions,20.0,12.0,Unfurnished,Vikhroli East,Kanchan Tendulkar,Godrej Garden Enclave B Type Tower,20747034
+600,1,1,45000,,6.0,1.0,Furnished,Worli,Vijay,,20835073
+700,1,1,38000,,4.0,2.0,Furnished,Vile Parle East,Raju Mehta,,20847164
+650,1,2,45000,,5.0,5.0,Unfurnished,Dadar East,sff,,20856689
+532,1,1,40000,Cooperative Group Housing Society,7.0,7.0,Furnished,Andheri East,Sushant,Greenfields CHS,20870745
+780,1,1,41000,Godrej Constructions,20.0,11.0,Semi-Furnished,Vikhroli East,Kanchan Tendulkar,Godrej Garden Enclave B Type Tower,20919639
+500,1,2,55000,,4.0,2.0,Furnished,Bandra West,Sarfraz khan,,21052569
+650,1,2,45000,,8.0,5.0,Unfurnished,Kabutarkhana Purandare Chowk,Ganesh Mahyawanshi,,21289331
+575,1,1,55000,,10.0,4.0,Furnished,Khar West,Shafik Sayed,,21307567
+850,1,1,60000,Hilla Builder Pvt. Ltd.,8.0,5.0,Furnished,Bandra West,Sammy,Hill Road,21532687
+650,1,1,38000,,4.0,2.0,Unfurnished,Lokhandwala Complex,Chirag Chhabria,,22156855
+625,1,1,42000,,7.0,4.0,Unfurnished,Andheri West,Chirag Chhabria,,22159145
+700,1,2,38000,,9.0,7.0,Unfurnished,Veera Desai Chowk,abdul wafa,,22404797
+650,1,1,50000,,7.0,5.0,Semi-Furnished,Lal Baug,Kamlesh  Joshi,Poonam Park,22416577
+750,1,1,40000,,7.0,2.0,Unfurnished,Vile Parle East,Raju Mehta,,22698207
+700,1,1,55000,,7.0,0.0,Unfurnished,Dadar West,Ganesh Mahyawanshi,,22882649
+790,1,1,45000,,11.0,7.0,Unfurnished,Dadar West,Sachin  Bamgude,,23026909
+950,1,2,55000,,4.0,3.0,Furnished,Cuffe Parade,Sunil Kumar  Singh,,23141431
+765,1,2,57000,Aksee Real Estate,18.0,6.0,Unfurnished,Matunga West,Vijay,Shreeji Heights,23306447
+750,1,1,60000,,7.0,5.0,Furnished,Worli Hill,Ganesh Mahyawanshi,,23430071
+760,1,2,55000,Neumec Group,20.0,7.0,Semi-Furnished,Lower Parel,Vijay,Neumec Elegance,23430073
+557,1,1,40000,,3.0,3.0,Semi-Furnished,Jogeshwari East,Nitin Sabnis,,23601219
+800,1,1,50000,,7.0,4.0,Semi-Furnished,Khar West,Taukeer,Mangal Disha,23981243
+685,1,2,45800,,7.0,5.0,Furnished,Marol,Sunil  Vyas,Anmol Society,24019659
+450,1,1,42000,,20.0,11.0,Furnished,Dadar West,Santosh Chawnekar,Shree Niwas Apartment,24024655
+700,1,2,40000,,7.0,3.0,Furnished,Vile Parle East,Raju Mehta,,24410625
+600,1,1,50000,Hilla Builder Pvt. Ltd.,7.0,4.0,Semi-Furnished,Bandra West,Taukeer,Hill Road,24437057
+700,1,2,45000,,4.0,4.0,Unfurnished,Khar West,Taukeer,,24439643
+650,1,1,45000,,7.0,3.0,Semi-Furnished,Bandra West,Taukeer,,24483205
+555,1,1,41000,DOSTI REALTY,7.0,5.0,Furnished,Wadala East,Veena Arneja,Dosti Acres,24500519
+500,1,1,38000,,4.0,2.0,Unfurnished,Bandra West,Taukeer,,24507197
+600,1,1,58000,,7.0,4.0,Semi-Furnished,Bandra West,Taukeer,,24520657
+640,1,1,45000,,4.0,4.0,Semi-Furnished,Khar West,Taukeer,Murli Govind,24565093
+600,1,1,40000,,7.0,4.0,Unfurnished,Mahalakshmi,Santosh Chawnekar,,24565321
+600,1,1,60000,Rizvi Builders,8.0,4.0,Furnished,Bandra West,Ajay  Kapur,Rizvi Complex,24667157
+1000,1,1,65000,,7.0,5.0,Furnished,Bandra West,Ajay  Kapur,Rizvi Union Park,24783551
+700,1,1,50000,,7.0,4.0,Unfurnished,Mahim,Vikram Garud,,24820551
+550,1,1,52000,,7.0,1.0,Furnished,Bandra West,Taukeer,,24863889
+550,1,1,50000,,7.0,1.0,Furnished,Khar West,Taukeer,,25030811
+750,1,1,60000,Raheja Developers Ltd.,15.0,5.0,Furnished,Bandra West,Taukeer,Kanti Apartment Mount Merry Hill,25055859
+750,1,2,65000,,6.0,1.0,Semi-Furnished,Worli,Vijay,Vinod Mahal,25173531
+650,1,1,42000,,26.0,10.0,Furnished,Matunga West,Ramesh Sharma,,25244073
+650,1,2,52000,,7.0,4.0,Unfurnished,Pali Hill,Taukeer,Krishna Kutir,25340485
+600,1,1,60000,,7.0,4.0,Semi-Furnished,Bandra West,Taukeer,,25442117
+600,1,2,65000,,6.0,3.0,Unfurnished,Nana Chowk,Ashok Turakhia,,25500267
+520,1,1,40000,Omkar Realtors and Developers Pvt. Ltd.,23.0,12.0,Unfurnished,Mahim West,Sachin  Bamgude,Vayu,25581223
+675,1,1,40000,Kamanwala Industries,7.0,2.0,Furnished,Andheri East,Salim Shaikh,Manavsthal,25723709
+650,1,1,60000,,21.0,3.0,Furnished,Bandra West,Sarfraz khan,,25795939
+700,1,1,38000,,8.0,4.0,Furnished,Lokhandwala Complex,Vinod Kumar,,25810815
+605,1,1,43000,,8.0,5.0,Semi-Furnished,Lal Baug,Gurudatta  Tawde,,25851609
+750,1,1,43500,,7.0,7.0,Unfurnished,Andheri East,Sunil  Vyas,Rustomjee Central Park,25882691
+650,1,1,51000,Sugee Group,25.0,10.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,25913561
+800,1,1,40000,,4.0,2.0,Semi-Furnished,Vile Parle West,Samir Pandya,,26047451
+600,1,1,45000,,5.0,2.0,Unfurnished,,Bose Realty,,26051091
+720,1,1,55000,,6.0,1.0,Furnished,Vile Parle West,Jigar,,26231839
+650,1,1,60000,Sugee Group,20.0,13.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,26299313
+728,1,2,42000,Godrej Constructions,20.0,8.0,Unfurnished,Vikhroli East,Kanchan Tendulkar,Godrej Garden Enclave B Type Tower,26344359
+600,1,1,42000,,20.0,16.0,Unfurnished,Lower Parel,Santosh Chawnekar,,26361553
+700,1,1,42000,,7.0,5.0,Furnished,Lokhandwala Complex,Shukla Yadav,West Wind,26584237
+600,1,1,67000,,5.0,2.0,Furnished,Colaba,Munshi,,26639931
+600,1,2,48000,,7.0,4.0,Unfurnished,Vile Parle East,Bharat,,26678731
+650,1,1,51000,,3.0,0.0,Semi-Furnished,Shivaji Park,Jeetendra gaikwad,,26704955
+680,1,2,55000,,6.0,6.0,Semi-Furnished,Bandra West,SAIDA KARIM JIVANI,,26838115
+675,1,1,60000,,7.0,3.0,Furnished,Pedder Road,Chandni Kapadia,,26995261
+550,1,1,45000,,4.0,1.0,Furnished,Khar West,Shakir Shandiwan,Shravan Apartment ,27316243
+750,1,1,55000,,5.0,3.0,Semi-Furnished,Pali Hill,Shakir Shandiwan,,27316413
+500,1,1,60000,,3.0,1.0,Furnished,Shivaji Park,Mukund,Nandan Society,27332537
+550,1,1,54000,,6.0,4.0,Semi-Furnished,Holy Family Hospital,Shakir Shandiwan,,27355485
+700,1,1,65000,,5.0,4.0,Furnished,Pali Naka,Shakir Shandiwan,,27429927
+550,1,1,38000,,7.0,6.0,Unfurnished,Mahalaxmi Race Course,Sushant,,27488383
+750,1,1,55000,,14.0,11.0,Semi-Furnished,Matunga West,Pappu Maurya,,27586771
+550,1,2,47000,,7.0,3.0,Furnished,Bandra West,Sarfraz khan,,27686253
+600,1,1,40000,Parikh Group,7.0,3.0,Furnished,Lokhandwala Complex,Vinod Kumar,Pearl Apartment,27864407
+600,1,1,45000,,3.0,1.0,Furnished,Sion,Veena Arneja,Sion East,27906013
+586,1,2,55000,,8.0,4.0,Semi-Furnished,Bandra West,Shafik Sayed,,28066099
+650,1,1,62000,,19.0,7.0,Furnished,Prabhadevi,Mukund,,28099265
+575,1,2,55000,,8.0,7.0,Furnished,Bandra Reclamation,Shafik Sayed,Reclamation,28156105
+650,1,1,45000,Raj Developers,14.0,2.0,Unfurnished,Lower Parel,Santosh Chawnekar,God Gifts Building,28158147
+360,1,1,40000,,21.0,11.0,Semi-Furnished,Mahim,Raj,,28296343
+600,1,1,63000,,5.0,3.0,Semi-Furnished,Worli Hill,Jeetendra gaikwad,,28359151
+600,1,1,45000,,7.0,4.0,Unfurnished,Khar West,gopal singh,,28451701
+700,1,1,65000,Rizvi Builders,7.0,5.0,Furnished,Bandra West,Sammy,Rizvi Complex,28493661
+674,1,1,60000,,12.0,6.0,Semi-Furnished,Khar West,Shafik Sayed,,28494189
+650,1,1,39000,,7.0,4.0,Furnished,Lokhandwala Complex,Pravin  Shivekar,Rohit Apartment,28657203
+765,1,2,60000,,8.0,4.0,Furnished,Bandra West,Shafik Sayed,,28832717
+650,1,1,38000,,7.0,3.0,Unfurnished,Seven Bungalows,Pravin  Shivekar,Versova Sea Green Apartment,28905545
+650,1,1,39000,,7.0,2.0,Semi-Furnished,4 Bunglows,Pravin  Shivekar,,28906483
+700,1,2,40000,,7.0,2.0,Furnished,Vile Parle East,Raju Mehta,,28990725
+550,1,2,58000,,6.0,4.0,Furnished,Bandra West,Sarfraz khan,,29159839
+550,1,1,50000,,7.0,3.0,Semi-Furnished,Lower Parel,Jeetendra gaikwad,,29197799
+650,1,2,42000,,6.0,5.0,Unfurnished,Mota Nagar,Sunil  Vyas,,29263845
+650,1,1,53000,,10.0,3.0,Semi-Furnished,Dadar West,Vikram Garud,,29386759
+700,1,2,42000,,32.0,9.0,Furnished,Wadala East,Veena Arneja,Lloyds Estate,29449571
+650,1,1,40000,,7.0,3.0,Furnished,Seven Bungalows,Subhash  Talokar,7 Bungalow,29451377
+425,1,1,40000,,22.0,13.0,Semi-Furnished,Matunga West,Sachin  Bamgude,,29564203
+400,1,1,40000,,27.0,13.0,Unfurnished,Matunga West,Sachin  Bamgude,,29632267
+550,1,1,45000,,3.0,1.0,Semi-Furnished,Bandra,Sarfraz khan,,29797043
+750,1,2,58000,,8.0,5.0,Unfurnished,Bandra West,gopal singh,,29811481
+550,1,1,40000,,11.0,8.0,Unfurnished,Wadala East,Veena Arneja,,29825155
+650,1,1,40000,Sai Group,7.0,5.0,Furnished,Seven Bungalows,Pravin  Shivekar,Sai Apartment,29827249
+600,1,1,40000,,5.0,2.0,Furnished,Marine Lines,Sushant,,29835433
+700,1,2,60000,,7.0,5.0,Furnished,Pali Naka,Shakir Shandiwan,,30020289
+700,1,2,65000,,7.0,4.0,Semi-Furnished,Khar West,Shakir Shandiwan,,30020799
+710,1,1,46000,,16.0,14.0,Furnished,Parel,Gurudatta  Tawde,,30048777
+654,1,2,55000,,8.0,4.0,Furnished,Bandra West,Shafik Sayed,,30067925
+750,1,1,45000,,8.0,6.0,Furnished,Lokhandwala Complex,Roshan  Khanvilkar,,30138311
+720,1,2,45000,Atul Projects,15.0,6.0,Furnished,Andheri East,Salim Shaikh,Atul Blue Fortuna,30174973
+700,1,2,65000,,7.0,4.0,Furnished,Pali Naka,Shakir Shandiwan,,30175251
+670,1,2,38000,Srishti Construction,18.0,16.0,Furnished,Powai,Sachin Babar,Panch Complex,30305345
+650,1,2,60000,,6.0,2.0,Unfurnished,Bandra West,Shakir Shandiwan,,30391969
+700,1,2,58000,,12.0,6.0,Furnished,Carter Road,Shakir Shandiwan,,30447003
+500,1,1,65000,,11.0,5.0,Furnished,Uppar Colaba,Mohit Ramchandani,,30471253
+550,1,1,55000,Jayanth Group,7.0,3.0,Furnished,Prabhadevi,Mukund,Jayant Sapphire,30498463
+600,1,1,39000,,21.0,18.0,Furnished,Yari Road,Pravin  Shivekar,,30548715
+600,1,1,45000,Cooperative Group Housing Society,9.0,3.0,Unfurnished,Andheri West,Shukla Yadav,Andheri CHS,30622429
+650,1,1,60000,,18.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,Shri Sai Viswas,30638267
+600,1,2,60000,,6.0,1.0,Semi-Furnished,Bandra West,Shakir Shandiwan,,30690367
+600,1,2,58000,,7.0,5.0,Semi-Furnished,Carter Road,Shakir Shandiwan,,30690503
+650,1,1,55000,,4.0,3.0,Unfurnished,Carter Road,Shakir Shandiwan,,30690775
+650,1,2,45000,,14.0,10.0,Semi-Furnished,Matunga West,Ramesh Sharma,,30700343
+720,1,2,38000,Nahar Group,7.0,5.0,Furnished,Chandivali,Ram Prakash  Verma,Project Nahar Amrit Shakti,30910633
+600,1,2,60000,,7.0,4.0,Furnished,Carter Road,Shakir Shandiwan,,30914053
+650,1,2,40000,,7.0,4.0,Furnished,Seven Bungalows,Pravin  Shivekar,,30978753
+700,1,2,45000,,8.0,3.0,Unfurnished,Vile Parle East,Raju Mehta,,30985487
+650,1,1,55000,,7.0,3.0,Furnished,Lower Parel,Jeetendra gaikwad,,31003621
+650,1,1,55000,,18.0,10.0,Semi-Furnished,Prabhadevi,Jeetendra gaikwad,,31007829
+650,1,2,55000,,7.0,3.0,Semi-Furnished,Carter Road,Shakir Shandiwan,,31033089
+625,1,2,60000,,7.0,3.0,Furnished,,Gargi,,31033621
+550,1,2,60000,Sugee Group,18.0,10.0,Furnished,Dadar West,Jeetendra gaikwad,Sugee Sadan,31036953
+550,1,1,52000,Sugee Group,18.0,12.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,31037453
+600,1,2,60000,,6.0,2.0,Unfurnished,Bandra Reclamation,Shakir Shandiwan,,31127363
+650,1,2,60000,,5.0,2.0,Unfurnished,Bandra West,Shakir Shandiwan,,31151939
+575,1,2,38500,Ajmera Realty & Infra India Ltd.,7.0,4.0,Semi-Furnished,Wadala,Sunny Rajpal,Bhakti Park,31207387
+650,1,2,45000,,20.0,3.0,Semi-Furnished,Matunga West,Ramesh Sharma,,31305331
+575,1,2,39000,,7.0,6.0,Furnished,Wadala East,Sunny Rajpal,,31401023
+650,1,1,55000,,10.0,4.0,Semi-Furnished,Bandra West,Shafik Sayed,Pushpa Apartments,31616797
+600,1,1,55000,,8.0,5.0,Furnished,Khar West,Shafik Sayed,,31642301
+645,1,1,65000,,10.0,4.0,Furnished,Khar West,Shafik Sayed,,31642713
+680,1,1,55000,,13.0,10.0,Furnished,Bandra West,Shafik Sayed,Mount Marry,31653587
+620,1,2,40000,Hiranandani Group,7.0,5.0,Furnished,Powai,sameer s,Hiranandani Gardens,31669175
+645,1,2,45000,,7.0,4.0,Furnished,Andheri West,Kamal Malkani,Sea Crest Apartment,31687621
+600,1,1,55000,,4.0,2.0,Furnished,Bandra West,Shafik Sayed,,31815905
+650,1,2,40000,,7.0,0.0,Furnished,Andheri West,Pravin  Shivekar,Morya Landmark 1,31828273
+620,1,1,52000,,11.0,5.0,Furnished,Parel,Gurudatta  Tawde,,31850385
+650,1,1,46000,,3.0,0.0,Furnished,Shivaji Park,Jeetendra gaikwad,,31899831
+730,1,2,51000,Lodha Group,35.0,9.0,Semi-Furnished,Wadala,Sunny Rajpal,New Cuffe Parade,31919191
+700,1,2,50000,,8.0,5.0,Semi-Furnished,Bandra West,Shakir Shandiwan,,31960203
+650,1,1,60000,,7.0,4.0,Semi-Furnished,Union Park,Shakir Shandiwan,,31987139
+650,1,2,40000,,7.0,6.0,Furnished,Veera Desai Chowk,abdul wafa,,31993867
+650,1,2,42000,,7.0,6.0,Furnished,Veera Desai Chowk,abdul wafa,,32108317
+700,1,2,40000,,18.0,12.0,Unfurnished,Versova,abdul wafa,Panch Amrut,32108379
+650,1,2,40000,,7.0,6.0,Unfurnished,Ghatkopar East,Dinesh ,Valmiki Apartment,32108607
+550,1,1,50000,,6.0,4.0,Semi-Furnished,Matunga,Avinash gurav,,32118013
+700,1,1,50000,,7.0,6.0,Furnished,Carter Road,Shakir Shandiwan,,32126793
+654,1,2,39000,,7.0,2.0,Semi-Furnished,Lokhandwala Complex,Kamal Malkani,,32153723
+600,1,1,42000,,4.0,2.0,Unfurnished,Dadar West,Jeetendra gaikwad,,32155501
+400,1,1,40000,,5.0,2.0,Unfurnished,Talmakiwadi,Sushant,,32155753
+600,1,2,55000,,7.0,5.0,Furnished,Prabhadevi,Jeetendra gaikwad,,32166693
+700,1,2,60000,,10.0,5.0,Furnished,Bandra West,Shafik Sayed,,32170667
+700,1,2,60000,,7.0,6.0,Furnished,Khar West,Shakir Shandiwan,,32206889
+550,1,1,45000,,14.0,7.0,Unfurnished,Dadar West,Jeetendra gaikwad,,32222551
+650,1,1,55000,,10.0,5.0,Semi-Furnished,Bandra West,Shafik Sayed,Reclamation,32299003
+650,1,2,65000,,8.0,6.0,Furnished,Bandra West,Shafik Sayed,,32300341
+700,1,2,52000,,7.0,2.0,Furnished,Bandra West,Shakir Shandiwan,,32312415
+560,1,1,40000,,4.0,3.0,Furnished,Lokhandwala Complex,Manoj Rajpal,,32467889
+650,1,2,60000,Shree Yogeshwar Builders And Developers,11.0,6.0,Furnished,Prabhadevi,Jeetendra gaikwad,Paschim Apartments,32501967
+650,1,2,51000,,7.0,2.0,Unfurnished,Matunga West,Jeetendra gaikwad,,32503455
+750,1,2,52000,,6.0,2.0,Furnished,Perry Rd,Shakir Shandiwan,,32509851
+450,1,1,45000,,3.0,3.0,Unfurnished,Shivaji Park,Mukund,,32582419
+600,1,2,39000,,4.0,3.0,Furnished,Lokhandwala Complex,Rohan  Nair,,32591125
+650,1,1,60000,,10.0,4.0,Furnished,Bandra West,Shafik Sayed,Reclamation,32612319
+650,1,2,60000,Hilla Builder Pvt. Ltd.,7.0,4.0,Semi-Furnished,Bandra West,Tarik Mirza,Hill Road,32676591
+620,1,1,40000,,7.0,1.0,Furnished,Powai,anandraj,,32849729
+600,1,1,43000,,18.0,1.0,Furnished,Veera Desai Industrial Estate,abdul wafa,,33012223
+600,1,2,38000,Nahar Group,14.0,7.0,Furnished,Chandivali,Sachin,Orchid Enclave,33049633
+600,1,1,51000,,18.0,10.0,Unfurnished,Dadar West,Jeetendra gaikwad,,33066677
+650,1,2,65000,Lokhandwala Infrastructure,18.0,10.0,Semi-Furnished,Worli,Jeetendra gaikwad,lokhandwala residency,33067807
+730,1,1,54000,Lodha Group,40.0,8.0,Semi-Furnished,Wadala,Manoj Prithiani,Lodha Enchante,33238697
+800,1,1,39000,,7.0,4.0,Furnished,Four Bungalows,Govind  Gupta,,33242879
+650,1,1,65000,,4.0,2.0,Furnished,Shivaji Park,Jeetendra gaikwad,,33263325
+660,1,1,60000,,3.0,3.0,Furnished,Kemps Corner,Vaseem  Siddique,,33343203
+600,1,1,65000,,14.0,8.0,Unfurnished,Kemps Corner,Vaseem  Siddique,,33350775
+650,1,1,65000,,14.0,10.0,Furnished,Walkeshwar,Vaseem  Siddique,,33351139
+600,1,1,55000,,8.0,4.0,Furnished,Colaba,Vaseem  Siddique,,33351877
+550,1,1,55000,,6.0,4.0,Furnished,Sasoon Dock,K. S. Bilimoria,,33396917
+650,1,1,65000,,8.0,4.0,Furnished,Breach Candy,Vaseem  Siddique,,33416307
+650,1,2,65000,,5.0,1.0,Unfurnished,Colaba,Sudesh  Kapoor,,33519809
+600,1,1,40000,Cooperative Group Housing Society,7.0,4.0,Unfurnished,Lokhandwala Complex,Vinod Kumar,Andheri CHS,33555939
+850,1,2,62000,,13.0,9.0,Furnished,Shree Siddhivinayak Mandir Chowk,Mukund,,33561991
+800,1,2,65000,,12.0,4.0,Unfurnished,Bandra West,Shafik Sayed,,33615481
+600,1,2,60000,,10.0,8.0,Furnished,Colaba,Vaseem  Siddique,,33637243
+600,1,1,65000,,12.0,6.0,Furnished,Colaba,Vaseem  Siddique,,33639825
+550,1,1,50000,,7.0,1.0,Furnished,Dadar West,Mukund,,33643995
+550,1,1,60000,,10.0,8.0,Furnished,Colaba,Vaseem  Siddique,,33729233
+650,1,1,40000,,8.0,5.0,Furnished,Andheri West,Akki  Kumar,7 Bungalow,33749991
+600,1,2,40000,Hiranandani Group,14.0,5.0,Furnished,Powai,sameer s,Hiranandani Gardens,33784853
+585,1,2,40000,Ajmera Realty & Infra India Ltd.,14.0,7.0,Furnished,Wadala East,Sunny Rajpal,Bhakti Park,33850521
+700,1,2,38000,,3.0,2.0,Semi-Furnished,Vile Parle East,Raju Mehta,,33852889
+550,1,1,38000,DOSTI REALTY,7.0,3.0,Semi-Furnished,Wadala East,Veena Arneja,Dosti Acres,33866981
+670,1,2,40000,Ecohomes,7.0,5.0,Furnished,Andheri East,Salim Shaikh,Eco Park,33952357
+-2147483648,1,1,45000,,5.0,4.0,Semi-Furnished,Bandra West,Khan,,33958559
+700,1,2,55000,,7.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,34009311
+989,1,2,45000,,7.0,3.0,Semi-Furnished,Neelam Nagar,girish,,34057205
+585,1,2,38000,Ajmera Realty & Infra India Ltd.,14.0,7.0,Furnished,Wadala East,Sunny Rajpal,Bhakti Park,34116187
+400,1,1,45000,,7.0,1.0,Semi-Furnished,Walkeshwar,Divya,,34174875
+700,1,1,55000,,10.0,6.0,Semi-Furnished,Bandra West,Shafik Sayed,Shree Siddhivinayak Apartments,34186993
+-2147483648,1,2,40000,,7.0,3.0,Furnished,Powai,anandraj,,34291567
+450,1,1,40000,Aksee Real Estate,23.0,-1.0,Unfurnished,Matunga West,Pranav  Toke,Shreeji Heights,34341363
+650,1,2,65000,,4.0,1.0,Furnished,Worli Hill,Jeetendra gaikwad,,34342543
+700,1,2,55000,,11.0,4.0,Furnished,Bandra West,Shafik Sayed,,34342557
+650,1,2,42000,,7.0,3.0,Furnished,Seven Bungalows,Pravin  Shivekar,,34358549
+650,1,2,45000,,20.0,13.0,Furnished,Lokhandwala Complex,Pravin  Shivekar,,34358945
+560,1,1,50000,Hiranandani Group,7.0,7.0,Furnished,Central Area,I K Khandelwal,Hiranandani Gardens,34379195
+750,1,2,48000,,3.0,2.0,Unfurnished,Vile Parle East,Gautam  Shinge,,34554829
+510,1,2,65000,Gyaneshwar Builder,15.0,9.0,Furnished,Prabhadevi,Mukund,Gyaneshwar Apartment,34716917
+670,1,1,45000,,17.0,4.0,Semi-Furnished,Parel,Gurudatta  Tawde,Sonas Tower ,34793049
+650,1,2,40000,,8.0,5.0,Furnished,Lokhandwala Complex,Vinod Kumar,,34802085
+525,1,1,45000,,,,Unfurnished,Mahalakshmi,Pratiksha Gaikwad,,34949301
+650,1,1,40000,,,,Unfurnished,Mahalaxmi Race Course,Pratiksha Gaikwad,,34949691
+610,1,2,39000,,7.0,5.0,Furnished,Lokhandwala Complex,Kamal Malkani,Padmavati Apartment,35025725
+450,1,1,55000,,6.0,3.0,Semi-Furnished,Bandra West,Karan Sakhrani,,35149491
+650,1,1,40000,DOSTI REALTY,,,Semi-Furnished,Wadala,Veena Arneja,Dosti Acres,35228417
+700,1,1,39000,,7.0,3.0,Furnished,Lokhandwala Complex,Hitesh Aswani,,35315467
+600,1,1,65000,,8.0,4.0,Furnished,Kemps Corner,Vaseem  Siddique,,35318389
+750,1,1,55000,,12.0,5.0,Furnished,Bandra West,Shafik Sayed,,35372987
+550,1,2,45500,,7.0,1.0,Semi-Furnished,Lower Parel,Ravi Gupta,Mahavir Darshan,35407405
+1500,1,2,40000,,21.0,14.0,Semi-Furnished,Oshiwara,Govind  Gupta,,35473043
+680,1,2,60000,,8.0,4.0,Furnished,Bandra West,Shafik Sayed,,35620851
+550,1,1,65000,,8.0,5.0,Furnished,Colaba,Vaseem  Siddique,,35626825
+580,1,1,50000,,10.0,4.0,Furnished,Bandra West,Shafik Sayed,,35667831
+650,1,2,60000,,3.0,2.0,Semi-Furnished,Bandra West,Shafik Sayed,,35668187
+700,1,2,60000,,5.0,0.0,Furnished,Bandra West,Shafik Sayed,,35695023
+550,1,1,65000,,6.0,3.0,Furnished,Uppar Colaba,Sunil Kumar  Singh,,35724279
+600,1,1,60000,,8.0,3.0,Furnished,Bandra West,Rahim  Shaikh,Mount Marry,35768001
+730,1,1,40000,,7.0,2.0,Furnished,Shri Swami Samarth Nagar,Shukla Yadav,,35797347
+700,1,1,55000,,10.0,4.0,Furnished,Bandra West,Shafik Sayed,,35852495
+575,1,1,39000,,22.0,11.0,Unfurnished,Elphinstone,Ravi Gupta,,35862217
+700,1,1,50000,,8.0,7.0,Furnished,Bandra West,Kamal,,35880951
+650,1,1,38000,,7.0,4.0,Unfurnished,Lokhandwala Complex,Hitesh Aswani,,35918279
+550,1,1,65000,,8.0,4.0,Furnished,Colaba,Vaseem  Siddique,,35936041
+600,1,1,65000,,7.0,4.0,Furnished,Tardeo,Vaseem  Siddique,,35936315
+410,1,1,40000,Reliaable Developers,8.0,5.0,Unfurnished,Bandra West,Rahim  Shaikh,Hashu Niwas,35989585
+750,1,2,65000,,9.0,4.0,Furnished,Bandra West,Shafik Sayed,,36018365
+650,1,2,50000,,10.0,6.0,Furnished,Bandra West,Shafik Sayed,Reclamation,36029577
+650,1,1,56000,,7.0,6.0,Furnished,Vaishali Nagar,Pratiksha Gaikwad,,36072335
+730,1,1,47000,Lodha Group,40.0,10.0,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,36075987
+630,1,2,42000,Cooperative Group Housing Society,7.0,4.0,Unfurnished,Lokhandwala Complex,Kamal Malkani,Versova Denzil CHS,36105209
+750,1,1,60000,,8.0,4.0,Semi-Furnished,Bandra West,Shafik Sayed,Massabielle Apartment,36117911
+850,1,2,40000,,7.0,1.0,Furnished,Lokhandwala Complex,Govind  Gupta,,36137761
+700,1,2,65000,,10.0,5.0,Furnished,Bandra West,Shafik Sayed,,36154757
+700,1,1,65000,,10.0,4.0,Furnished,Khar West,Shafik Sayed,,36155023
+650,1,1,45000,,8.0,3.0,Furnished,Bandra Reclamation,Shafik Sayed,Reclamation,36176065
+600,1,1,65000,,12.0,8.0,Furnished,Marine Lines,Vaseem  Siddique,,36182061
+700,1,1,55000,,10.0,4.0,Furnished,Khar West,Shafik Sayed,,36222735
+700,1,2,65000,,10.0,3.0,Furnished,Bandra West,Shafik Sayed,Reclamation,36235979
+650,1,1,67000,,7.0,6.0,Unfurnished,Bandra West,Ali  Khan,,36243957
+496,1,2,49500,Lodha Group,40.0,15.0,Unfurnished,Wadala East,Balwinder Singh Banga,New Cuffe Parade,36273675
+810,1,1,52500,Lodha Group,40.0,15.0,Unfurnished,Wadala East,Balwinder Singh Banga,New Cuffe Parade,36273809
+680,1,1,50000,,15.0,8.0,Furnished,Parel,Gurudatta  Tawde,,36353639
+560,1,1,41000,,6.0,3.0,Furnished,Uppar Colaba,Sudesh  Kapoor,,36387917
+750,1,1,65000,,11.0,1.0,Furnished,Khar West,Shafik Sayed,Kum Kum Apartment,36435035
+700,1,2,55000,,11.0,9.0,Furnished,Bandra West,Shafik Sayed,Mount Marry,36435269
+738,1,1,52500,Lodha Group,40.0,19.0,Unfurnished,Wadala,Balwinder Singh Banga,New Cuffe Parade,36476875
+650,1,1,65000,,9.0,2.0,Furnished,Colaba,Madan  Tiwari,,36504209
+690,1,1,51500,,16.0,5.0,Furnished,Parel,Gurudatta  Tawde,,36512493
+600,1,1,58000,,22.0,11.0,Unfurnished,Dadar West,Jeetendra gaikwad,,36518977
+550,1,1,55000,,9.0,3.0,Semi-Furnished,Navy Nagar,Madan  Tiwari,Sneha Sadan Apartment,36529155
+700,1,2,55000,,8.0,2.0,Semi-Furnished,Bandra West,Shafik Sayed,,36603049
+800,1,1,65000,,6.0,2.0,Furnished,Bandra West,Shafik Sayed,Rays Apartment,36670417
+500,1,1,47500,,5.0,3.0,Furnished,Pali Hill,Monomozo,,36691129
+700,1,2,42000,,6.0,3.0,Semi-Furnished,Vile Parle East,Raju Mehta,,36699319
+700,1,2,50000,,7.0,6.0,Unfurnished,Kamala City,Anand Gupta,,36703797
+700,1,2,65000,,14.0,9.0,Unfurnished,Bandra West,Shafik Sayed,Dhaval Ganga,36736607
+1350,1,2,55000,Godrej Constructions,28.0,3.0,,Vikhroli East,Riyaz  Khan,Godrej Garden Enclave B Type Tower,36800621
+650,1,1,55000,,12.0,5.0,Furnished,Dadar West,Jeetendra gaikwad,,36879655
+700,1,2,50000,,12.0,4.0,Semi-Furnished,Mumbai Central,Sameer H,,36888095
+420,1,1,39000,,5.0,0.0,Semi-Furnished,Juhu Tara Road,jolly,,36906141
+750,1,2,45000,Siddharth Developers,10.0,9.0,Unfurnished,Vile Parle East,Gautam  Shinge,Siddhi Enclave,36912829
+550,1,1,45000,,6.0,-2.0,Unfurnished,Matunga West,Pranav  Toke,,36919407
+650,1,2,60000,,6.0,2.0,Semi-Furnished,Colaba,Vijay  Makhijani,,36922867
+730,1,1,48500,Lodha Group,41.0,11.0,Unfurnished,Wadala,Sunny Rajpal,New Cuffe Parade,36947467
+650,1,2,45000,,12.0,5.0,Furnished,Dadar West,Vikram Garud,,36979397
+675,1,2,46000,,7.0,5.0,Unfurnished,Marol,Sunil  Vyas,Anmol Society,37004941
+600,1,2,45000,,6.0,0.0,Furnished,Vile Parle East,Gautam  Shinge,,37039773
+750,1,1,38000,,3.0,0.0,Semi-Furnished,Vile Parle East,Gautam  Shinge,,37041899
+700,1,1,42000,,5.0,2.0,Semi-Furnished,Vile Parle East,Raju Mehta,,37067835
+600,1,2,45000,,8.0,4.0,Semi-Furnished,Lower Parel,Vikram  Joshi,,37081347
+700,1,2,45000,Raheja Universal Pvt Ltd.,23.0,4.0,Unfurnished,Goregaon East,Jiva kumar,Raheja Ridgewood,37123999
+500,1,1,40000,,22.0,18.0,Semi-Furnished,Worli,Ramesh  Kanojiya,City View,37193667
+600,1,2,48000,,7.0,3.0,Furnished,Lower Parel,Jeetendra gaikwad,,37233053
+750,1,2,65000,Sanjay Jain Developer Group,25.0,6.0,Furnished,Jacob Circle,Pratiksha Gaikwad,La View,37237863
+750,1,1,50000,,3.0,0.0,Furnished,Vile Parle East,Gautam  Shinge,,37277471
+700,1,1,48000,Lodha Group,40.0,15.0,Unfurnished,Wadala,Dinesh  Jeswani,New Cuffe Parade,37388415
+700,1,1,50000,Hilla Builder Pvt. Ltd.,10.0,5.0,Furnished,Bandra West,Shafik Sayed,Hill Road,37405479
+650,1,2,50000,,7.0,3.0,Furnished,Mahalaxmi Race Course,Pratiksha Gaikwad,,37419849
+750,1,2,45000,,18.0,4.0,Unfurnished,Agripada,Hafeez  Khan  ,,37479343
+730,1,2,40000,Godrej Constructions,20.0,2.0,Semi-Furnished,Vikhroli East,Kirit,Godrej Garden Enclave B Type Tower,37505943
+550,1,1,60000,,14.0,5.0,Furnished,Colaba,O P Singh,,37556847
+550,1,2,65000,,8.0,2.0,Unfurnished,Colaba,O P Singh,,37556979
+750,1,2,60000,,10.0,0.0,Furnished,Pali Hill,Shafik Sayed,Moon Craft,37606787
+700,1,2,45000,,6.0,4.0,Unfurnished,Vile Parle East,Gautam  Shinge,,37612309
+600,1,1,50000,Hiranandani Group,17.0,10.0,Semi-Furnished,Central Area,Sachin,Hiranandani Zen Maple,37618039
+450,1,1,38000,,23.0,13.0,Semi-Furnished,Lower Parel,Anand Gupta,,37633441
+700,1,2,65000,,13.0,7.0,Furnished,Bandra West,Rishi  Dusija,Mount Marry,37751775
+750,1,1,55000,,7.0,2.0,Semi-Furnished,Prabhadevi,Mukund,,37838587
+500,1,1,40000,,7.0,3.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,38005559
+750,1,1,48000,Lodha Group,40.0,15.0,Unfurnished,Wadala,Dinesh  Jeswani,New Cuffe Parade,38069097
+750,1,2,40000,,8.0,4.0,Furnished,Yari Road,Arjun Joshi,,38127795
+685,1,2,38000,Sheth Creators,22.0,12.0,Unfurnished,Andheri East,ajay arya,Vasant Oasis,38139111
+650,1,1,65000,,12.0,7.0,Semi-Furnished,Worli,Jeetendra gaikwad,,38183473
+670,1,1,65000,Lokhandwala Infrastructure,22.0,3.0,Semi-Furnished,Worli,Kailash,lokhandwala residency,38187649
+600,1,1,52000,,20.0,5.0,Semi-Furnished,Shivaji Park,Jeetendra gaikwad,,38276665
+720,1,2,46000,Hiranandani Group,22.0,14.0,Semi-Furnished,Powai,Mahadev  Singh,Hiranandani Zen Maple,38301203
+685,1,2,39000,,21.0,10.0,Unfurnished,Marol Naka,Mudassar,,38305149
+520,1,1,38000,,7.0,3.0,Semi-Furnished,Jacob Circle,Anand Gupta,,38361025
+530,1,1,45000,,15.0,12.0,Unfurnished,Matunga West,Bipin Panchal,Zara Horizon,38418467
+600,1,2,42000,,26.0,-1.0,Semi-Furnished,Matunga,Pranav  Toke,,38430557
+500,1,1,42000,,17.0,17.0,Furnished,Parel,Santosh Chawnekar,,38530943
+750,1,2,45000,,7.0,7.0,Unfurnished,Lower Parel,Vinod  Gupta,,38585233
+550,1,2,45000,,10.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,38680511
+650,1,2,39000,Sheth Creators,22.0,18.0,Unfurnished,Andheri East,Sunil  Vyas,Vasant Oasis,38763681
+600,1,1,65000,,12.0,9.0,Furnished,Colaba,Vaseem  Siddique,,38782429
+715,1,2,55000,Nathani Group,72.0,24.0,Semi-Furnished,Mumbai Central,Pratiksha Gaikwad,Nathani Heights,38800857
+-2147483648,1,1,49000,,8.0,0.0,Unfurnished,Nepeansea Road,Vikram  Joshi,,38898601
+650,1,1,45000,Cooperative Group Housing Society,23.0,10.0,Unfurnished,Dadar West,Vinod  Gupta,Priya Darshani CHS,38914079
+700,1,1,55000,,11.0,3.0,Furnished,Bandra West,Shafik Sayed,,38939003
+700,1,1,50000,,8.0,4.0,Furnished,Bandra West,Shafik Sayed,,38939417
+730,1,2,60000,,6.0,2.0,Furnished,Bandra West,Shafik Sayed,,38939765
+600,1,1,65000,,18.0,10.0,Semi-Furnished,Napean Sea Road,Vaseem  Siddique,,39014395
+620,1,2,42000,Hiranandani Group,7.0,2.0,Furnished,Powai,Sachin Babar,Hiranandani Gardens,39021561
+600,1,2,40000,,7.0,4.0,Furnished,Powai,Sagar,Hiranandani Garden Eden IV,39032865
+800,1,2,55000,,11.0,1.0,Furnished,Bandra West,Shafik Sayed,,39051001
+550,1,1,42000,,7.0,4.0,Semi-Furnished,Lower Parel,Vinod  Gupta,Mahavir Darshan,39068067
+650,1,1,60000,Lokhandwala Infrastructure,18.0,2.0,Semi-Furnished,Worli,Aakash  Kale,lokhandwala residency,39100715
+700,1,2,40000,Neelkanth Group,16.0,11.0,Unfurnished,Ghatkopar East,Atul,Neelkanth Valley,39145773
+750,1,1,60000,,10.0,3.0,Furnished,Pali Hill,Shafik Sayed,Blue Bird,39164529
+550,1,1,40000,,4.0,0.0,Furnished,Vile Parle East,Sagar Visawadia,,39167689
+716,1,2,40000,Sheth Creators,22.0,12.0,Unfurnished,Andheri East,Salim Shaikh,Vasant Oasis,39186913
+715,1,2,40000,Sheth Creators,22.0,20.0,Unfurnished,Marol,Salim Shaikh,Vasant Oasis,39187925
+800,1,2,60000,,10.0,3.0,Semi-Furnished,Bandra West,Shafik Sayed,,39188823
+575,1,1,38000,,23.0,14.0,Unfurnished,Lower Parel,Vinod  Gupta,,39198629
+600,1,1,55000,,14.0,9.0,Semi-Furnished,Bandra West,Rishi  Dusija,,39204213
+630,1,2,39000,,7.0,5.0,Semi-Furnished,Andheri West,Kamal Malkani,,39205831
+611,1,2,40000,,7.0,3.0,Furnished,Andheri West,Kamal Malkani,Mota Mansion Apartment,39206175
+-2147483648,1,1,38000,,6.0,3.0,Semi-Furnished,Andheri West,Kuldeep,,39248329
+600,1,1,40000,,5.0,2.0,Semi-Furnished,Lower Parel,Santosh Chawnekar,,39305133
+900,1,2,42000,,14.0,4.0,Semi-Furnished,Chembur,Dinesh  Jeswani,,39319425
+600,1,2,57000,Sugee Group,24.0,15.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,39360141
+550,1,2,55000,Rohan Lifescapes Group,22.0,15.0,Unfurnished,Parel,Jeetendra gaikwad,Rohan Lifescapes Glory,39361515
+665,1,2,38000,,22.0,4.0,Unfurnished,Marol Maroshi Road,Mudassar,,39389159
+690,1,2,38000,Sheth Creators,22.0,10.0,Unfurnished,Marol,Rajesh Shah,Vasant Oasis,39389683
+650,1,1,55000,,4.0,2.0,Furnished,Mahim,Shweta  Agarwal,,39400165
+750,1,2,55000,,11.0,4.0,Furnished,Khar West,Shafik Sayed,Makhan Dham,39427415
+800,1,2,65000,,5.0,0.0,Furnished,Bandra West,Shafik Sayed,Mass Universal,39428317
+720,1,2,60000,,9.0,4.0,Furnished,Lokhandwala Complex,Pallavi  Bhanushali,,39450957
+750,1,1,50000,,7.0,-2.0,Semi-Furnished,Dadar East,Vinay Kumar,,39480433
+665,1,2,38500,,7.0,4.0,Semi-Furnished,JB Nagar,Sunil  Vyas,,39509163
+700,1,1,60000,,10.0,5.0,Furnished,Bandra West,Shafik Sayed,Flamingo Apartment,39681119
+645,1,2,38000,Godrej Constructions,20.0,19.0,Unfurnished,Vikhroli East,Roshan  Khanvilkar,Godrej Garden Enclave B Type Tower,39682785
+590,1,1,60000,,6.0,3.0,Furnished,Uppar Colaba,Sunil Kumar  Singh,,39684759
+700,1,2,53000,Hiranandani Group,18.0,10.0,Semi-Furnished,Powai,Ram Prakash  Verma,Hiranandani Zen Maple,39727293
+712,1,2,40000,Raheja Universal Pvt Ltd.,21.0,9.0,Semi-Furnished,Bimbisar Nagar,Jiva kumar,Raheja Ridgewood,39800517
+685,1,2,39000,Sheth Creators,22.0,20.0,Semi-Furnished,Andheri East,Mudassar,Vasant Oasis,39847999
+665,1,2,37999,Sheth Creators,22.0,3.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,39851881
+700,1,1,65000,,10.0,5.0,Furnished,Bandra West,Shafik Sayed,,39872031
+610,1,1,41500,,22.0,17.0,Semi-Furnished,Chinchpokli,Gurudatta  Tawde,,39887805
+700,1,1,56000,Sanjay Jain Developer Group,25.0,11.0,Unfurnished,Jacob Circle,Pratiksha Gaikwad,La View,39925755
+821,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,19.0,11.0,Unfurnished,Marol Naka Junction,Namrata  Trimukhe,Kanakia Sevens,39931869
+700,1,1,50000,,5.0,2.0,Furnished,Khar West,Shafik Sayed,,39933971
+500,1,1,40000,Omkar Realtors and Developers Pvt. Ltd.,22.0,10.0,Unfurnished,Mahim West,Ankit  Gupta,Vayu,39945819
+600,1,1,46000,Rizvi Builders,9.0,5.0,Semi-Furnished,Bandra West,Kamal,Rizvi Complex,39971187
+600,1,2,60000,Sugee Group,22.0,18.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,40005021
+600,1,1,55000,Sugee Group,23.0,10.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Sadan,40005367
+625,1,2,45000,Hiranandani Group,17.0,8.0,Semi-Furnished,Powai,Amar,Hiranandani Zen Maple,40033139
+600,1,1,50000,Hiranandani Group,7.0,5.0,Furnished,Powai,Amar,Hiranandani Garden Avalon,40033689
+720,1,2,60000,Neumec Group,18.0,5.0,Unfurnished,Lower Parel,Ankit  Jain,Neumec Elegance,40050589
+670,1,1,39000,,4.0,3.0,Furnished,Kalina,Sahil,,40063567
+1050,1,1,65000,,7.0,5.0,Furnished,Khar West,Sammy,,40094683
+650,1,2,50000,,8.0,5.0,Unfurnished,Bandra West,Ali  Khan,,40110905
+-2147483648,1,1,40000,,4.0,1.0,Unfurnished,Khar West,Durgesh jadhav,,40117675
+700,1,2,52000,,10.0,3.0,Furnished,Bandra West,Shafik Sayed,St. Annes Apartment,40126955
+750,1,1,57000,,7.0,2.0,Furnished,Bandra West,Allauddin  Shaikh,,40141375
+665,1,2,45000,Sheth Creators,22.0,15.0,Furnished,Marol,Mudassar,Vasant Oasis,40165237
+600,1,1,48000,Lodha Group,6.0,2.0,Unfurnished,Wadala East,Abhay Jogdhankar,New Cuffe Parade,40173539
+1050,1,1,60000,,7.0,2.0,Furnished,Santacruz West,Sammy,,40174587
+450,1,1,38000,,20.0,16.0,Unfurnished,Lower Parel,Santosh Chawnekar,,40237801
+650,1,1,38000,,4.0,3.0,Furnished,"Sundar Nagar, Kalina",Sahil,,40250679
+750,1,1,46000,,16.0,5.0,Semi-Furnished,Pali Hill,Kamal,,40282709
+500,1,1,55000,Lodha Group,,,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,40306737
+650,1,1,65000,,5.0,3.0,Furnished,Pali Hill,Durgesh jadhav,Manju Mahal,40359961
+500,1,1,45000,,12.0,5.0,Semi-Furnished,Tardeo,Sushant,,40369073
+800,1,1,50000,,7.0,5.0,Furnished,Pali Hill,Kamal,,40377731
+550,1,1,45000,C K Group,9.0,5.0,Semi-Furnished,Prabhadevi,Shweta  Agarwal,Silver Dunes,40386725
+650,1,2,40000,Nahar Group,,,Furnished,Chandivali,Amar,Orchid Enclave,40387985
+600,1,2,45000,,,,Unfurnished,Powai,Amar,,40388771
+675,1,2,38000,Sheth Creators,22.0,9.0,Semi-Furnished,Marol,Gulzar Malik Gulzar,Vasant Oasis,40420771
+575,1,1,52000,,14.0,12.0,Semi-Furnished,Dadar West,Santosh  Pandey,,40449099
+750,1,2,45000,DGS Group,8.0,2.0,Unfurnished,Santacruz East,sukhvinder lohia,Sheetal Airwings,40464795
+550,1,1,45000,,8.0,5.0,Unfurnished,Worli,Ankit  Gupta,,40479407
+650,1,1,50000,,8.0,3.0,Semi-Furnished,Tardeo,Priyesh,,40480079
+-2147483648,1,2,38000,Hiranandani Group,7.0,5.0,Furnished,Powai,anandraj,Hiranandani Gardens,40520803
+590,1,1,45000,Matoshree Infrastructure Pvt. Ltd.,22.0,5.0,Unfurnished,Parel,Santosh  Pandey,Matoshree Pride,40541879
+605,1,1,40000,JRS Sleter Private Limited,15.0,4.0,Unfurnished,Parel,Kamlesh  Joshi,Pawan Putra Building,40593685
+600,1,2,40000,,7.0,4.0,Furnished,Powai,Amar,,40614141
+650,1,1,65000,,3.0,2.0,Furnished,Juhu Tara Road,Durgesh jadhav,,40624575
+525,1,1,42000,Samruddhi Builder,,,Unfurnished,Dadar East,Pratiksha Gaikwad,Samruddhi CHS,40632889
+575,1,1,39000,,7.0,3.0,Furnished,Bhakti Park,Sunny Rajpal,Comet Apartment,40640175
+1500,1,1,65000,,5.0,5.0,Unfurnished,Khar West,gopal singh,,40646841
+650,1,2,60000,Sanjay Jain Developer Group,,,Semi-Furnished,Jacob Circle,Pratiksha Gaikwad,La View,40668855
+800,1,1,42000,Satyam Developers,19.0,10.0,Unfurnished,Lakme Road,Bhagwan Khulkhule,Satyam Springs,40677765
+700,1,2,55000,,11.0,5.0,Semi-Furnished,Pali Hill,Shafik Sayed,Diago Apartment,40690681
+575,1,1,38000,,7.0,3.0,Semi-Furnished,Bhakti Park,Sunny Rajpal,Comet Apartment,40694211
+600,1,1,47000,Lodha Group,41.0,7.0,Semi-Furnished,Bhakti Park,Narayan  Singh,New Cuffe Parade,40700779
+600,1,1,60000,,8.0,5.0,Furnished,Bandra West,Durgesh jadhav,,40783551
+1000,1,2,60000,,7.0,5.0,Furnished,Bandra West,Sammy,,40786183
+500,1,1,45000,,12.0,5.0,Furnished,Khar West,gopal singh,,40793161
+-2147483648,1,2,57000,,7.0,1.0,Unfurnished,Khar West,Ritesh,,40797165
+590,1,1,53000,Sugee Group,20.0,19.0,Semi-Furnished,Dadar West,Santosh  Pandey,Sugee Sadan,40807913
+1025,1,1,50000,,8.0,4.0,Furnished,Bandra West,Sammy,,40808057
+625,1,1,55000,Sugee Group,20.0,15.0,Semi-Furnished,Dadar West,Santosh  Pandey,Sugee Sadan,40815063
+1000,1,1,50000,,10.0,2.0,Furnished,Bandra West,Sammy,,40862995
+510,1,1,40000,,7.0,5.0,Unfurnished,Jacob Circle,sai Katke,,40868175
+650,1,2,58000,,8.0,7.0,Semi-Furnished,Mehboob Studio,Sarfraz khan,,40876215
+756,1,1,55000,Sugee Group,20.0,18.0,Unfurnished,Gokhale Rd,Jeetendra gaikwad,Sugee Sadan,40890547
+650,1,2,43000,Cooperative Group Housing Society,7.0,2.0,Unfurnished,Chembur,Deepak  Jagasia,diamond garden,40902777
+550,1,1,52000,,7.0,5.0,Furnished,Mahalakshmi,Santosh  Pandey,,40910331
+575,1,1,62000,Matoshree Infrastructure Pvt. Ltd.,23.0,17.0,Furnished,Parel,Santosh  Pandey,Matoshree Pride,40910521
+400,1,1,40000,,5.0,1.0,Unfurnished,Grant Road Area,Rakesh Agarwal,,40940331
+-2147483648,1,2,38000,,12.0,4.0,Semi-Furnished,Powai,anandraj,,40965667
+680,1,2,49000,Lodha Group,40.0,8.0,Semi-Furnished,Wadala,Deepak  Jagasia,Lodha Enchante,40976465
+1000,1,1,55000,,7.0,1.0,Semi-Furnished,Bandra West,Sammy,,40981393
+1260,1,1,48000,Lodha Group,40.0,10.0,Semi-Furnished,Bhakti Park,Sunny Rajpal,New Cuffe Parade,40989973
+1000,1,1,65000,,7.0,4.0,Furnished,Bandra West,Sammy,,41012153
+550,1,2,55000,Sanjay Jain Developer Group,25.0,8.0,Unfurnished,Jacob Circle,Pratiksha Gaikwad,La View,41018439
+650,1,1,55000,,25.0,8.0,Unfurnished,Saat Rasta,Mitali  Trikha,,41035673
+550,1,1,38000,,26.0,24.0,Unfurnished,Matunga West,Ramesh Sharma,,41059767
+774,1,1,53000,Lodha Group,40.0,12.0,Semi-Furnished,Bhakti Park,Manoj  Prithiani,New Cuffe Parade,41070233
+650,1,1,45000,,12.0,10.0,Unfurnished,Saat Rasta,Mitali  Trikha,,41082299
+700,1,2,50000,Landmark Group,18.0,12.0,Unfurnished,Dadar East,Kamlesh  Joshi,Landmark Tower,41087651
+-2147483648,1,1,50000,Lodha Group,35.0,6.0,Unfurnished,Wadala,Harmeet Kochhar,New Cuffe Parade,41088373
+500,1,1,55000,Jaycee Homes Ltd,7.0,2.0,Unfurnished,Santacruz West,Durgesh jadhav,Bhagtani Pearl One,41096915
+821,1,1,38000,Kanakia Spaces Realty Pvt. Ltd.,19.0,8.0,Semi-Furnished,Marol,Namrata  Trimukhe,Kanakia Sevens,41100329
+821,1,1,38500,Kanakia Spaces Realty Pvt. Ltd.,19.0,12.0,Semi-Furnished,Marol,Namrata  Trimukhe,Kanakia Sevens,41106933
+-2147483648,1,1,45000,,7.0,4.0,Unfurnished,Juhu,Pallavi  Bhanushali,,41136029
+400,1,1,55000,Hiranandani Group,20.0,8.0,Semi-Furnished,Powai lake,Mihir Desai,Hiranandani Zen Maple,41149781
+525,1,1,42000,,,,Unfurnished,Mahalaxmi Race Course,Pratiksha Gaikwad,,41150569
+525,1,1,50000,,,,Furnished,Mahalakshmi,Pratiksha Gaikwad,,41151157
+650,1,1,38000,,13.0,6.0,Semi-Furnished,Sion,Veena Arneja,Sion East,41173975
+600,1,1,45000,,8.0,5.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,anu,,41180113
+600,1,1,48000,,43.0,22.0,Unfurnished,Wadala,Dinesh  Jeswani,,41183235
+-2147483648,1,1,65000,Cooperative Group Housing Society,7.0,4.0,Furnished,Pali Hill,Shaid,Passion Flower CHS,41186767
+700,1,2,65000,,7.0,2.0,Furnished,Bandra West,Universal Properties,,41192835
+650,1,1,56000,,23.0,14.0,Semi-Furnished,Prabhadevi,Shrikant  Gupta,,41232819
+650,1,1,65000,,7.0,4.0,Furnished,Santacruz West,Durgesh jadhav,,41245819
+600,1,1,40000,,4.0,0.0,Unfurnished,Linking Road,Durgesh jadhav,Amrit Bhavan,41246631
+600,1,1,65000,,7.0,4.0,Furnished,Mount Mary,Durgesh jadhav,,41246949
+650,1,1,60000,,6.0,2.0,Furnished,Bandra West,Durgesh jadhav,,41247185
+675,1,1,38000,K.Raheja. Constructions,20.0,14.0,Furnished,Film City Road,Sameer  Khan,Raheja Heights Phase 2,41250413
+600,1,2,60000,,5.0,3.0,Semi-Furnished,Bandra West,Durgesh jadhav,,41257345
+650,1,1,57000,,7.0,6.0,Unfurnished,Bandra West,Tarik Mirza,Samrat Apartment,41260531
+-2147483648,1,2,55000,,4.0,4.0,Furnished,Juhu Tara Road,mik gupta,,41289823
+610,1,1,56000,Sugee Group,28.0,18.0,Unfurnished,Dadar West,Vinod  Gupta,Sugee Sadan,41311421
+620,1,2,45000,,4.0,2.0,Unfurnished,Sion East,Vassera Property Solutions Pvt. Ltd.,,41312489
+600,1,2,40000,,6.0,6.0,Furnished,Vile Parle East,Sagar Visawadia,,41314541
+775,1,1,55000,,7.0,4.0,Furnished,Bandra West,Sammy,,41359955
+600,1,2,45000,,,1.0,Furnished,Andheri West,Samir Pandya,,41377761
+774,1,1,56000,Lodha Group,,,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,41394319
+695,1,2,40000,Godrej Properties,,,Unfurnished,Chembur,Raju  Prajapati,Godrej Prime,41410113
+550,1,1,45000,,23.0,21.0,Semi-Furnished,Lower Parel,Kumar Kanan,,41412709
+660,1,2,40000,,10.0,5.0,Furnished,Chembur,Deepak  Khetani,,41424775
+600,1,2,60000,,12.0,7.0,Furnished,Lower Parel,Santosh  Pandey,,41432585
+650,1,2,45000,Hiranandani Group,17.0,7.0,Semi-Furnished,Powai,Amar,Hiranandani Zen Maple,41433715
+600,1,1,39000,,4.0,2.0,Unfurnished,Vile Parle East,Raju Mehta,,41434381
+625,1,2,55000,Shiv Developers,7.0,5.0,Furnished,Worli,Santosh  Pandey,Shiv Shaila,41453597
+-2147483648,1,1,40000,Darsshan Properties,13.0,4.0,Unfurnished,Lower Parel,Ankit  Jain,Gandharva Darshan,41461733
+550,1,2,46000,,6.0,2.0,Semi-Furnished,Seven Bungalows,Kuldeep,,41485131
+550,1,1,60000,,11.0,4.0,Furnished,Colaba,Vaseem  Siddique,,41486999
+587,1,1,65000,,10.0,5.0,Furnished,Charni Road,Vaseem  Siddique,,41487063
+750,1,1,40000,,8.0,3.0,Furnished,Sion Trombay Road,Deepak  Narang Narang,,41498931
+650,1,1,60000,,11.0,5.0,Semi-Furnished,Prabhadevi,Mukund,,41516939
+756,1,1,65000,Sugee Group,18.0,18.0,Semi-Furnished,Dadar West,Mukund,Sugee Sadan,41518581
+700,1,1,40000,,21.0,16.0,Semi-Furnished,Byculla,Mitali  Trikha,,41518637
+600,1,1,45000,,7.0,0.0,Semi-Furnished,Dadar West,Mukund,,41521769
+600,1,1,55000,,12.0,8.0,Furnished,Colaba,Vaseem  Siddique,,41546593
+550,1,1,60000,,11.0,10.0,Furnished,Colaba,Vaseem  Siddique,,41546623
+550,1,1,60000,,16.0,8.0,Furnished,Kemps Corner,Vaseem  Siddique,,41546661
+650,1,2,45000,,7.0,6.0,Furnished,Andheri West,Pravin  Shivekar,7 Bungalow,41580295
+550,1,1,47000,,7.0,5.0,Furnished,Lokhandwala Complex,Manoj Rajpal,,41589947
+850,1,2,48000,K Raheja Corp,,,Furnished,Powai,Amar,K Raheja Maple Leaf,41614257
+550,1,1,45000,Hiranandani Group,7.0,7.0,Furnished,Powai,Joyson Dsouza,Hiranandani Gardens,41632613
+750,1,2,48000,Lodha Group,42.0,33.0,Semi-Furnished,Wadala,Krishna Sawant,New Cuffe Parade,41645625
+750,1,2,48000,Lodha Group,42.0,27.0,Semi-Furnished,Wadala,Krishna Sawant,New Cuffe Parade,41646097
+500,1,1,55000,,10.0,4.0,Unfurnished,Kemps Corner,Sushant,,41659427
+850,1,1,47000,Lodha Group,43.0,24.0,Semi-Furnished,Wadala,Narayan  Singh,New Cuffe Parade,41667669
+856,1,2,50000,,10.0,1.0,Furnished,Juhu,Trishla Singh,,41694079
+765,1,1,46000,Lodha Group,41.0,9.0,Unfurnished,Wadala,Narayan  Singh,New Cuffe Parade,41722327
+650,1,2,40000,Hiranandani Group,,,Furnished,Powai,Amar,Hiranandani Gardens Kingston,41731365
+650,1,2,40006,The Wadhwa Group,10.0,6.0,Furnished,Powai,Amar,Vasu Kamal,41733341
+650,1,2,55000,,25.0,8.0,Unfurnished,Jacob Circle,Mitali  Trikha,,41745531
+774,1,1,49000,,,,Semi-Furnished,Wadala,Manoj Prithiani,,41765149
+450,1,1,40000,,14.0,12.0,Semi-Furnished,Lower Parel,Santosh Chawnekar,,41766291
+600,1,1,55000,,4.0,0.0,Unfurnished,Bandra West,Sarfraz khan,,41767965
+600,1,1,60000,,12.0,5.0,Furnished,Kemps Corner,Vaseem  Siddique,,41769839
+750,1,1,46000,,7.0,-1.0,Furnished,Powai,Pramod Kumar Singh,,41804035
+821,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,18.0,10.0,Semi-Furnished,Marol,Namrata  Trimukhe,Kanakia Sevens,41820553
+500,1,1,40000,Cooperative Group Housing Society,14.0,12.0,Furnished,,RITU JAIN,Princeton CHS,41828267
+600,1,1,65000,,11.0,5.0,Furnished,Colaba Upper Gateway Of India Area,Vaseem  Siddique,,41856741
+750,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,18.0,11.0,Unfurnished,Andheri East,Ram Prakash  Verma,Kanakia Sevens,41884319
+600,1,1,40000,,24.0,20.0,Unfurnished,Lower Parel,Vinod  Gupta,,41885085
+650,1,2,45000,,4.0,1.0,Furnished,Vile Parle West,Samir Pandya,,41901433
+821,1,2,38900,Kanakia Spaces Realty Pvt. Ltd.,19.0,9.0,Semi-Furnished,Marol Naka,Namrata  Trimukhe,Kanakia Sevens,41903507
+600,1,1,60000,,11.0,10.0,Semi-Furnished,Lower Parel,Vaseem  Siddique,,41926271
+600,1,1,65000,,12.0,4.0,Furnished,Colaba,Vaseem  Siddique,,41926287
+480,1,1,45000,Lodha Group,40.0,10.0,Unfurnished,Bhakti Park,Abhay Jogdhankar,New Cuffe Parade,41943143
+500,1,1,46000,Lodha Group,42.0,15.0,Unfurnished,Bhakti Park,Abhay Jogdhankar,New Cuffe Parade,41943597
+600,1,2,43000,,,,Furnished,Powai,Sachin Babar,Hiranandani Garden Eden III,41964205
+600,1,2,42000,,7.0,3.0,Furnished,Powai,Sachin,Hiranandani Garden Eden III,41965831
+625,1,2,50000,,6.0,4.0,Semi-Furnished,Dadar West,Santosh  Pandey,,42030831
+850,1,2,57000,,7.0,5.0,Unfurnished,Bandra West,Allauddin  Shaikh,,42097651
+415,1,2,48000,Sheth Creators,22.0,19.0,Furnished,Andheri East,Shanti,Vasant Oasis,42102219
+650,1,2,60000,Hiranandani Group,,,Furnished,Powai,Sachin Babar,Hiranandani Zen Maple,42111529
+750,1,1,38000,,12.0,5.0,Unfurnished,Andheri West,Jagjit,Saranga Tower,42125113
+650,1,1,50000,,7.0,6.0,Furnished,Juhu Tara Road,Durgesh jadhav,,42149857
+630,1,1,50500,,11.0,3.0,Furnished,Sewri,Gurudatta  Tawde,,42153249
+550,1,2,50000,,6.0,4.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,42169455
+650,1,1,40000,,12.0,3.0,Furnished,Andheri,Jagjit,,42177649
+750,1,1,50000,,72.0,18.0,Unfurnished,Mumbai Central,Mitali  Trikha,,42229647
+535,1,2,45000,,22.0,22.0,Unfurnished,Prabhadevi,Sidharth Jadhav,,42308341
+600,1,1,52000,,6.0,2.0,Unfurnished,Bandra Reclamation,Sarfraz khan,,42315789
+555,1,1,40000,DOSTI REALTY,32.0,3.0,Semi-Furnished,Wadala,Manoj Prithiani,Dosti Acres,42354383
+840,1,1,40000,Kanakia Spaces Realty Pvt. Ltd.,15.0,14.0,Semi-Furnished,Andheri East,Azuro,Kanakia Rainforest,42382017
+600,1,1,46000,Lodha Group,40.0,12.0,Unfurnished,Bhakti Park,Abhay Jogdhankar,New Cuffe Parade,42403199
+600,1,1,45000,,4.0,2.0,Furnished,Andheri West,Pukhraj Kaur  Khurana,,42418263
+488,1,2,60000,Sugee Group,20.0,7.0,Unfurnished,Dadar West,Kanti Gala,Sugee Hiranya,42438081
+650,1,1,40000,,7.0,1.0,Semi-Furnished,Andheri West,Akki  Kumar,7 Bungalow,42439081
+600,1,2,48000,,4.0,1.0,Furnished,Vile Parle West,Samir Pandya,,42465223
+575,1,2,65000,Peninsula Land Limited,27.0,19.0,Furnished,Parel,Santosh  Pandey,Ashok tower,42513383
+650,1,1,62000,,10.0,2.0,Furnished,Colaba,Vijay  Makhijani,,42544653
+665,1,2,38000,Sheth Creators,22.0,15.0,Unfurnished,Andheri East,Ansar  Ahmed,Vasant Oasis,42581299
+650,1,2,57000,,10.0,4.0,Semi-Furnished,Prabhadevi,Shweta  Agarwal,,42581773
+-2147483648,1,1,50000,Ajmera Realty & Infra India Ltd.,12.0,5.0,Semi-Furnished,Andheri West,Pallavi  Bhanushali,Project Shastri Nagar,42601829
+810,1,1,50000,Lodha Group,,,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,42635749
+550,1,1,40000,,7.0,0.0,Semi-Furnished,Santacruz West,Tarik Mirza,,42645257
+600,1,2,40100,Raheja Developers Ltd.,7.0,4.0,Furnished,Chandivali,Sachin,Evening Glory,42662781
+650,1,1,45000,Cooperative Group Housing Society,7.0,-1.0,Furnished,Lokhandwala Complex,Subhash  Talokar,Andheri CHS,42663229
+900,1,1,50000,,8.0,4.0,Furnished,Santacruz West,Saif Ali Sarang,,42678223
+644,1,1,46000,Lodha Group,40.0,19.0,Unfurnished,Bhakti Park,Sunny Rajpal,New Cuffe Parade,42679421
+-2147483648,1,1,48000,,5.0,3.0,Furnished,Santacruz East,Durgesh jadhav,Sangeeta Apartments,42696827
+665,1,2,38000,Sheth Creators,20.0,12.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,42697237
+586,1,2,40000,Cooperative Group Housing Society,14.0,11.0,Furnished,Bhakti Park,satish Acharekar,Odyssey Chs,42705383
+640,1,2,40000,,3.0,1.0,Furnished,Chembur,Deepak Kapoor,,42746777
+600,1,1,47000,,4.0,0.0,Unfurnished,Bandra West,Harshil,,42760103
+665,1,2,50000,,35.0,10.0,Semi-Furnished,Wadala East,Deepak  Khetani,,42770241
+750,1,1,48000,Lodha Group,43.0,21.0,Unfurnished,Wadala,Dinesh  Jeswani,New Cuffe Parade,42775581
+750,1,1,47000,Lodha Group,43.0,15.0,Semi-Furnished,Wadala,Dinesh  Jeswani,New Cuffe Parade,42775673
+550,1,1,40000,,13.0,8.0,Unfurnished,IIT Colony,Pramod Kumar Singh,,42777701
+500,1,1,41000,,4.0,3.0,Furnished,Matunga West,Rajnish Kale,,42796801
+650,1,2,56000,,7.0,2.0,Furnished,Opera House,Vikram  Joshi,,42830621
+570,1,2,40000,,11.0,5.0,Furnished,Juhu Versova Link,narendra garewal,,42835927
+1000,1,1,50000,,7.0,7.0,Furnished,Bandra West,Sammy,,42837079
+650,1,1,39000,,7.0,-1.0,Unfurnished,Juhu Versova Link Road,Subhash  Talokar,,42846549
+575,1,2,45000,,7.0,7.0,Furnished,Lower Parel,Santosh  Pandey,Neelganga Apartment,42851557
+800,1,1,47000,,4.0,1.0,Unfurnished,Bandra West,Allauddin  Shaikh,Angel House Apartment,42854327
+650,1,2,40000,Emgee Group,10.0,10.0,Furnished,Wadala,Kartik  Mudaliar,Emgee Greens,42866087
+650,1,1,40000,,3.0,2.0,Unfurnished,Mahim West,prashant,,42869399
+-2147483648,1,1,40000,,18.0,7.0,Semi-Furnished,Worli,Vinod  Gupta,City View,42887649
+1000,1,1,50000,,4.0,1.0,Furnished,Khar West,Sammy,,42898023
+650,1,2,55000,,15.0,9.0,Semi-Furnished,Worli,Santosh  Pandey,,42902851
+625,1,2,52000,Ravi Group,16.0,14.0,Furnished,Mahim West,Santosh  Pandey,Olympus Tower,42904205
+550,1,2,45000,,22.0,20.0,Semi-Furnished,Matunga West,prashant,,42912551
+550,1,1,40000,,4.0,-1.0,Furnished,Mahim West,Pranav  Toke,,42925695
+450,1,2,40000,,5.0,0.0,Furnished,Lokhandwala Complex,Jagjit,,42981099
+700,1,2,55000,,8.0,3.0,Furnished,Khar West,Ajay  Sen,,42995527
+650,1,1,38000,,7.0,2.0,Semi-Furnished,Andheri West,Vinod Kumar,Padmavati Apartment,43012159
+450,1,1,60000,,10.0,7.0,Semi-Furnished,Colaba,Mukul  Kukreja,,43040227
+728,1,2,40000,,20.0,9.0,Furnished,Vikhroli East,Santosh,,43047289
+800,1,1,45000,,8.0,6.0,Unfurnished,Juhu,Harshil,,43055805
+700,1,2,54000,,6.0,3.0,Furnished,Bandra West,Saif Ali Sarang,Reclamation,43086167
+550,1,2,45000,,20.0,7.0,Unfurnished,Matunga West,Jeetendra gaikwad,,43106479
+550,1,1,40000,Hiranandani Group,7.0,3.0,Semi-Furnished,Powai,Prem  Kumar,Hiranandani Gardens,43110019
+-2147483648,1,1,40000,,10.0,5.0,Unfurnished,Chembur,Harmeet Kochhar,Sindhi Society,43159967
+693,1,1,49500,Lodha Group,40.0,17.0,Semi-Furnished,Wadala,Mitesh  Advirkar,New Cuffe Parade,43181205
+650,1,2,40000,,7.0,5.0,Furnished,Lokhandwala Complex,Santosh,,43193163
+750,1,1,65000,,12.0,8.0,Semi-Furnished,Santacruz West,Harshil,,43204865
+600,1,1,45000,Srishti Group,20.0,14.0,Furnished,Powai,Mahadev  Singh,Srishti Harmony,43205133
+400,1,1,41000,,12.0,10.0,Furnished,Prabhadevi,Kataria,,43207903
+600,1,1,60000,,,,Furnished,Colaba,Prakash ,,43207977
+738,1,1,54000,Lodha Group,,,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,43233893
+675,1,2,42000,,9.0,-1.0,Furnished,Prabhadevi,Pranav  Toke,,43264853
+650,1,2,55000,,10.0,4.0,Furnished,Bandra West,Shafik Sayed,Reclamation,43271131
+550,1,2,45000,,7.0,3.0,Furnished,Matunga West,Hemnath Waghela,,43279911
+650,1,2,45000,,3.0,1.0,Semi-Furnished,Matunga West,Mohit Bhagnari,,43285053
+500,1,1,55000,,15.0,8.0,Semi-Furnished,Colaba,Mukul  Kukreja,,43300455
+738,1,1,47000,Lodha Group,40.0,2.0,Unfurnished,Bhakti Park,Darshan  Parekh,New Cuffe Parade,43322159
+720,1,2,40000,Godrej Constructions,20.0,9.0,Semi-Furnished,Vikhroli East,Roshan  Khanvilkar,Godrej Garden Enclave B Type Tower,43328029
+730,1,2,40000,Godrej Constructions,20.0,5.0,Furnished,Vikhroli East,Roshan  Khanvilkar,Godrej Garden Enclave B Type Tower,43328043
+900,1,2,40000,Cooperative Group Housing Society,7.0,2.0,Furnished,Central Avenue Road,Narayan  Singh,diamond garden,43369681
+650,1,2,65000,,7.0,3.0,Furnished,Bandra West,Universal Properties,,43389695
+550,1,1,55000,,7.0,7.0,Semi-Furnished,Nana Chowk,Pralhad Angre,,43414737
+540,1,1,39000,,22.0,6.0,Unfurnished,Lower Parel,Mahesh  Gupta,,43423935
+500,1,1,45000,Kapcon Builders,4.0,2.0,Furnished,Worli,Mahesh  Gupta,Pankaj Mansion,43439363
+550,1,2,65000,Neumec Group,19.0,6.0,Semi-Furnished,Lower Parel,Mahesh  Gupta,Neumec Elegance,43442679
+496,1,1,45000,Lodha Group,40.0,16.0,Semi-Furnished,Bhakti Park,Sunny Rajpal,New Cuffe Parade,43453155
+550,1,1,40000,,3.0,1.0,Semi-Furnished,Matunga West,Sachin Jadhav,,43457029
+-2147483648,1,1,50000,Samruddhi Builder,3.0,2.0,Semi-Furnished,Dadar East,Rahul,Samruddhi CHS,43459295
+650,1,2,44000,,7.0,2.0,Unfurnished,Lokhandwala Complex,jaykumar sharma,,43467563
+610,1,1,65000,,19.0,13.0,Furnished,Lower Parel,Vinod  Gupta,,43491647
+665,1,2,38000,Sheth Creators,22.0,12.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,43497687
+750,1,1,40000,,7.0,2.0,Unfurnished,Lokhandwala Complex,Vinod Kumar,,43526699
+750,1,2,45000,,7.0,7.0,Unfurnished,Lokhandwala Complex,Vinod Kumar,,43527163
+700,1,1,45000,Godrej Properties,12.0,2.0,Unfurnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,43560351
+738,1,1,46000,Lodha Group,40.0,11.0,Semi-Furnished,Wadala East,Darshan  Parekh,New Cuffe Parade,43568539
+1200,1,2,45000,,7.0,5.0,Unfurnished,Vile Parle East,Gautam  Shinge,,43579927
+1050,1,1,65000,,10.0,6.0,Furnished,Bandra West,Sammy,,43585665
+600,1,1,40000,,3.0,2.0,Furnished,Mazgaon,Ritesh,,43597699
+665,1,2,46000,Sheth Creators,22.0,9.0,Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,43598043
+650,1,2,40000,,13.0,7.0,Unfurnished,Kalina,Sahil,,43598937
+650,1,1,50000,,3.0,1.0,Furnished,Bandra West,Sanjay Kumar,,43629655
+650,1,1,55000,,7.0,-2.0,Furnished,Bandra West,Sanjay Kumar,Anand Court,43630089
+620,1,1,60000,,5.0,2.0,Furnished,Khar West,Shafik Sayed,,43650885
+650,1,1,56000,,7.0,2.0,Furnished,Bandra Reclamation,Sanjay Kumar,,43651413
+780,1,2,48000,Lodha Group,40.0,9.0,Semi-Furnished,Bhakti Park,Harsh Niraj,New Cuffe Parade,43655127
+670,1,2,40000,Sheth Creators,24.0,20.0,Semi-Furnished,Andheri East,Vishal Singh,Vasant Oasis,43658181
+666,1,2,38000,Sheth Creators,22.0,5.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,43664697
+650,1,1,42000,,,,Semi-Furnished,Lakme Road,Gajendra Dalvi,,43669035
+555,1,1,38500,DOSTI REALTY,7.0,3.0,Semi-Furnished,Wadala East,Veena Arneja,Dosti Acres,43678079
+610,1,1,52500,Riddhi Developers,7.0,7.0,Furnished,Lal Baug,Gurudatta  Tawde,Om Riddhi Siddhi,43680185
+700,1,1,58000,,7.0,6.0,Furnished,Prabhadevi,Mukund,,43680199
+650,1,1,65000,Shree Yogeshwar Builders And Developers,21.0,1.0,Furnished,Prabhadevi,Mukund,Paschim Apartments,43681913
+700,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,19.0,8.0,Unfurnished,Andheri East,Salim Shaikh,Kanakia Sevens,43686637
+667,1,2,38000,Sheth Creators,22.0,15.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,43692357
+512,1,1,40000,,21.0,9.0,Unfurnished,Lower Parel,Vinod  Gupta,,43697639
+774,1,1,53000,Lodha Group,,,Semi-Furnished,Wadala,Manoj Prithiani,New Cuffe Parade,43701647
+500,1,2,40000,,7.0,2.0,Unfurnished,Dadar West,Mahesh  Gupta,Matru Chaya,43774653
+500,1,1,45000,,4.0,2.0,Furnished,Vile Parle West,Soham  Shah,,43781211
+900,1,2,38000,K Raheja Corp,20.0,12.0,Furnished,Malad East,Vivek Mishra,Raheja Heights,43781993
+650,1,1,45000,Lodha Group,44.0,11.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,43784399
+700,1,1,50000,Lodha Group,43.0,3.0,Unfurnished,Wadala,Bhagwan Khulkhule,New Cuffe Parade,43787525
+650,1,1,48000,,10.0,5.0,Unfurnished,Mazgaon,Sameer H,,43792473
+699,1,2,40000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,43813059
+750,1,1,50000,,7.0,4.0,Furnished,Bandra West,Saif Ali Sarang,Reclamation,43831099
+800,1,2,43000,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,43833763
+780,1,2,42000,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,43837067
+750,1,1,65000,,3.0,0.0,Furnished,Pali Hill,Rishi  Dusija,Marita Apartment,43840479
+600,1,1,50000,,3.0,2.0,Furnished,Matunga West,Bipin Panchal,,43840937
+700,1,1,40000,DGS Group,12.0,4.0,Unfurnished,Kalina,Usha  Bhaskar,Sheetal Airwings,43845945
+650,1,2,65000,,6.0,5.0,Furnished,Pali Hill,Rahim  Shaikh,Manju Mahal,43847851
+650,1,2,65000,Shree Yogeshwar Builders And Developers,14.0,9.0,Semi-Furnished,Prabhadevi,Kanti Gala,Paschim Apartments,43865145
+375,1,1,40000,,4.0,2.0,Semi-Furnished,Worli Sea Face,Neha Parikh,,43878269
+570,1,2,40000,Redstone Group,22.0,15.0,Unfurnished,Mazgaon,Rashtriya Multiservice Real Estate & Multi Service Provider,Redstone Saifee Park,43896459
+775,1,2,65000,,12.0,6.0,Semi-Furnished,Worli,Santosh  Pandey,,43899245
+550,1,1,42000,,20.0,14.0,Unfurnished,Opera House,Vikram  Joshi,,43899559
+550,1,1,65000,Raj Developers,6.0,3.0,Furnished,Linking Road,Durgesh jadhav,Raj Kutir,43901435
+750,1,1,40000,,10.0,8.0,Unfurnished,Santacruz East,sukhvinder lohia,Jogani Apartment,43902651
+668,1,2,38000,Sheth Creators,22.0,15.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,43907627
+585,1,2,40000,Ajmera Group,14.0,9.0,Furnished,Wadala East,Kartik  Mudaliar,Ajmera Bhakti Park,43921367
+650,1,2,56000,,6.0,4.0,Semi-Furnished,Prabhadevi,Jeetendra gaikwad,,43921977
+750,1,2,49500,,7.0,3.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,43935505
+700,1,2,42600,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,43937411
+600,1,2,38000,,20.0,18.0,Unfurnished,Lower Parel,Prem Gupta,,43939105
+600,1,1,40000,I S A Enterprises,21.0,20.0,Unfurnished,Elphinstone,Mahesh  Gupta,Royal Palace,43944199
+600,1,1,40000,Kanakia Spaces Realty Pvt. Ltd.,15.0,11.0,Semi-Furnished,Andheri East,Santosh  Shukla,Kanakia Rainforest,43946417
+650,1,2,40000,,14.0,4.0,Semi-Furnished,Santacruz East,Jay,RSN Vaibhav Heights,43953749
+425,1,1,40000,,4.0,2.0,Unfurnished,Chinchpokli,Lavina Chugh,,43955497
+1000,1,1,52000,,7.0,1.0,Semi-Furnished,Bandra West,Sammy,,43961755
+600,1,1,60000,,4.0,3.0,Furnished,Pali Hill,Sarfraz khan,,43977889
+625,1,2,42000,,11.0,9.0,Unfurnished,Santacruz East,Pari Enterprises,RSN Vaibhav Heights,44000471
+650,1,1,53000,Hiranandani Group,17.0,14.0,Semi-Furnished,Powai,Joyson Dsouza,Hiranandani Zen Maple,44024835
+555,1,1,38000,DOSTI REALTY,7.0,3.0,Semi-Furnished,Wadala,Harshad Pimpale,Dosti Acres,44024931
+650,1,2,45000,Rohan Lifescapes Group,21.0,-1.0,Unfurnished,Matunga West,Pranav  Toke,Lifescapes Mirage,44028991
+550,1,1,40000,,3.0,2.0,Semi-Furnished,Matunga,Sachin Jadhav,,44029293
+750,1,2,55000,,3.0,2.0,Furnished,Matunga,Hemnath Waghela,,44088121
+750,1,1,55000,Lokhandwala Infrastructure,,,Semi-Furnished,Worli,Prem Gupta,lokhandwala residency,44104013
+700,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,15.0,5.0,Semi-Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,44107259
+650,1,1,48000,,6.0,2.0,Semi-Furnished,Mazgaon,Sameer H,,44107341
+700,1,1,60000,Godrej Properties,7.0,2.0,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,44110793
+670,1,2,45000,,2.0,1.0,Semi-Furnished,Juhu,Adrian Dsouza,,44119115
+475,1,2,50000,,20.0,7.0,Furnished,Parel,Santosh  Pandey,Royal Imperial Apartment,44131859
+515,1,1,50000,,21.0,16.0,Unfurnished,Dadar West,Kanti Gala,,44163845
+600,1,1,43000,,8.0,6.0,Furnished,Matunga West,Sachin Jadhav,,44164797
+-2147483648,1,2,55000,,11.0,9.0,Furnished,Mahalakshmi,Rajesh  Singh,Mahalaxmi Heights,44174331
+530,1,1,55000,Raj Developers,7.0,5.0,Unfurnished,Lower Parel,Mahesh  Gupta,God Gifts Building,44186907
+590,1,2,55000,,4.0,3.0,Semi-Furnished,Worli,Santosh  Pandey,,44188335
+625,1,2,65000,,8.0,5.0,Semi-Furnished,Worli Hill,Santosh  Pandey,,44191045
+475,1,2,45000,Kapcon Builders,12.0,6.0,Furnished,Worli,Santosh  Pandey,Pankaj Mansion,44213407
+675,1,2,63000,Inder Group,12.0,4.0,Furnished,Dadar West,Santosh  Pandey,Inder Tower,44214281
+625,1,2,60000,,3.0,1.0,Furnished,Matunga West,Santosh  Pandey,,44217275
+475,1,2,45000,Rizvi Builders,14.0,9.0,Semi-Furnished,Mahim West,Santosh  Pandey,Victory House,44217373
+675,1,2,43000,,11.0,8.0,Semi-Furnished,Kalina,Sahil,,44219801
+1160,1,2,60000,,27.0,9.0,Furnished,"Thakur Village, Kandivali East",Santosh  Shukla,,44238019
+730,1,1,45000,Lodha Group,40.0,11.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,44246567
+635,1,2,50000,,21.0,15.0,Unfurnished,Dadar East,Arvind ,,44247769
+-2147483648,1,2,65000,,7.0,4.0,Furnished,Worli Naka Acharaya Atre Chowk,Rajesh  Singh,,44248719
+666,1,2,38000,Sheth Creators,22.0,15.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,44249897
+681,1,2,40000,,8.0,5.0,Unfurnished,Santacruz East,Pradeep ,,44250289
+750,1,2,65000,,10.0,1.0,Furnished,Union Park Pali Hill,Shafik Sayed,,44261333
+585,1,2,39000,Ajmera Group,14.0,13.0,Semi-Furnished,Wadala East,Sunny Rajpal,Odyssey Bhakti Park,44262597
+675,1,2,55000,Aman Builders,22.0,9.0,Furnished,Worli,Santosh  Pandey,Aman Akansha Heights,44263675
+710,1,2,42000,Kanakia Spaces Realty Pvt. Ltd.,15.0,7.0,Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,44264231
+750,1,2,65000,,12.0,10.0,Semi-Furnished,Worli,Santosh  Pandey,,44264647
+738,1,1,50000,Lodha Group,40.0,15.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,44264787
+450,1,1,40000,,12.0,5.0,Unfurnished,Chira Bazaar,Vaseem  Siddique,,44274095
+500,1,1,40000,,11.0,4.0,Furnished,Chira Bazaar,Vaseem  Siddique,,44274107
+550,1,1,55000,,12.0,5.0,Semi-Furnished,Colaba,Vaseem  Siddique,,44274127
+550,1,1,65000,,11.0,1.0,Furnished,Colaba,Vaseem  Siddique,,44274155
+700,1,1,45000,,3.0,2.0,Semi-Furnished,Juhu,Adrian Dsouza,,44275117
+1000,1,1,55000,,6.0,3.0,Furnished,Bandra West,Sammy,,44280601
+1050,1,1,60000,,7.0,5.0,Furnished,Bandra West,Sammy,,44281351
+750,1,2,60000,,7.0,3.0,Furnished,Mahim West,Mohit Bhagnari,,44288877
+670,1,1,65000,Lodha Group,30.0,6.0,Furnished,Wadala,Sandeep Sadh,Estrella,44290431
+575,1,1,40000,Ajmera Group,7.0,5.0,Furnished,Wadala East,Sunny Rajpal,Ajmera Bhakti Park,44297863
+600,1,1,40000,,16.0,14.0,Unfurnished,Dadar East,Sachin Jadhav,,44299691
+-2147483648,1,1,45000,,7.0,6.0,Unfurnished,Andheri West,Pallavi  Bhanushali,Shankardham Apartment,44327231
+450,1,1,38000,,12.0,7.0,Furnished,Andheri West,Jagjit,,44344371
+560,1,1,38000,Kanakia Spaces Realty Pvt. Ltd.,9.0,9.0,Unfurnished,Marol Maroshi,Ashish ,Kanakia Rain Forest,44346371
+700,1,1,45000,,7.0,3.0,Unfurnished,Mahim West,Santosh  Pandey,,44354655
+750,1,1,50000,Raj Developers,12.0,4.0,Unfurnished,Dadar East,santu hati,Navin Asha CHS,44355519
+880,1,1,60000,,5.0,1.0,Furnished,Worli,Pratik Chhabra,,44357749
+650,1,1,48000,,43.0,21.0,Semi-Furnished,Wadala,Deepak  Jagasia,,44368391
+665,1,2,38000,Sheth Creators,22.0,15.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,44388171
+575,1,1,55000,,10.0,9.0,Furnished,Vaishali Nagar,Mahesh  Gupta,,44396087
+650,1,2,40000,Ajmera Group,14.0,12.0,Unfurnished,Wadala East,Sunny Rajpal,Odyssey Bhakti Park,44399347
+660,1,1,38000,Ajmera Group,14.0,11.0,Semi-Furnished,Wadala East,Sunny Rajpal,Odyssey Bhakti Park,44401047
+750,1,2,40000,GHP Corporation,15.0,10.0,Furnished,Central Area,Rajesh  Gupta,Suncity Complex,44405175
+585,1,1,40000,Ajmera Group,14.0,8.0,Semi-Furnished,Wadala East,Sunny Rajpal,Ajmera Bhakti Park Sector I and II,44408839
+585,1,2,39000,Ajmera Group,7.0,5.0,Semi-Furnished,Wadala East,Sunny Rajpal,Ajmera Bhakti Park Sector I and II,44409233
+500,1,1,38000,,16.0,12.0,Semi-Furnished,Mahim West,Sachin Jadhav,,44413971
+575,1,1,38000,,,,Semi-Furnished,Wadala East,Sunny Rajpal,,44444215
+650,1,1,47000,,,,Semi-Furnished,Wadala East,Sunny Rajpal,,44453189
+730,1,1,48500,Lodha Group,,,Semi-Furnished,Wadala,Sunny Rajpal,New Cuffe Parade,44456705
+600,1,1,45000,,7.0,4.0,Furnished,Dadar East,Sachin Jadhav,,44468167
+650,1,1,45000,,4.0,3.0,Furnished,Santacruz West,Durgesh jadhav,,44478101
+475,1,1,40000,,3.0,2.0,Unfurnished,Santacruz West,Durgesh jadhav,,44479435
+738,1,1,55000,,,,Semi-Furnished,Wadala,Manoj Prithiani,,44491225
+738,1,1,55000,,,,Semi-Furnished,Wadala,Manoj  Prithiani,,44491279
+650,1,2,42000,Vasudha Buildcon,7.0,6.0,Semi-Furnished,Santacruz East,Vashdev Nagpal,Legend Apartments,44516809
+855,1,2,45000,,20.0,2.0,Furnished,Chandivali,Vishal Singh,,44518331
+600,1,1,60000,,8.0,4.0,Furnished,Bandra West,Universal Properties,,44542843
+544,1,1,50000,Kapcon Builders,12.0,5.0,Semi-Furnished,Worli,Pratik Chhabra,Pankaj Mansion,44552689
+750,1,1,60000,,6.0,5.0,Unfurnished,Santacruz West,Lalit Lakhani,Vrindavan Apartment Hasmukh Nagar,44559221
+665,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,18.0,14.0,Semi-Furnished,Marol Maroshi Road,Mudassar,Kanakia Rain Forest,44569211
+600,1,1,50000,,7.0,1.0,Furnished,Juhu Vile Parle Development Scheme,Manu ,,44579603
+665,1,2,38000,Sheth Creators,22.0,22.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,44586773
+550,1,1,43000,,3.0,1.0,Semi-Furnished,Santacruz West,Soham  Shah,,44587943
+550,1,1,45000,,4.0,1.0,Furnished,Santacruz West,Soham  Shah,,44588963
+-2147483648,1,2,65000,,7.0,1.0,Furnished,Bandra West,Amit Agnani,,44599077
+600,1,2,45000,,3.0,2.0,Furnished,Santacruz West,Adrian Dsouza,,44611911
+500,1,1,45000,,6.0,0.0,Semi-Furnished,Mahim West,Louis David,,44613041
+774,1,1,48000,Lodha Group,44.0,21.0,Semi-Furnished,Wadala,Deepak Jagasia,New Cuffe Parade,44616375
+520,1,1,45000,,3.0,1.0,Furnished,Worli Hill,Pratik Chhabra,,44656903
+650,1,2,43000,Vasudha Buildcon,8.0,5.0,Semi-Furnished,Santacruz East,Vashdev Nagpal,Legend Apartments,44660363
+510,1,1,48000,,4.0,2.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Rajesh  Singh,,44670209
+650,1,2,65000,,18.0,12.0,Furnished,Worli,Rajesh  Singh,,44670219
+600,1,1,40000,,16.0,10.0,Unfurnished,Parel,Sachin Jadhav,,44681209
+500,1,1,48000,,3.0,0.0,Unfurnished,Dadar West,Kanti Gala,,44686919
+585,1,1,38000,Ajmera Group,14.0,12.0,Semi-Furnished,Wadala East,Balwinder Singh Banga,Ajmera Bhakti Park,44690683
+600,1,2,38000,Dipti Home Makers Pvt Ltd,7.0,4.0,Furnished,Jogeshwari East,Devesh ,Dipti Sweta CHS,44697177
+620,1,1,38000,Lalani Group,23.0,19.0,Semi-Furnished,Gokuldham,Nilesh,Lalani Grandeur,44704959
+500,1,1,40000,,4.0,2.0,Furnished,Vile Parle West,Soham  Shah,,44714545
+860,1,2,45000,,7.0,3.0,Furnished,Seven Bungalows,Raj  Mishra,,44717571
+565,1,1,63000,,14.0,7.0,Unfurnished,Prabhadevi,Chetan Bhatt,,44722259
+400,1,1,40000,,4.0,3.0,Furnished,Tardeo,Pralhad Angre,,44726693
+720,1,1,46000,,,,Semi-Furnished,Wadala East,Sunny Rajpal,,44726951
+650,1,1,55000,K Raheja Corp,20.0,7.0,Semi-Furnished,Powai,Ashish  Agarwal,Maple Leaf,44757001
+700,1,2,65000,,7.0,3.0,Furnished,Bandra West,Tarik Mirza,,44774209
+720,1,2,40000,AP Properties,18.0,6.0,Unfurnished,Powai,Somnath Latke,Panchvati B,44785395
+650,1,1,47000,,8.0,4.0,Unfurnished,Dadar East,Raj Payal,,44790223
+650,1,1,48000,,6.0,4.0,Furnished,Seven Bungalows,Kunal Bajaj Nalavde,,44806599
+500,1,1,45000,,7.0,4.0,Furnished,Lower Parel,Mahesh  Gupta,Neelganga Apartment,44808403
+600,1,2,55000,,6.0,6.0,Semi-Furnished,Seven Bungalows,Kunal Bajaj Nalavde,,44814443
+700,1,1,55000,,10.0,9.0,Furnished,Saat Rasta,Pralhad Angre,,44814843
+550,1,1,40000,,13.0,9.0,Semi-Furnished,Girgaum,Sushant,,44827827
+605,1,2,50000,,4.0,2.0,Furnished,Matunga West,Arvind ,,44831537
+650,1,2,65000,,10.0,5.0,Furnished,Bandra West,Shafik Sayed,Reclamation,44837973
+650,1,1,49990,,8.0,2.0,Unfurnished,Mahalakshmi,Phalke,,44857093
+600,1,1,50000,,5.0,3.0,Semi-Furnished,Khar,Shaid,,44862471
+650,1,2,40000,Neelkanth Group,13.0,8.0,Furnished,Ghatkopar East,Ashwin  Shah,Neelkanth Valley,44865403
+650,1,1,42000,Gemstar Constructions,7.0,0.0,Furnished,Malad West,Govind  Gupta,Nestle Apartments,44867865
+475,1,2,45000,Kapcon Builders,4.0,2.0,Furnished,Worli,Santosh  Pandey,Pankaj Mansion,44874983
+575,1,2,48000,,6.0,4.0,Unfurnished,Dadar West,Santosh  Pandey,,44875233
+620,1,2,55000,,17.0,11.0,Unfurnished,Matunga West,Rajendra,Zara Horizon,44880109
+550,1,2,52000,,19.0,12.0,Unfurnished,Matunga West,Jeetendra gaikwad,,44889837
+750,1,2,38000,Godrej Properties,14.0,7.0,Unfurnished,Chembur,Ajay Kumar,Godrej Prime,44891815
+550,1,1,38000,DOSTI REALTY,7.0,7.0,Semi-Furnished,Wadala East,Tilak Shah,Dosti Acres,44894441
+1000,1,2,60000,,7.0,2.0,Furnished,Bandra West,Sammy,,44896625
+650,1,2,45000,,10.0,4.0,Unfurnished,Thakkar Estate,Rashtriya Multiservice Real Estate & Multi Service Provider,Mazgaon Terrace,44897395
+700,1,2,42000,,15.0,5.0,Unfurnished,Wadia Baug,Rashtriya Multiservice Real Estate & Multi Service Provider,Vikas Finlay Tower,44898631
+665,1,2,38000,Sheth Creators,22.0,14.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,44902857
+560,1,2,40000,Kotari,7.0,5.0,Unfurnished,Parel,Bipin  Tawde,Rajkamal Heights,44903503
+575,1,2,38000,,,,Furnished,Wadala East,Mahesh Palande,,44917125
+700,1,1,40000,,32.0,16.0,Semi-Furnished,Kamala City,Vilas,,44927555
+600,1,1,45000,,7.0,4.0,Semi-Furnished,Matunga East,Prakash Pherwani Pherwani,,44929673
+300,1,1,40000,,6.0,1.0,Furnished,Gamdevi,Mithilesh Saitwadekar,,44931395
+650,1,1,38000,,16.0,7.0,Furnished,Byculla,Suresh  Jog,,44932803
+600,1,2,40000,Kamanwala Industries,7.0,3.0,Furnished,Andheri East,Zara  Nadvi,Manavsthal,44969815
+650,1,2,60000,,4.0,2.0,Furnished,Mahim West,Pranav  Toke,,44971067
+1000,1,1,50000,,4.0,1.0,Semi-Furnished,Bandra West,Sammy,,44978461
+728,1,1,45000,Godrej Constructions,,,Furnished,Vikhroli East,Prem  Kumar,Godrej Garden Enclave B Type Tower,44981739
+738,1,2,50000,Lodha Group,2.0,2.0,Semi-Furnished,Wadala,Darshan  Parekh,New Cuffe Parade,44981939
+700,1,1,53000,,4.0,1.0,Semi-Furnished,Bandra West,Ajay  Sen,,44984899
+300,1,1,40000,,4.0,3.0,Unfurnished,Bandra,Shaid,,44999863
+600,1,1,45000,,20.0,10.0,Unfurnished,Grant Road,Sushant,,45000803
+625,1,2,65000,,6.0,3.0,Semi-Furnished,Prabhadevi,Santosh  Pandey,,45006729
+605,1,1,40000,The Gundecha Group,12.0,9.0,Unfurnished,Andheri East,Anil,Gundecha Asta,45007645
+650,1,2,40000,,23.0,20.0,Unfurnished,Lower Parel,Prem Gupta,,45009699
+600,1,1,60000,,15.0,10.0,Semi-Furnished,Prabhadevi,Shweta  Agarwal,,45010399
+630,1,1,48000,Lodha Group,,,Semi-Furnished,Wadala,Balwinder Singh Banga,New Cuffe Parade,45024697
+630,1,1,49000,Lodha Group,,,Semi-Furnished,Wadala,Balwinder Singh Banga,New Cuffe Parade,45025013
+720,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,19.0,16.0,Unfurnished,Andheri East,Mohammed Sarfaraz Bhati,Kanakia Sevens,45033799
+650,1,2,50000,,7.0,7.0,Unfurnished,Andheri West,Pallavi  Bhanushali,Shankardham Apartment,45034751
+530,1,1,40000,,23.0,16.0,Unfurnished,Prabhadevi,Rajendra,,45068107
+821,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,18.0,6.0,Semi-Furnished,Marol,Shanti,Kanakia Sevens,45075075
+650,1,1,48000,K Raheja Corp,21.0,6.0,Furnished,Chandivali,Ashish  Agarwal,Maple Leaf,45082887
+700,1,2,45000,,3.0,2.0,Semi-Furnished,Juhu Beach Area,Adrian Dsouza,,45086111
+550,1,1,38000,,22.0,14.0,Unfurnished,Lower Parel,Shrikant  Gupta,,45087239
+650,1,2,40000,,7.0,4.0,Furnished,Powai,Sachin,Hiranandani Garden Eden III,45098971
+650,1,2,38000,,13.0,10.0,Semi-Furnished,Chembur,Dinesh  Jeswani,,45099159
+790,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,19.0,18.0,Semi-Furnished,Andheri East,Mohammed Sarfaraz Bhati,Kanakia Sevens,45105927
+600,1,1,46000,,8.0,5.0,Furnished,Police Camp Worli Sea Face,Shrikant  Gupta,,45106729
+-2147483648,1,1,55000,,10.0,7.0,Furnished,Santacruz West,Karan Sakhrani,,45110699
+701,1,2,40000,,7.0,4.0,Semi-Furnished,Santacruz East,Pradeep ,Golden Orchid,45111033
+700,1,2,52000,,21.0,9.0,Semi-Furnished,Dadar East,Sachin Jadhav,,45113479
+670,1,1,45000,,2.0,2.0,Unfurnished,Santacruz West,Biren Vijan,,45124899
+650,1,1,55000,,20.0,11.0,Unfurnished,Dadar West,Ashok kumar,,45126065
+700,1,1,45000,,4.0,1.0,Semi-Furnished,Vile Parle East,Jay  Thakkar,,45131317
+550,1,1,60000,,5.0,3.0,Furnished,Khar West,Durgesh jadhav,,45132281
+700,1,2,45000,,14.0,5.0,Furnished,Lal Baug,Raj Payal,,45168291
+680,1,1,40000,RVZ Group,7.0,6.0,Furnished,Santacruz East,Pradeep ,Silver Strip CHS,45180583
+650,1,1,65000,,8.0,6.0,Furnished,Peddar Road,Kishore  Aireja,,45182969
+750,1,2,40000,,8.0,1.0,Semi-Furnished,Mahim,Louis David,,45185981
+700,1,1,45000,,3.0,2.0,Furnished,Mahim West,Louis David,,45186011
+665,1,2,39000,Sheth Creators,22.0,16.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45193275
+710,1,2,65000,Shiv Mangal Developers,22.0,22.0,Furnished,Antop Hill,san,Samar Heights,45211751
+700,1,2,42700,,7.0,5.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,45212783
+699,1,2,41000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,45213303
+550,1,1,52000,,12.0,-1.0,Furnished,Andheri West,Jagjit,,45216861
+550,1,2,55000,,22.0,14.0,Unfurnished,Matunga West,Jeetendra gaikwad,Zara Horizon,45220903
+650,1,2,50000,,4.0,0.0,Semi-Furnished,Shivaji Park,Jeetendra gaikwad,,45221439
+480,1,1,40000,,24.0,23.0,Furnished,Gavan Pada,Kalpesh,,45222257
+1050,1,2,65000,Raheja Universal Pvt Ltd.,23.0,11.0,Furnished,Goregaon East,Nilesh,Raheja Ridgewood,45222549
+650,1,2,52000,,7.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,45222895
+550,1,2,38000,,6.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,,45223595
+650,1,1,65000,,3.0,2.0,Furnished,Worli,Rohit  Gupta,,45234189
+600,1,2,43000,,7.0,1.0,Semi-Furnished,Andheri West,Amaan,,45238043
+500,1,1,45000,,5.0,0.0,Furnished,Chira Bazaar,Ritesh,,45248407
+600,1,1,45000,,5.0,2.0,Furnished,Dadar West,Prashant  Rangari,,45250373
+550,1,1,40000,,3.0,3.0,Furnished,4 Bunglows,pankaj,,45251037
+625,1,2,55000,,2.0,2.0,Unfurnished,Nana Chowk,Vikram  Joshi,,45255221
+550,1,1,40000,,6.0,4.0,Unfurnished,Santacruz West,Soham  Shah,,45272773
+650,1,1,55000,Cooperative Group Housing Society,7.0,5.0,Semi-Furnished,Prabhadevi,Ashok kumar,Vaibhav CHS,45277465
+693,1,1,49000,Lodha Group,40.0,12.0,Semi-Furnished,Wadala East,Sunny Rajpal,Lodha Enchante,45279115
+540,1,1,45000,,12.0,-1.0,Furnished,Andheri West,Jagjit,,45281471
+665,1,2,38100,Sheth Creators,22.0,9.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45286561
+665,1,2,38100,Sheth Creators,22.0,18.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45297843
+680,1,2,42000,,4.0,2.0,Semi-Furnished,Wadala West,Vassera Property Solutions Pvt. Ltd.,,45300211
+650,1,1,45000,Satyam Developers,21.0,4.0,Unfurnished,Lakme Road,Bhagwan Khulkhule,Satyam Springs,45300973
+575,1,1,38000,Ajmera Group,12.0,9.0,Furnished,Bhakti Park,Darshan  Parekh,Ajmera Bhakti Park,45312047
+645,1,2,38500,Kamanwala Industries,12.0,3.0,Furnished,Andheri East,Zara  Nadvi,Manavsthal,45312901
+650,1,1,46000,Lodha Group,40.0,10.0,Semi-Furnished,Wadala East,Darshan  Parekh,New Cuffe Parade,45313345
+500,1,1,38000,I S A Enterprises,22.0,12.0,Semi-Furnished,Elphinstone,Ramesh  Kanojiya,Royal Palace,45313891
+750,1,1,55000,,55.0,28.0,Furnished,Tardeo,Rajesh  Singh,,45319153
+471,1,2,40000,Sheth Creators,22.0,12.0,Semi-Furnished,Marol,Shanti,Vasant Oasis,45331015
+471,1,2,45000,Sheth Creators,22.0,16.0,Furnished,Marol,Shanti,Vasant Oasis,45331155
+1000,1,1,50000,,7.0,5.0,Furnished,Bandra West,Sammy,,45331883
+650,1,1,55000,,14.0,5.0,Semi-Furnished,Dadar West,Shrikant  Gupta,Vaibhav Apartments,45338557
+700,1,2,38000,Sheth Creators,22.0,17.0,Semi-Furnished,Andheri East,Mudassar,Vasant Oasis,45344409
+590,1,1,45000,Hiranandani Group,7.0,4.0,Furnished,Powai,Gaurav Mathur,Hiranandani Gardens,45349613
+550,1,1,55000,,5.0,3.0,Furnished,Bandra West,Durgesh jadhav,Vindhyachal Apartment,45352595
+650,1,2,40000,,7.0,-2.0,Unfurnished,Lokhandwala Complex,Jagjit,,45353527
+1000,1,1,55000,,7.0,4.0,Furnished,Bandra West,Sammy,,45354321
+450,1,1,38000,,7.0,4.0,Semi-Furnished,Lokhandwala Complex,Jagjit,,45354569
+736,1,1,40000,Atul Projects,14.0,10.0,Semi-Furnished,Marol,Shanti,Atul Blue Fortuna,45360097
+625,1,2,62000,,7.0,4.0,Semi-Furnished,Malabar Hill,Santosh  Pandey,,45361959
+665,1,2,38000,,7.0,3.0,Furnished,Andheri East,Zara  Nadvi,,45362849
+600,1,2,60000,,4.0,2.0,Furnished,Worli,Santosh  Pandey,,45363151
+650,1,1,50000,,21.0,15.0,Semi-Furnished,Dadar West,Mukund,Virtue Samarth Raghukul,45363469
+800,1,2,45000,,4.0,4.0,Unfurnished,Mahim West,Uday,,45364765
+625,1,1,55000,Hiranandani Group,23.0,5.0,Semi-Furnished,Powai,Raju Sangade Sangade,Hiranandani Zen Maple,45364783
+623,1,1,50000,Radhekrishna Developers,10.0,3.0,Unfurnished,Santacruz East,Pradeep ,Aurum,45366069
+-2147483648,1,1,40000,Dosti Realty,18.0,4.0,Semi-Furnished,Parel,Ramesh  Kanojiya,Dosti Belleza,45367285
+700,1,1,60000,,7.0,2.0,Semi-Furnished,Pali Hill,Sanjay Kumar,Rosy Red,45377919
+650,1,1,50000,,18.0,10.0,Semi-Furnished,Dadar,Ramesh  Kanojiya,Virtue Samarth Raghukul,45386509
+650,1,2,38000,,7.0,4.0,Furnished,Goregaon East,Sudhir Tambe,,45394651
+750,1,1,65000,,8.0,2.0,Semi-Furnished,Breach Candy,Naresh,,45406323
+600,1,1,50000,,8.0,2.0,Unfurnished,Mahim,Mahesh  Gupta,,45411963
+550,1,1,38500,DOSTI REALTY,7.0,3.0,Semi-Furnished,Wadala,Veena Arneja,Dosti Acres,45412753
+505,1,1,40000,Sanghvi Realty ,24.0,11.0,Semi-Furnished,Worli,Ramesh  Kanojiya,Sanghvi Evana,45412909
+1000,1,1,60000,,7.0,5.0,Furnished,Santacruz West,Sammy,,45416349
+550,1,1,60000,,7.0,4.0,Furnished,Bandra West,Durgesh jadhav,Jal Sagarika,45421673
+550,1,1,38000,,7.0,2.0,Furnished,Lokhandwala Complex,Kuldeep,,45423053
+850,1,1,55000,,7.0,6.0,Furnished,Vile Parle West,Jay  Thakkar,,45423171
+600,1,2,55000,,10.0,6.0,Semi-Furnished,Dadar West,Kanti Gala,,45424423
+800,1,2,65000,,9.0,4.0,Semi-Furnished,Worli Hill,Mohit Gupta,,45431085
+650,1,1,38000,,8.0,4.0,Furnished,Deonar,Ashish Gupta ,Runwal Centre,45443613
+665,1,2,38500,Sheth Creators,22.0,19.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45443993
+-2147483648,1,1,52000,,5.0,3.0,Semi-Furnished,Bandra West,Karan Sakhrani,,45452005
+754,1,1,45000,,,,Semi-Furnished,Wadala East,Mukesh ,,45457243
+850,1,1,52000,,6.0,1.0,Furnished,Vile Parle West,Jay  Thakkar,,45457889
+695,1,2,43000,Cosmic Structure,7.0,3.0,Semi-Furnished,Andheri West,Vaishnavi Choudhary,Sea Shell Apartment,45461025
+500,1,2,50000,,6.0,3.0,Furnished,Bandra West,Durgesh jadhav,,45461359
+650,1,1,40000,,6.0,3.0,Furnished,Santacruz East,Surendra Gala,,45471033
+530,1,1,40000,Sanghvi Realty ,23.0,20.0,Unfurnished,Worli,Rajendra,Sanghvi Evana,45473829
+665,1,2,38400,Sheth Creators,22.0,19.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45476947
+650,1,1,44000,D Kapoor Land Developers,6.0,4.0,Semi-Furnished,Andheri West,Arjun Joshi,Silver Arch,45479883
+500,1,1,47000,Godrej Properties,12.0,4.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,45482389
+650,1,1,45000,,,,Semi-Furnished,Matunga East,Shailesh  Dudam,,45484053
+400,1,1,40000,,,,Semi-Furnished,Wadala East,Tilak,,45485743
+590,1,2,52000,,22.0,15.0,Semi-Furnished,Dadar West,Santosh  Pandey,,45491649
+520,1,2,40000,,3.0,1.0,Semi-Furnished,Vile Parle East,Deepak Chheda,,45495561
+680,1,2,40000,,7.0,2.0,Semi-Furnished,Chembur,Lalit  Wadhwa,Ek Omkar,45504911
+650,1,2,38000,,12.0,11.0,Furnished,Chandivali,Prem  Kumar,,45506305
+625,1,1,48000,Hiranandani Group,17.0,12.0,Semi-Furnished,Powai,Vicky  Tayde,Hiranandani Zen Maple,45511417
+600,1,2,45000,,3.0,0.0,Unfurnished,Mahim West,Uday,,45515091
+450,1,1,38000,I S A Enterprises,18.0,8.0,Semi-Furnished,Elphinstone,Ramesh  Kanojiya,Royal Palace,45516105
+650,1,1,62000,Cooperative Group Housing Society,6.0,5.0,Furnished,Prabhadevi,Ashok kumar,Vaibhav CHS,45519019
+500,1,2,55000,,4.0,4.0,Furnished,Khar West,Durgesh jadhav,,45521121
+600,1,1,40000,,7.0,4.0,Semi-Furnished,Lokhandwala Complex,Manoj  Singh,,45525509
+950,1,2,42000,,12.0,6.0,Semi-Furnished,Mazgaon,Santosh P,,45530127
+700,1,1,65000,Shree Yogeshwar Builders And Developers,12.0,9.0,Unfurnished,Prabhadevi,Mahesh  Gupta,Paschim Apartments,45534489
+560,1,1,55000,,12.0,9.0,Furnished,Shree Siddhivinayak Mandir Chowk,Arun,,45564307
+700,1,2,42000,DGS Group,11.0,6.0,Semi-Furnished,Santacruz East,Manoj  Singh,Sheetal Airwings,45572463
+625,1,2,40000,,18.0,8.0,Semi-Furnished,Veera Desai Road,Roshan Gupta,,45596133
+550,1,1,49000,,10.0,2.0,Unfurnished,Santacruz West,Soham  Shah,,45599153
+650,1,1,48000,Lodha Group,40.0,10.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,45602851
+340,1,1,40000,,15.0,3.0,Furnished,Andheri West,Faisal,,45611913
+600,1,1,41000,Sanghvi Realty ,22.0,20.0,Semi-Furnished,Gandhi Nagar,Ashok kumar,Sanghvi Evana,45615479
+-2147483648,1,1,60000,,8.0,3.0,Semi-Furnished,Bandra,Karan Sakhrani,,45624085
+625,1,1,52000,Hiranandani Group,18.0,8.0,Furnished,Powai,Pankaj  Kadan,Hiranandani Zen Maple,45633969
+650,1,2,55000,,7.0,1.0,Semi-Furnished,Matunga West,Ramesh Sharma,,45641945
+510,1,1,40000,I S A Enterprises,23.0,18.0,Unfurnished,Elphinstone,Rashtriya Multiservice Real Estate & Multi Service Provider,Royal Palace,45645679
+700,1,2,44000,,3.0,2.0,Semi-Furnished,Juhu Beach Area,Adrian Dsouza,,45646985
+1000,1,1,60000,,7.0,1.0,Furnished,Bandra West,Sammy,,45654863
+1000,1,1,58000,,7.0,4.0,Furnished,Bandra West,Sammy,,45655263
+550,1,1,42000,,12.0,4.0,Furnished,Andheri West,Jagjit,,45664259
+570,1,2,50000,,8.0,4.0,Furnished,Andheri West,Jagjit,,45668569
+650,1,2,40000,,4.0,1.0,Semi-Furnished,Matunga West,Ramesh Sharma,,45671731
+640,1,1,40000,Agarwal Group,4.0,1.0,Semi-Furnished,Matunga East,Kailash kedia,Agarwal Nagar,45677511
+600,1,2,41000,,4.0,4.0,Semi-Furnished,Santacruz West,Sonia,Toshiba Apartment,45682365
+650,1,2,40000,,7.0,4.0,Semi-Furnished,Air India Colony,Ashish ,,45682937
+600,1,1,55000,,23.0,20.0,Unfurnished,Mahim,Mahesh  Gupta,Green Field Building,45683477
+665,1,2,38100,Sheth Creators,22.0,18.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45690113
+700,1,2,42000,,7.0,5.0,Unfurnished,Lokhandwala Complex,Devendra  Mishra,,45694513
+635,1,2,38000,Sheth Creators,22.0,7.0,Semi-Furnished,Andheri East,Shanti,Vasant Oasis,45696109
+650,1,2,40000,Sanghvi Realty ,23.0,20.0,Semi-Furnished,Worli,Prem Gupta,Sanghvi Evana,45702517
+650,1,2,38000,Nahar Group,7.0,5.0,Furnished,Chandivali,Yash Kumar,Magnolia Enclave,45706395
+650,1,1,50000,Lodha Group,40.0,9.0,Semi-Furnished,Wadala,Amrik Singh Grover,New Cuffe Parade,45708493
+600,1,2,50000,,7.0,1.0,Unfurnished,Dadar West,Kanti Gala,,45710739
+650,1,2,60000,,3.0,1.0,Unfurnished,Mahim,RAVI KUMAR,New Ratna Apartment,45719239
+600,1,2,40000,,22.0,14.0,Unfurnished,Dadar East,Sunil  Pote,,45720571
+750,1,2,45000,,22.0,15.0,Furnished,Andheri West,Santosh,Amit Estate,45723645
+751,1,2,40000,DGS Group,11.0,9.0,Semi-Furnished,Kalina,Krishna  Devadiga,Sheetal Airwings,45734657
+600,1,2,43000,,10.0,2.0,Semi-Furnished,Wadala West,Vassera Property Solutions Pvt. Ltd.,,45735155
+710,1,2,40000,,7.0,5.0,Semi-Furnished,Shantivan,Sailesh  Daswani,,45736731
+720,1,1,63000,,,,Semi-Furnished,Prabhadevi,Chetan Bhatt,,45737671
+750,1,2,60000,,3.0,3.0,Furnished,Worli Sea Face,Chetan Bhatt,,45737891
+550,1,1,65000,,16.0,8.0,Furnished,Napean Sea Road,Vaseem  Siddique,,45747177
+550,1,1,65000,,10.0,4.0,Furnished,Cumbala Hill,Vaseem  Siddique,,45747335
+750,1,2,60000,,7.0,7.0,Furnished,Tardeo,Naresh,,45748733
+700,1,2,40000,Sheth Creators,22.0,15.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45749211
+625,1,1,43000,,7.0,5.0,Furnished,Veera Desai Road,Roshan Gupta,,45761163
+600,1,1,38000,,7.0,3.0,Semi-Furnished,Lokhandwala Complex,narayani narayani,Troika Apartment,45761677
+530,1,1,39000,,23.0,15.0,Unfurnished,Prabhadevi,Rajendra,,45779755
+530,1,1,42000,,23.0,13.0,Semi-Furnished,Prabhadevi,Rajendra,,45780569
+500,1,1,38000,,,,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Pradeep Jain,,45780585
+600,1,1,50000,,6.0,2.0,Semi-Furnished,Mazgaon,Sameer H,,45783437
+575,1,2,40000,Ajmera Realty & Infra India Ltd.,7.0,4.0,Furnished,Wadala,Ashim  Dewan,Bhakti Park,45786879
+-2147483648,1,1,50000,,11.0,2.0,Furnished,Walkeshwar,Karan Garg,,45789641
+500,1,1,58000,,3.0,2.0,Furnished,Worli Hill,hari harish,,45794925
+650,1,1,55000,,18.0,17.0,Semi-Furnished,Prabhadevi,Mahesh  Gupta,,45795877
+715,1,2,40000,,,,Unfurnished,Vile Parle East,Ritesh,,45795917
+500,1,2,40000,,22.0,14.0,Unfurnished,Prabhadevi,Ganesh Mahyawanshi,,45799819
+600,1,1,43000,,23.0,12.0,Unfurnished,Lower Parel,Rajendra,,45799923
+550,1,1,38000,,23.0,12.0,Unfurnished,Lower Parel,Rajendra,,45799989
+650,1,2,55000,,3.0,3.0,Furnished,Carter Road,Gagan  Chadha,,45801307
+650,1,2,40000,,23.0,20.0,Semi-Furnished,Lower Parel,Prem Gupta,,45801351
+715,1,2,40000,,,,Semi-Furnished,Vile Parle West,Ritesh,,45815719
+550,1,1,65000,,6.0,3.0,Furnished,Colaba,Sunny Thukral,,45815759
+725,1,1,47000,,4.0,1.0,Furnished,Lower Parel,Pradeep Jain,,45818347
+600,1,1,43000,,6.0,1.0,Furnished,Andheri West,Manoj  Singh,7 Bungalow,45824015
+600,1,2,40000,,7.0,3.0,Furnished,Versova,Manoj  Singh,Mangal Orchid,45824079
+715,1,2,45000,,,,Semi-Furnished,Vile Parle West,Ritesh,,45825623
+650,1,2,38000,Nahar Group,7.0,5.0,Furnished,Chandivali,Prem  Kumar,Nahar Amrit Shakti,45830063
+1000,1,1,57000,,7.0,5.0,Furnished,Bandra West,Sammy,,45830843
+738,1,1,49000,Lodha Group,40.0,4.0,Unfurnished,Wadala East,Amrik Singh Grover,New Cuffe Parade,45836449
+500,1,1,52000,,4.0,1.0,Furnished,Shivaji Park,Raj  Katkar,,45838101
+792,1,1,48500,,,,Semi-Furnished,Wadala,Tanay  Mukhi,,45843921
+750,1,2,39000,,7.0,7.0,Semi-Furnished,Oshiwara,Jay  Parmar,,45847099
+792,1,1,48100,,,,Semi-Furnished,Wadala,Tanay  Mukhi,,45857013
+650,1,1,52000,,10.0,9.0,Semi-Furnished,Mazgaon,Sameer H,,45867259
+450,1,1,38000,,19.0,2.0,Unfurnished,Prabhadevi,Shrikant  Gupta,,45870221
+635,1,2,50000,Om Group,21.0,11.0,Semi-Furnished,Parel,Arvind ,Om Residency Parel,45870927
+-2147483648,1,2,43000,,6.0,1.0,Semi-Furnished,Vile Parle East,Sanjay Patel,,45881985
+500,1,1,40000,,20.0,9.0,Unfurnished,Prabhadevi,Rohit  Gupta,,45883547
+550,1,1,60000,Neumec Group,15.0,4.0,Unfurnished,Lower Parel,Rohit  Gupta,Neumec Elegance,45886673
+750,1,1,60000,,12.0,10.0,Semi-Furnished,Bandra Reclamation,Ajay  Kapur,Reclamation,45909513
+550,1,2,43000,,11.0,1.0,Semi-Furnished,Santacruz East,Sunil parwani,,45911761
+605,1,1,50000,,24.0,22.0,Unfurnished,Lower Parel,Kamlesh  Joshi,,45912473
+400,1,2,65000,Kapcon Builders,12.0,8.0,Furnished,Worli,Pratima  Gupta,Pankaj Mansion,45916473
+440,1,1,39999,Sheth Creators,20.0,8.0,Semi-Furnished,Marol,Mumbai LookinRealty,Vasant Oasis,45923409
+480,1,1,38999,Kanakia Spaces Realty Pvt. Ltd.,16.0,9.0,Unfurnished,Marol,Mumbai LookinRealty,Kanakia Sevens,45923771
+530,1,1,40000,,3.0,0.0,Furnished,Mahim West,vivek panvelcar,,45930879
+650,1,2,38000,,,,Semi-Furnished,Chembur,Lalit  Wadhwa,Ek Omkar,45931321
+850,1,1,42000,,3.0,1.0,Semi-Furnished,Sion,Dwarkadas  Jogeshwar,,45935637
+850,1,2,40000,,22.0,15.0,Semi-Furnished,Shastri Nagar,Shukla Yadav,Blue Mountain Towers,45936693
+600,1,2,38000,Nahar Group,14.0,7.0,Furnished,Chandivali,Vaibhav  Lahane,Nahar Amrit Shakti,45939161
+700,1,1,45000,,,,Unfurnished,Vikhroli East,Vinayak  Pandya,,45956851
+585,1,2,38000,,,,Furnished,Wadala East,Sunny Rajpal,,45958577
+665,1,2,39000,Sheth Creators,22.0,19.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,45964885
+738,1,1,50000,,,,Semi-Furnished,Wadala,Ashim  Dewan,,45969699
+500,1,1,50000,,,,Semi-Furnished,Lower Parel,Tanaji  Patil,,45970571
+550,1,1,45000,,5.0,2.0,Semi-Furnished,Santacruz West,Soham  Shah,,45971037
+600,1,2,42500,,6.0,1.0,Furnished,Seven Bungalows,Gurmmeet,,45973371
+700,1,2,43000,,22.0,19.0,Furnished,Powai,Sachin,,45973453
+650,1,1,40000,,4.0,2.0,Furnished,Lallu Bhai Park,Dinesh Paradhi,,45975461
+700,1,1,55000,,10.0,8.0,Furnished,Tardeo,Pralhad Angre,,45977215
+650,1,1,47000,Lodha Group,40.0,10.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,45977499
+675,1,1,45000,,6.0,3.0,Unfurnished,Vile Parle East,Ravindra  Narvekar,,45986355
+670,1,2,40000,,7.0,4.0,Furnished,4 Bunglows,prakash,,45997487
+850,1,2,47000,K Raheja Corp,20.0,7.0,Unfurnished,Powai,Sachin,Maple Leaf,46002575
+650,1,2,40000,,15.0,11.0,Unfurnished,Andheri East,Rohan  Nair,,46003881
+850,1,2,47000,K Raheja Corp,20.0,10.0,Unfurnished,Powai,Avinash  Babar,Maple Leaf,46005305
+600,1,1,40000,,7.0,2.0,Furnished,Andheri West,Jayant  Singh,,46008265
+700,1,1,47000,,4.0,2.0,Semi-Furnished,Juhu,Adrian Dsouza,,46010505
+575,1,1,45000,,3.0,1.0,Semi-Furnished,,Purnima ,,46011451
+550,1,2,41000,,6.0,4.0,Semi-Furnished,4 Bunglows,Kuldeep,,46013267
+700,1,1,40000,Kanakia Spaces Realty Pvt. Ltd.,19.0,12.0,Unfurnished,Andheri East,Kishan Hegde,Kanakia Sevens,46013309
+700,1,2,55000,,3.0,3.0,Semi-Furnished,Bandra West,Universal Properties,,46015753
+550,1,1,38000,ATUL  Projects,12.0,8.0,Semi-Furnished,Marol Maroshi Road,Ashish ,Atul Blue Monarch II,46016067
+650,1,1,44000,Panorama Group,18.0,1.0,Furnished,Andheri West,Rajesh,Panorama Tower,46018723
+620,1,1,45000,,10.0,3.0,Semi-Furnished,Andheri West,luckiy,Marble Arch Apartment,46021675
+700,1,1,65000,,6.0,5.0,Furnished,Khar West,Yousuf Emraan,,46024725
+700,1,1,60000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46025403
+650,1,2,60000,Shree Yogeshwar Builders And Developers,14.0,10.0,Semi-Furnished,Prabhadevi,Anand Kumar,Paschim Apartments,46026715
+660,1,2,45000,Blue Castle Developer Pvt. Ltd.,8.0,5.0,Furnished,Andheri West,Vaishnavi Choudhary,Fiona,46027745
+650,1,1,55000,,7.0,5.0,Semi-Furnished,Worli,ranjeet gamre,,46030421
+665,1,2,39000,Sheth Creators,20.0,15.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46031411
+665,1,2,38000,Sheth Creators,20.0,14.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46031555
+800,1,2,39000,Kanakia Spaces Realty Pvt. Ltd.,19.0,16.0,Unfurnished,Marol,Mudassar,Kanakia Sevens,46031615
+550,1,2,40000,,4.0,0.0,Semi-Furnished,Mahim West,Sunil Kini,,46034949
+730,1,1,45000,Lodha Group,40.0,18.0,Unfurnished,Wadala,Nitin  Punjabi,Lodha Enchante,46037241
+850,1,1,38000,,4.0,4.0,Semi-Furnished,Mahim,Surya Mishra,Loreto Apartment,46041191
+525,1,1,52000,Kapcon Builders,12.0,7.0,Furnished,Worli,Santosh  Pandey,Pankaj Mansion,46042149
+650,1,1,40000,,4.0,2.0,Furnished,Irla,Dinesh Paradhi,,46047057
+650,1,1,38000,,4.0,2.0,Unfurnished,Lallu Bhai Park,Dinesh Paradhi,,46047341
+550,1,1,45000,,7.0,4.0,Unfurnished,Tardeo,Sushant,,46051645
+610,1,2,47000,,19.0,15.0,Semi-Furnished,Prabhadevi,Santosh  Pandey,,46051919
+585,1,1,58000,Hiranandani Group,17.0,9.0,Semi-Furnished,Powai,Sachin,Hiranandani Zen Maple,46052241
+800,1,1,49000,,7.0,4.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46053867
+700,1,1,41000,,4.0,2.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46054265
+755,1,1,45000,,4.0,2.0,Semi-Furnished,Dadar West,Ranvijay Pandey,,46054411
+657,1,2,47000,,7.0,5.0,Furnished,Parel,Raj Payal,,46057979
+550,1,1,55000,,7.0,3.0,Furnished,Prabhadevi,Shweta  Agarwal,,46062133
+700,1,2,50000,,12.0,0.0,Furnished,Five Gardens,Rahul Vaid,,46066381
+610,1,2,51000,,7.0,5.0,Semi-Furnished,Worli,Santosh  Pandey,,46066841
+750,1,1,50000,,12.0,2.0,Unfurnished,Andheri East,Ankur Sethi,,46067649
+630,1,2,40000,,7.0,2.0,Semi-Furnished,Powai,Sachin Babar,Hiranandani Garden Eden III,46069017
+950,1,1,40000,,6.0,2.0,Semi-Furnished,Vile Parle East,Sagar Visawadia,,46069609
+375,1,1,50000,,2.0,1.0,Unfurnished,Sion,Girish Mohole,,46069745
+625,1,1,40000,Ekta World,22.0,13.0,Semi-Furnished,Powai,Dharmendra Singh,Lake Florence,46070123
+700,1,1,55000,,4.0,2.0,Semi-Furnished,Babasaheb Worlikar Chowk,Surya Mishra,,46070523
+620,1,1,44500,,10.0,3.0,Furnished,Malad West,luckiy,Marble Arch,46072469
+700,1,1,55000,,6.0,1.0,Unfurnished,Bandra West,Yousuf Emraan,,46073093
+650,1,2,54000,Hiranandani Group,20.0,5.0,Semi-Furnished,Powai,Pankaj  Kadan,Hiranandani Zen Maple,46073519
+720,1,1,41000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46075715
+585,1,1,55000,Hiranandani Group,17.0,7.0,Furnished,Powai,Sachin Babar,Hiranandani Zen Maple,46077571
+650,1,1,40000,,12.0,5.0,Unfurnished,Marol,Mumbai LookinRealty,,46077621
+600,1,2,45000,Lodha Group,41.0,15.0,Unfurnished,Bhakti Park,Sankarlingam Thevar,New Cuffe Parade,46079849
+600,1,2,60000,Lodha Group,41.0,15.0,Semi-Furnished,Bhakti Park,Sankarlingam Thevar,New Cuffe Parade,46079957
+440,1,1,40000,,3.0,1.0,Semi-Furnished,Matunga West,Sanjay Kalzunkar,,46083485
+600,1,1,49000,,8.0,4.0,Furnished,Khar West,Vikram  Joshi,,46084585
+595,1,1,45000,,23.0,16.0,Unfurnished,Lower Parel,Anand Gupta,,46090261
+600,1,1,48000,Lodha Group,43.0,28.0,Unfurnished,Bhakti Park,Manish Narang,New Cuffe Parade,46091067
+750,1,2,45000,,21.0,5.0,Unfurnished,Chembur,Manish  Haryani,,46092879
+650,1,2,45000,,7.0,4.0,Semi-Furnished,Chembur,Manish  Haryani,,46094419
+950,1,2,46000,,3.0,3.0,Furnished,Matunga West,Surya Mishra,,46096541
+680,1,2,47000,,14.0,2.0,Furnished,,omkar kmat,,46096621
+600,1,2,42000,,20.0,12.0,Furnished,Powai lake,Vijay Wankhede,,46097747
+650,1,1,44000,,3.0,3.0,Furnished,Prabhadevi,Ashok kumar,,46097965
+600,1,1,40000,,4.0,1.0,Unfurnished,MSES Colony,Ganesh Padhy,,46098129
+850,1,2,40000,,6.0,3.0,Furnished,Lal Baug,Santosh P,,46101323
+750,1,1,47000,Lodha Group,40.0,22.0,Semi-Furnished,Wadala East,Sunny Rajpal,Lodha Altia,46101759
+545,1,1,50000,,4.0,1.0,Furnished,Five Gardens,Arvind ,,46103289
+525,1,2,40000,Redstone Group,15.0,4.0,Unfurnished,Mazgaon,Sameer H,Redstone Saifee Park,46113643
+650,1,2,58000,,6.0,3.0,Furnished,Khar West,Deepa,,46114235
+650,1,2,60000,,6.0,3.0,Furnished,Union Park,Deepa,,46114621
+700,1,1,40000,,10.0,3.0,Semi-Furnished,Prabhat Colony,sukhvinder lohia,,46117285
+700,1,1,50000,,3.0,1.0,Furnished,Bandra West,Nitin,,46119823
+900,1,2,40000,Atul Projects,7.0,4.0,Unfurnished,Andheri East,Haridas ,Trans Residency,46120099
+625,1,1,56000,Hiranandani Group,17.0,2.0,Semi-Furnished,Powai,Mahesh Nikam,Hiranandani Zen Maple,46125605
+600,1,1,43000,,8.0,2.0,Semi-Furnished,Parel,Vasant k patil,,46127103
+900,1,2,50000,,4.0,0.0,Furnished,Matunga West,Surya Mishra,,46129083
+500,1,1,40000,,23.0,22.0,Unfurnished,Lower Parel,Surya Mishra,,46130967
+400,1,1,45000,,22.0,15.0,Furnished,Mahim,Prathameah Rumde,,46131573
+600,1,1,43000,,8.0,2.0,Semi-Furnished,Parel,Vasant k patil,,46132251
+540,1,2,41000,,7.0,5.0,Semi-Furnished,Dadar West,Ravindra Cheulkar,,46137941
+700,1,1,60000,,6.0,5.0,Furnished,Union Park,Yousuf Emraan,,46138533
+700,1,1,55000,,8.0,7.0,Furnished,Bandra Reclamation,Yousuf Emraan,,46138787
+400,1,1,40000,,7.0,1.0,Semi-Furnished,Santacruz East,Jay,,46142489
+600,1,1,52000,,8.0,3.0,Semi-Furnished,Mazgaon,Sameer H,,46142679
+630,1,1,50000,,8.0,3.0,Semi-Furnished,Kandivali East,Sameer H,,46142735
+650,1,1,40000,,3.0,3.0,Semi-Furnished,Vile Parle East,Vidya,,46146289
+675,1,1,55000,,15.0,10.0,Furnished,Parel,Harakh Shah,,46149255
+550,1,1,52000,,7.0,4.0,Furnished,Khar West,Deepak  Mutreja,Mangal Disha,46150475
+650,1,2,40000,,7.0,4.0,Unfurnished,Mahim West,Uday,,46151607
+585,1,2,38000,,,,Semi-Furnished,Bhakti Park,Ashim  Dewan,,46155085
+430,1,1,40000,,4.0,0.0,Semi-Furnished,Yari Road,bharti,,46157525
+700,1,2,42000,,12.0,7.0,Furnished,Vile Parle East,Savil Gandhi,,46159165
+752,1,2,60000,,6.0,5.0,Furnished,Vile Parle West,Jay  Thakkar,,46159793
+700,1,1,55000,,8.0,5.0,Unfurnished,Bandra West,Yousuf Emraan,,46160415
+650,1,1,40000,,5.0,3.0,Semi-Furnished,Vile Parle West,Jay  Thakkar,,46160759
+700,1,1,60000,,6.0,6.0,Furnished,Bandra West,Yousuf Emraan,,46161021
+700,1,2,65000,,17.0,9.0,Furnished,Worli Hill,Mohit Gupta,,46162701
+750,1,1,45000,,21.0,14.0,Unfurnished,Gandhi Market,Prakash ,Sion East,46163773
+-2147483648,1,1,40000,Royale Developers,23.0,4.0,Semi-Furnished,Parel,Ankit  Jain,Royale Imperia,46169289
+600,1,1,45000,Raj Developers,12.0,4.0,Semi-Furnished,Dadar East,Dr bela,Navin Asha CHS,46170275
+750,1,1,60000,Aksee Real Estate,31.0,16.0,Furnished,Matunga West,Dilip Roge,Shreeji Heights,46171051
+500,1,2,42000,,13.0,5.0,Semi-Furnished,S Haralayya Chowk,Sanjay Kalzunkar,,46176809
+650,1,1,43000,Satyam Developers,21.0,14.0,Unfurnished,Lakme Road,Bhagwan Khulkhule,Satyam Springs,46178111
+600,1,1,65000,,6.0,4.0,Semi-Furnished,Colaba,Anil Cordeiro,,46180997
+700,1,1,55000,,8.0,5.0,Furnished,Carter Road,Yousuf Emraan,,46181477
+1000,1,1,60000,,7.0,2.0,Furnished,Bandra West,Sammy,,46182209
+700,1,1,60000,,8.0,7.0,Furnished,Bandra West,Yousuf Emraan,,46182703
+700,1,1,65000,,8.0,7.0,Furnished,Khar West,Yousuf Emraan,,46183185
+600,1,1,38000,,4.0,2.0,Semi-Furnished,Shivaji Park,Anand Kumar,,46185929
+675,1,2,56000,,22.0,18.0,Semi-Furnished,Dadar West,Santosh  Pandey,,46186463
+685,1,1,45000,,23.0,18.0,Unfurnished,Lower Parel,Shrikant  Gupta,,46191787
+560,1,1,38000,Sanghvi Realty ,24.0,11.0,Unfurnished,Worli,Shrikant  Gupta,Sanghvi Evana,46191837
+650,1,1,42000,,23.0,12.0,Semi-Furnished,Parel,Ramesh  Kanojiya,,46195685
+635,1,1,40000,,12.0,6.0,Semi-Furnished,Parel,Ramesh  Kanojiya,,46195879
+650,1,1,50000,,3.0,3.0,Furnished,Mahim,Shweta  Agarwal,,46196175
+1000,1,1,60000,,7.0,3.0,Furnished,Bandra West,Sammy,,46197523
+750,1,1,60000,Godrej Properties,7.0,4.0,Unfurnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,46199237
+550,1,1,38000,DOSTI REALTY,7.0,7.0,Semi-Furnished,Wadala East,Tilak Shah,Dosti Acres,46200817
+650,1,2,65000,,6.0,5.0,Semi-Furnished,Colaba,Vijay  Makhijani,,46203825
+713,1,1,43000,DGS Group,11.0,1.0,Semi-Furnished,Kalina,Sameer  Ansari,Sheetal Airwings,46205487
+441,1,2,43000,Neelkanth Group,13.0,9.0,Unfurnished,Ghatkopar East,Nimesh,Neelkanth Valley,46206337
+600,1,1,45000,,4.0,2.0,Semi-Furnished,Shivaji Park,Ranvijay Pandey,,46206433
+700,1,1,65000,,6.0,4.0,Furnished,Bandra West,Yousuf Emraan,,46210157
+750,1,1,42000,,13.0,5.0,Unfurnished,Parel,Santosh P,,46210655
+700,1,2,49500,,2.0,2.0,Semi-Furnished,Juhu Tara Road,Pradeep Hirani,,46210739
+700,1,1,55000,,7.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46210899
+700,1,1,60000,,8.0,6.0,Furnished,Khar West,Yousuf Emraan,,46211189
+-2147483648,1,1,38000,,4.0,2.0,Unfurnished,Santacruz West,Yogesh Jhaveri,,46213801
+350,1,1,50000,Girnar Builders & Developers,15.0,2.0,Furnished,Tardeo,Kushaank Shah,Girnar Building,46222569
+700,1,1,55000,,6.0,5.0,Furnished,Bandra Reclamation,Yousuf Emraan,,46230135
+650,1,1,48000,,,,Unfurnished,Vikhroli East,Sangeeta  Kaduskar,,46230139
+700,1,1,60000,,8.0,6.0,Furnished,Santacruz West,Yousuf Emraan,,46230653
+700,1,1,55000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46231047
+900,1,2,40000,,8.0,4.0,Semi-Furnished,Lal Baug,Santosh P,,46231783
+821,1,1,40000,Kanakia Spaces Realty Pvt. Ltd.,21.0,8.0,Unfurnished,Marol,Rajan Singh,Kanakia Sevens,46234691
+650,1,2,42000,Vasudha Buildcon,10.0,5.0,Semi-Furnished,Santacruz East,Vashdev Nagpal,Legend Apartments,46238477
+500,1,1,40000,,23.0,18.0,Unfurnished,Worli,Dinesh Gupta,,46238649
+500,1,1,50000,,10.0,7.0,Furnished,Mahim,Dinesh Gupta,,46238783
+650,1,2,52000,,7.0,1.0,Furnished,Juhu,Dharam Kumar,,46241165
+600,1,2,45000,,7.0,1.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,46241219
+750,1,1,42000,,6.0,3.0,Unfurnished,Vile Parle East,Ravindra  Narvekar,,46241331
+600,1,1,55000,,7.0,4.0,Furnished,Lower Parel,Dilip  Gupta,,46241345
+650,1,1,38000,,4.0,3.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,46241399
+600,1,2,38000,,6.0,5.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,46241425
+425,1,1,47000,,4.0,0.0,Furnished,Worli,Jyoti Gandhi,,46245131
+500,1,1,40000,,6.0,3.0,Furnished,Vile Parle East,Vipul ` Shah,,46245601
+700,1,1,38000,,15.0,9.0,Furnished,Powai,Vinayak  Pandya,Mhada Tungwa,46248775
+320,1,1,40000,,16.0,7.0,Unfurnished,Khar West,Deepak  Kewlani,,46248999
+675,1,2,50000,Kanakia Spaces Realty Pvt. Ltd.,15.0,6.0,Furnished,Andheri East,Hema Khanna,Kanakia Rain Forest,46249185
+700,1,2,50000,,4.0,2.0,Furnished,Mahim West,Surya Mishra,,46252301
+500,1,2,45000,,10.0,4.0,Furnished,Andheri West,Prashant  Dahiya,,46253161
+620,1,1,40000,,7.0,4.0,Unfurnished,Saat Rasta,Pralhad Angre,,46254737
+700,1,1,65000,,8.0,5.0,Furnished,Mehboob Studio,Yousuf Emraan,,46255787
+700,1,1,55000,,8.0,4.0,Furnished,Carter Road,Yousuf Emraan,,46256093
+700,1,2,60000,,8.0,3.0,Furnished,Bandra West,Yousuf Emraan,Jal Sagarika,46256391
+650,1,2,42000,,7.0,5.0,Semi-Furnished,Seven Bungalows,Kiran,,46256845
+713,1,1,50000,,3.0,1.0,Furnished,Bandra West,Sameer  Ansari,,46257905
+689,1,2,38000,,12.0,1.0,Furnished,Powai,Vijay Jogeshwar,,46259903
+520,1,1,43000,,7.0,2.0,Semi-Furnished,Worli,Arun,,46262699
+665,1,2,40000,Sheth Creators,22.0,9.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46263283
+665,1,2,41000,Sheth Creators,20.0,6.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46263399
+800,1,2,40000,Kanakia Spaces Realty Pvt. Ltd.,18.0,14.0,Unfurnished,Marol,Mudassar,Kanakia Sevens,46263669
+500,1,1,55000,,16.0,9.0,Furnished,Colaba Upper Apollo Bunder,Vaseem  Siddique,,46265319
+700,1,2,40000,Sheth Creators,20.0,7.0,Unfurnished,Marol,Rajan Singh,Vasant Oasis,46266771
+600,1,1,41000,,7.0,2.0,Semi-Furnished,Kalina,Jay,,46266819
+630,1,1,43000,,15.0,4.0,Semi-Furnished,Kalina,Jay,,46267327
+600,1,1,45000,,6.0,2.0,Unfurnished,Vile Parle East,Shishil Chheda,,46269587
+600,1,1,42000,,7.0,6.0,Furnished,Vile Parle East,Shishil Chheda,,46269699
+750,1,1,47000,Lodha Group,40.0,10.0,Semi-Furnished,Wadala,Sunny Rajpal,Estrella,46271463
+545,1,1,38000,,6.0,6.0,Furnished,Model Town,Prakash Shetty,,46271835
+600,1,1,40000,Hiranandani Group,25.0,5.0,Furnished,Powai,Ashish  Agarwal,Hiranandani Gardens Lotus,46271987
+600,1,1,40000,Hiranandani Group,7.0,3.0,Unfurnished,Chandivali,Ashish  Agarwal,Hiranandani Gardens Lotus,46272049
+796,1,1,55000,Cooperative Group Housing Society,3.0,0.0,Furnished,Khar West,Sameer  Ansari,Ramdevi CHS,46272235
+650,1,1,40000,Lokhandwala Infrastructure,22.0,12.0,Furnished,Worli,Dilip  Gupta,Sai Milan CHS,46273219
+756,1,1,60000,Sugee Group,22.0,19.0,Semi-Furnished,Dadar West,Rambabu  Shah,Sugee Sadan,46273467
+-2147483648,1,2,45000,,17.0,10.0,Unfurnished,Andheri East,Varun,,46275897
+800,1,2,48000,Godrej Properties,18.0,6.0,Semi-Furnished,Vikhroli,Vijay Kumar,Godrej The Trees,46276707
+400,1,1,45000,,9.0,7.0,Furnished,Bandra West,Kamal,,46276761
+445,1,2,45000,Kanakia Spaces Realty Pvt. Ltd.,17.0,10.0,Unfurnished,Andheri East,Varun Kumar,Kanakia Rainforest,46277987
+710,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,16.0,16.0,Semi-Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,46279489
+441,1,2,43000,Neelkanth Group,13.0,9.0,Unfurnished,Ghatkopar East,Nimesh,Neelkanth Valley,46280351
+650,1,1,55000,Sapphire Builders,21.0,11.0,Furnished,Lower Parel,Dilip  Gupta,Gods Gift Apartment 2,46282897
+550,1,1,38000,,16.0,6.0,Unfurnished,D.N. Nagar,Kunal,,46283185
+640,1,2,57000,,10.0,5.0,Furnished,Khar West,Rahim  Shaikh,Murli Govind,46285979
+550,1,1,45000,,7.0,2.0,Semi-Furnished,Lower Parel,Surya Mishra,Neelganga Apartment,46286033
+700,1,2,50000,,6.0,5.0,Furnished,Dadar East,santu hati,Sawan Bhavan,46289239
+700,1,1,38000,,16.0,10.0,Unfurnished,Andheri West,Harshil,,46289693
+690,1,2,62000,,6.0,4.0,Furnished,Khar West,Rahim  Shaikh,Shravan Apartment ,46291259
+750,1,1,45000,,16.0,5.0,Unfurnished,Andheri West,Harshil,,46293383
+700,1,1,55000,,8.0,5.0,Furnished,Waterfield Road,Yousuf Emraan,,46294251
+700,1,2,45000,Kalpataru Limited,10.0,4.0,Furnished,Andheri West,Shukla Yadav,Kamdhenu Apartment,46294359
+700,1,1,60000,,8.0,5.0,Furnished,Union Park,Yousuf Emraan,,46294477
+650,1,2,42000,,7.0,3.0,Unfurnished,Kalina,Vashdev Nagpal,,46294839
+550,1,1,50000,,4.0,0.0,Semi-Furnished,Worli,Ram  Chadge,,46296929
+550,1,1,40000,Neelkanth Group,13.0,6.0,Semi-Furnished,Ghatkopar East,chintan desai,Neelkanth Valley,46301555
+500,1,1,48000,,3.0,3.0,Unfurnished,Bandra West,Rajshri,,46302687
+1000,1,1,58000,,6.0,6.0,Furnished,Bandra West,Sammy,,46304945
+550,1,1,40000,,7.0,5.0,Furnished,Seven Bungalows,Kiran,,46307531
+627,1,2,40000,,12.0,4.0,Unfurnished,Chembur,P N Properties,,46308073
+540,1,1,50000,,3.0,1.0,Unfurnished,Matunga East,Nilesh  Mandavkar,,46309667
+800,1,2,67000,,6.0,2.0,Semi-Furnished,Prabhadevi,Surya Mishra,,46309973
+-2147483648,1,1,50000,,5.0,2.0,Unfurnished,Khar West,Ghanshyam Fatnani,,46311051
+650,1,1,42900,,7.0,3.0,Semi-Furnished,Yari Road,Harish,,46311059
+650,1,1,42900,,7.0,3.0,Semi-Furnished,Yari Road,Rajesh Butani,,46311227
+620,1,1,48000,,3.0,1.0,Furnished,Wadala West,Nilesh  Mandavkar,,46311535
+700,1,1,40000,,22.0,2.0,Unfurnished,Lower Parel,Pralhad Angre,,46312849
+600,1,1,40000,,7.0,5.0,Furnished,Shri Swami Samarth Nagar,narayani narayani,,46313329
+800,1,1,65000,,,1.0,Unfurnished,Kemps Corner,Ranoo  Sheth,,46315951
+650,1,2,47000,,7.0,1.0,Furnished,Matunga West,Ramesh Sharma,,46317277
+700,1,1,60000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46318569
+700,1,1,55000,,8.0,4.0,Furnished,Bandra West,Yousuf Emraan,,46318747
+728,1,2,39000,Godrej Constructions,20.0,4.0,Semi-Furnished,Vikhroli East,Kirit,Godrej Garden Enclave B Type Tower,46321367
+750,1,2,45000,,10.0,1.0,Semi-Furnished,Sunder Nagar,sukhvinder lohia,,46323693
+665,1,2,39000,Sheth Creators,22.0,17.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46325535
+560,1,2,41000,,7.0,5.0,Semi-Furnished,Dadar West,Ravindra Cheulkar,,46326433
+700,1,1,55000,,8.0,4.0,Furnished,Carter Road,Yousuf Emraan,,46326639
+700,1,1,60000,,6.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46327247
+700,1,1,55000,,8.0,4.0,Furnished,Bandra West,Yousuf Emraan,,46327779
+800,1,2,40000,,13.0,5.0,Unfurnished,"Sundar Nagar, Kalina",Usha  Bhaskar,Project Kalina,46328477
+770,1,1,47000,Lodha Group,41.0,7.0,Semi-Furnished,Wadala,Ashim  Dewan,New Cuffe Parade,46329609
+680,1,1,40000,,7.0,4.0,Furnished,Andheri West,Vaishnavi Choudhary,Wood Land Apartment,46330969
+550,1,2,38000,Arok Construction,22.0,15.0,Unfurnished,Agripada,Dennis  Fernandes,Sunshine CHS,46331315
+950,1,1,45000,,6.0,2.0,Furnished,Lokhandwala Complex,Shukla Yadav,,46332217
+650,1,1,45000,,14.0,4.0,Semi-Furnished,Parel,Anand Kumar,,46332849
+650,1,2,42000,DGS Group,12.0,5.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,Sheetal Airwings,46335113
+600,1,1,45000,,14.0,10.0,Semi-Furnished,Elphinstone,Anand Kumar,,46336609
+683,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,17.0,4.0,Unfurnished,Marol,Sagar Laungani Laungani,Kanakia Rain Forest,46338487
+792,1,1,45000,Godrej Properties,7.0,4.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,46339409
+796,1,3,48000,Godrej Properties,9.0,5.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,46340101
+816,1,1,44000,Godrej Properties,12.0,7.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,46340391
+700,1,2,60000,,6.0,3.0,Furnished,Khar West,Ganesh Padhy,,46340393
+818,1,3,46000,Godrej Properties,7.0,3.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,46340647
+818,1,1,48000,Godrej Properties,7.0,4.0,Semi-Furnished,Vikhroli,Amit Rajpal,Godrej The Trees,46340857
+665,1,2,39000,Sheth Creators,20.0,5.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46346357
+660,1,2,38000,Sheth Creators,20.0,6.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46346383
+800,1,2,45000,Kanakia Spaces Realty Pvt. Ltd.,18.0,8.0,Furnished,Marol,Mudassar,Kanakia Sevens,46346413
+650,1,1,55000,,7.0,5.0,Furnished,Worli,ranjeet gamre,,46348283
+600,1,1,47000,,20.0,6.0,Furnished,Versova,Hussain,,46350521
+550,1,1,60000,,6.0,5.0,Semi-Furnished,Colaba,Anil Cordeiro,,46352047
+665,1,2,38000,Sheth Creators,22.0,3.0,Semi-Furnished,Marol,Mudassar,Vasant Oasis,46358071
+750,1,1,65000,,10.0,4.0,Furnished,Khar West,Rahim  Shaikh,,46361283
+350,1,1,45000,,16.0,7.0,Unfurnished,Khar West,Rahim  Shaikh,Aquarius Tower,46362845
+700,1,1,55000,,6.0,5.0,Furnished,Linking Road,Yousuf Emraan,,46364973
+700,1,1,60000,,8.0,5.0,Furnished,Khar West,Yousuf Emraan,,46365257
+700,1,1,55000,,6.0,3.0,Furnished,Bandra West,Yousuf Emraan,,46365911
+710,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,16.0,16.0,Semi-Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,46371243
+400,1,1,39000,,15.0,3.0,Furnished,Andheri West,Faisal  Kadri,Heritage,46373095
+670,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,17.0,7.0,Semi-Furnished,Marol,Ansar  Ahmed,Kanakia Rainforest,46374407
+700,1,2,63000,,15.0,6.0,Furnished,Tardeo,Arvind ,,46379467
+1000,1,1,57000,,7.0,3.0,Furnished,Khar West,Sammy,,46380553
+550,1,1,38000,,4.0,2.0,Furnished,Sion,Sunanda Malusare,,46383633
+600,1,1,60000,,9.0,5.0,Semi-Furnished,Colaba,Anil Cordeiro,,46384955
+700,1,1,55000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,46386385
+750,1,2,45000,,10.0,1.0,Semi-Furnished,Kalina,sukhvinder lohia,,46388339
+650,1,1,65000,,6.0,3.0,Semi-Furnished,Colaba,Anil Cordeiro,,46388411
+700,1,1,60000,,8.0,6.0,Furnished,Linking Road,Yousuf Emraan,,46388413
+625,1,2,65000,,8.0,4.0,Furnished,Worli,Pradeep Jain,,46388441
+600,1,1,40000,,12.0,3.0,Semi-Furnished,Santacruz East,Raju Mali,Veena Avenue Park,46388577
+550,1,1,60000,,6.0,3.0,Semi-Furnished,Colaba,Anil Cordeiro,,46388897
+620,1,1,66000,,6.0,5.0,Semi-Furnished,Colaba,Anil Cordeiro,Usha Sadan Apartment,46389193
+650,1,2,42000,,7.0,1.0,Furnished,Matunga West,Ramesh Sharma,,46390107
+625,1,1,60000,,8.0,7.0,Semi-Furnished,Worli Naka Acharaya Atre Chowk,Pradeep Jain,,46390875
+700,1,1,48000,,4.0,1.0,Furnished,Lower Parel,Pradeep Jain,,46391139
+650,1,2,42000,,7.0,3.0,Unfurnished,Kalina,Vashdev Nagpal,,46392707
+650,1,2,38000,Sheth Creators,20.0,4.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46394315
+600,1,1,67000,,6.0,2.0,Semi-Furnished,Colaba,Anil Cordeiro,,46399129
+620,1,2,39000,Hiranandani Group,18.0,12.0,Semi-Furnished,Powai,Shinoy,Hiranandani Gardens,46402541
+670,1,2,43000,,7.0,7.0,Furnished,Andheri West,Vaishnavi Choudhary,Marble Arch Apartment,46403231
+600,1,2,40000,Cooperative Group Housing Society,10.0,2.0,Furnished,Raheja Vihar,Sagar,Sundew CHS,46407005
+550,1,1,40000,,6.0,2.0,Unfurnished,Vidya Nagari,Jay,,46407139
+750,1,1,48000,Lodha Group,40.0,20.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,46409251
+620,1,2,55000,Hiranandani Group,18.0,10.0,Furnished,Powai,Shinoy,Hiranandani Gardens,46409991
+600,1,1,43000,,7.0,5.0,Semi-Furnished,Dadar East,Raj Payal,,46411289
+600,1,2,55000,,3.0,2.0,Semi-Furnished,Khar West,Durgesh jadhav,,46411295
+630,1,1,48000,Godrej Properties,18.0,10.0,Semi-Furnished,Vikhroli East,Ameya,Godrej The Trees,46411371
+650,1,2,42000,DGS Group,13.0,11.0,Unfurnished,Santacruz East,Vashdev Nagpal,Sheetal Airwings,46412025
+650,1,1,60000,,9.0,6.0,Unfurnished,Worli Naka Acharaya Atre Chowk,Shrikant  Gupta,,46413003
+610,1,2,42000,,14.0,4.0,Furnished,Powai,Anil Kumar,,46414741
+550,1,1,39000,DOSTI REALTY,7.0,-1.0,Unfurnished,Wadala,Bansal,Dosti Acres,46416631
+650,1,2,40000,,14.0,3.0,Furnished,Marol,Mohammed Sarfaraz Bhati,Manavsthal Height,46417541
+610,1,2,42000,,14.0,4.0,Furnished,Powai,Roshna Anil,,46420413
+670,1,2,39000,Sheth Creators,22.0,19.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46427613
+725,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,12.0,2.0,Unfurnished,Marol Maroshi,Nanson Mascarenhas Mascarenhas,Kanakia Rain Forest,46431991
+609,1,2,50000,,11.0,4.0,Furnished,Bandra East,Praveen Shetty,Bandra Kurla Complex – BKC,46432489
+710,1,1,38000,Lokhandwala Infrastructure,21.0,5.0,Furnished,Worli,Ghanshyam  Gupta,Sai Milan CHS,46435017
+-2147483648,1,2,40000,,3.0,2.0,Semi-Furnished,Vile Parle West,Yogesh Jhaveri,,46436869
+700,1,1,55000,,8.0,4.0,Furnished,Khar West,Yousuf Emraan,,46437193
+700,1,1,55000,,8.0,5.0,Furnished,Mount Mary,Yousuf Emraan,,46437397
+700,1,1,60000,,6.0,5.0,Furnished,Union Park,Yousuf Emraan,,46437931
+650,1,1,50000,,6.0,4.0,Semi-Furnished,Dadar West,Sachin  Adakhale,,46438767
+690,1,1,40000,,7.0,3.0,Furnished,Veera Desai Road,Vaishnavi Choudhary,,46438957
+650,1,2,65000,,12.0,10.0,Furnished,Altamount Road,Vaseem  Siddique,,46442827
+425,1,1,40000,Rubber Wala Developer,23.0,10.0,Semi-Furnished,Dongri,Rukhsar Kaldane,Khairunnisa Heights,46445991
+623,1,1,65500,,6.0,2.0,Semi-Furnished,Colaba,Anil Cordeiro,,46449177
+660,1,2,66000,,7.0,2.0,Semi-Furnished,Colaba,Anil Cordeiro,,46449687
+700,1,2,40000,Atul Projects,14.0,8.0,Furnished,Marol,Ziya N\A,Atul Blue Fortuna,46451177
+950,1,2,42000,,8.0,5.0,Semi-Furnished,Lal Baug,Santosh P,,46454205
+700,1,1,60000,,6.0,4.0,Furnished,Bandra West,Yousuf Emraan,,46455573
+700,1,1,55000,,6.0,1.0,Furnished,Bandra West,Yousuf Emraan,,46455995
+750,1,1,45000,Satyam Developers,21.0,9.0,Semi-Furnished,Lakme Road,Deepak  Narang Narang,Satyam Springs,46457121
+720,1,2,53000,Shree Yogeshwar Builders And Developers,14.0,4.0,Semi-Furnished,Prabhadevi,Nisha Nair,Paschim Apartments,46457995
+600,1,1,43000,,7.0,5.0,Furnished,Andheri West,Sunil  Ghevade,,46458269
+720,1,2,63000,,15.0,11.0,Semi-Furnished,Kashinath Ghanekar Chowk,Nisha Nair,,46459049
+520,1,1,45000,,7.0,7.0,Unfurnished,Lower Parel,Nikita Gangula,Neelganga Apartment,46460015
+520,1,1,45000,,7.0,7.0,Unfurnished,Lower Parel,Nikita Gangula,Neelganga Apartment,46460101
+750,1,1,41000,Satyam Developers,21.0,10.0,Unfurnished,Chembur,Sunil Singh,Satyam Springs,46460469
+700,1,2,42000,,4.0,2.0,Furnished,Ghatkopar East,Nimesh,,46462243
+600,1,1,55000,,10.0,7.0,Furnished,Mahalakshmi,Ghanshyam  Gupta,Mahalaxmi Heights,46462287
+650,1,1,42000,,7.0,3.0,Unfurnished,Vaishali Nagar,Ghanshyam  Gupta,,46462891
+500,1,1,42000,,12.0,2.0,Unfurnished,Santacruz East,Sandeep,Akash Darshan,46462991
+660,1,1,44000,,3.0,3.0,Semi-Furnished,Santacruz West,Shashi Bais,,46464259
+700,1,1,45000,,11.0,1.0,Unfurnished,Seven Bungalows,Vijaya R Shah,,46464387
+700,1,2,47000,,9.0,4.0,Furnished,"Sundar Nagar, Kalina",Raju Mali,,46465409
+520,1,1,42000,,3.0,2.0,Furnished,Khar West,Rahul Sonik,,46465801
+500,1,1,44000,Godrej Properties,7.0,1.0,Semi-Furnished,Vikhroli,Sameer,Godrej The Trees,46467057
+700,1,1,50000,Godrej Properties,7.0,2.0,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,46469073
+550,1,1,45000,,5.0,0.0,Furnished,Colaba,Sunil Kumar  Singh,,46469805
+680,1,2,45000,,22.0,12.0,Unfurnished,Chembur,Hiten Haryani,,46471501
+521,1,2,40000,V.R. Mittal Pvt. Ltd.,7.0,3.0,Furnished,Santacruz East,Pradeep ,Krishna Galaxy,46471723
+520,1,1,40000,Aaditya Relators,11.0,7.0,Furnished,Santacruz East,Pradeep ,Aaditya Aakashdeep,46473497
+650,1,2,38000,Cooperative Group Housing Society,3.0,2.0,Semi-Furnished,Santacruz West,Pravin,Subodh Guru CHS,46473583
+489,1,1,40000,,3.0,2.0,Semi-Furnished,Dadar West,Shweta  Agarwal,,46474423
+650,1,1,50000,Rizvi Builders,18.0,8.0,Semi-Furnished,Mahim West,Anand Kumar,Rizvi Heights,46475627
+650,1,1,65000,,20.0,17.0,Unfurnished,Kabutarkhana Purandare Chowk,Subhal  Kakkad,,46476675
+600,1,2,50000,,2.0,2.0,Furnished,Juhu Tara Road,Nadir,,46477495
+700,1,1,65000,,8.0,7.0,Furnished,Bandra West,Yousuf Emraan,,46478109
+650,1,2,42000,DGS Group,,,Unfurnished,Santacruz East,Vashdev Nagpal,Sheetal Airwings,46478433
+700,1,1,45000,,6.0,0.0,Furnished,Bandra West,Yousuf Emraan,,46478523
+650,1,1,49000,Lodha Group,40.0,16.0,Semi-Furnished,Wadala,Mahesh Palande,New Cuffe Parade,46479837
+500,1,1,40000,,7.0,6.0,Furnished,Lower Parel,Karan,,46481197
+610,1,2,52000,,3.0,1.0,Unfurnished,Mahim West,Santosh  Pandey,,46481485
+680,1,1,65000,,7.0,6.0,Furnished,Bandra West,Shafik Sayed,,46482017
+1000,1,1,55000,,7.0,5.0,Furnished,Khar West,Sammy,,46482391
+665,1,2,38000,Sheth Creators,22.0,2.0,Semi-Furnished,Marol,Mudassar,Vasant Oasis,46482507
+665,1,2,39000,Sheth Creators,22.0,15.0,Unfurnished,Marol,Mudassar,Vasant Oasis,46482683
+1000,1,1,60000,,7.0,4.0,Furnished,Bandra West,Sammy,,46482707
+700,1,1,60000,,8.0,7.0,Furnished,Bandra West,Yousuf Emraan,,46482779
+700,1,1,55000,,8.0,1.0,Furnished,Bandra West,Yousuf Emraan,,46483143
+650,1,1,45000,,7.0,6.0,Furnished,Lower Parel,Ghanshyam  Gupta,,46484429
+750,1,1,60000,,4.0,3.0,Furnished,Narayan Pujari Colony,Dilip  Gupta,,46485733
+665,1,2,37999,Sheth Creators,22.0,11.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,46493765
+665,1,2,38000,Sheth Creators,22.0,11.0,Semi-Furnished,Marol,Ansar  Ahmed,Vasant Oasis,46495653
+-2147483648,1,2,47000,,6.0,4.0,Furnished,Vile Parle East,Yogesh Jhaveri,,46496759
+750,1,1,42000,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46497321
+666,1,1,40000,,,,Semi-Furnished,Mahim,Ranvijay Pandey,,46497831
+600,1,1,38000,Cooperative Group Housing Society,4.0,2.0,Furnished,Andheri West,Dharmesh,Andheri CHS,46498229
+750,1,2,65000,,5.0,3.0,Semi-Furnished,Worli,ranjeet gamre,,46498551
+600,1,1,39000,,7.0,1.0,Semi-Furnished,Shivaji Park,Ranvijay Pandey,,46500841
+550,1,1,45000,,4.0,2.0,Unfurnished,Dadar TT Circle,Shailesh  Dudam,,46501015
+620,1,2,45000,Lodha Group,41.0,17.0,Unfurnished,Wadala,Sankarlingam Thevar,New Cuffe Parade,46501567
+720,1,2,43000,Satyam Developers,35.0,9.0,Semi-Furnished,Chembur,Darshan  Parekh,Satyam Springs,46505241
+720,1,2,49000,Satyam Developers,17.0,5.0,Furnished,Chembur,Darshan  Parekh,Satyam Springs,46505405
+700,1,1,60000,,8.0,5.0,Furnished,Khar West,Yousuf Emraan,,46507143
+700,1,1,55000,,8.0,4.0,Furnished,Linking Road,Yousuf Emraan,,46507381
+700,1,1,65000,,8.0,6.0,Unfurnished,Bandra West,Yousuf Emraan,,46508007
+657,1,1,38000,,4.0,3.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46508017
+500,1,1,38000,Cooperative Group Housing Society,7.0,6.0,Unfurnished,Andheri West,Dharmesh,Andheri CHS,46508567
+585,1,2,39000,Ajmera Group,14.0,11.0,Furnished,Wadala East,Sunny Rajpal,Odyssey Bhakti Park,46510477
+720,1,1,45000,,4.0,2.0,Furnished,Dadar West,Ranvijay Pandey,,46512233
+625,1,2,55000,Hiranandani Group,22.0,10.0,Semi-Furnished,Powai,Vaibhav  Lahane,Hiranandani Zen Maple,46512919
+800,1,2,45000,,10.0,4.0,Furnished,Vile Parle West,Savil Gandhi,,46513039
+666,1,2,38000,Sheth Creators,22.0,11.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46520083
+550,1,1,65000,,11.0,4.0,Furnished,Colaba,Vaseem  Siddique,,46520479
+625,1,1,65000,,11.0,4.0,Furnished,Colaba,Vaseem  Siddique,,46520525
+600,1,2,38000,Nahar Group,14.0,11.0,Semi-Furnished,Chandivali,Sachin Babar,Orchid Enclave,46524179
+650,1,2,40000,,14.0,1.0,Furnished,Marol,Mohammed Sarfaraz Bhati,Manavsthal Height,46526161
+700,1,1,45000,,4.0,2.0,Unfurnished,Vile Parle East,Raju Mehta,,46529673
+680,1,2,46000,Satyam Developers,19.0,10.0,Unfurnished,Deonar,Manish Narang,Satyam Springs,46530023
+550,1,2,45000,,22.0,7.0,Semi-Furnished,Deonar,Hiten Haryani,,46531259
+750,1,1,42999,Lodha Group,40.0,20.0,Semi-Furnished,Wadala East,Sunny Rajpal,New Cuffe Parade,46533687
+700,1,1,55000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,46536117
+700,1,1,60000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46537353
+680,1,2,39000,,13.0,2.0,Furnished,Marol,Parvez Loon,Manavsthal Height,46537701
+650,1,2,42000,,12.0,9.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,,46538645
+800,1,2,39000,AUM Developers,7.0,1.0,Furnished,Santacruz East,Pratibha,Aksh Darshan,46543287
+700,1,2,65000,,5.0,1.0,Semi-Furnished,Uppar Colaba,Madan  Tiwari,,46544223
+699,1,1,48000,,,,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46547329
+799,1,1,49000,,7.0,4.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46547453
+686,1,1,48500,,7.0,4.0,Semi-Furnished,Worli,Ranvijay Pandey,,46547621
+650,1,1,43000,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46547887
+687,1,1,38000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46547995
+750,1,1,38000,,4.0,1.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46548353
+725,1,1,44000,,,,Semi-Furnished,Dadar West,Ranvijay Pandey,,46549779
+560,1,1,38000,Cooperative Group Housing Society,6.0,5.0,Furnished,Andheri West,Dharmesh,Andheri CHS,46551339
+600,1,2,38000,,2.0,1.0,Unfurnished,Vile Parle West,Jimisha  Seth,,46554107
+605,1,2,65000,,23.0,1.0,Unfurnished,,meena meena,,46556527
+450,1,1,65000,Kapcon Builders,12.0,8.0,Furnished,Worli,Surya Mishra,Pankaj Mansion,46557153
+500,1,2,45000,,4.0,2.0,Semi-Furnished,Matunga West,vishnu,,46559517
+690,1,2,41000,Godrej Properties,18.0,7.0,Unfurnished,Vikhroli,Shailesh  Maurya,Godrej The Trees,46565029
+600,1,2,50000,,29.0,17.0,Furnished,Girgaon Chowpatty,Naresh,,46565133
+550,1,1,38000,Patel Builders & Developers,4.0,3.0,Furnished,4 Bunglows,Sanjay Bagal,Versova View,46566967
+575,1,1,39990,,4.0,2.0,Semi-Furnished,Bhawani Shankar,SB chavan,,46567811
+700,1,2,40000,,4.0,3.0,Semi-Furnished,Dadar West,Pratibha,,46569789
+666,1,1,43000,,7.0,3.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46570747
+-2147483648,1,2,54000,,3.0,2.0,Furnished,Bandra West,Ritesh,,46572459
+550,1,1,45000,,3.0,2.0,Semi-Furnished,Worli,Rambabu  Shah,,46572897
+650,1,1,40000,Emgee Group,10.0,6.0,Furnished,Wadala,Kartik  Mudaliar,Emgee Greens,46573379
+-2147483648,1,2,50000,,6.0,2.0,Semi-Furnished,Vile Parle West,Yogesh Jhaveri,,46574965
+810,1,1,48000,Lodha Group,40.0,17.0,Unfurnished,Wadala,Ashim  Dewan,New Cuffe Parade,46576205
+650,1,2,40000,,20.0,18.0,Unfurnished,Lower Parel,Prem Gupta,,46581791
+650,1,2,44000,Godrej Properties,18.0,5.0,Unfurnished,Vikhroli,Dilip  Tripathi,Godrej The Trees,46585235
+670,1,1,45000,,7.0,6.0,Unfurnished,Prabhadevi,Sachin  Adakhale,,46587029
+768,1,2,49000,,3.0,3.0,Semi-Furnished,Dadar West,Omprakash  Dubey,,46587659
+687,1,2,45000,,3.0,2.0,Furnished,Mahim West,Omprakash  Dubey,,46587823
+600,1,1,60000,,4.0,2.0,Furnished,Union Park,Durgesh jadhav,,46588543
+400,1,2,50000,,5.0,1.0,Furnished,Colaba,Asif  Khan,,46589621
+350,1,1,50000,,5.0,1.0,Furnished,Colaba,Asif  Khan,,46589817
+525,1,1,40000,,14.0,8.0,Furnished,Lokhandwala Complex,Ravindra Dhole,,46589995
+300,1,1,40000,,5.0,1.0,Furnished,Colaba,Asif  Khan,,46590231
+700,1,1,60000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,46590373
+-2147483648,1,2,42000,,2.0,0.0,Furnished,4 Bunglows,Kuldeep,,46590679
+700,1,1,50000,,8.0,3.0,Furnished,Bandra West,Yousuf Emraan,,46591411
+700,1,1,55000,,8.0,4.0,Furnished,Bandra West,Yousuf Emraan,,46591591
+650,1,2,40000,,12.0,3.0,Furnished,Andheri West,Pratibha,Panorama Heights,46591867
+700,1,1,65000,,8.0,6.0,Furnished,Mount Mary,Yousuf Emraan,,46592207
+600,1,2,40000,,7.0,4.0,Semi-Furnished,Central Area,Sachin,Hiranandani Garden Eden III,46592787
+650,1,1,60000,,7.0,5.0,Semi-Furnished,Colaba,Anil Cordeiro,,46593521
+550,1,1,55000,,6.0,1.0,Semi-Furnished,Colaba,Anil Cordeiro,,46593979
+-2147483648,1,1,40000,,6.0,5.0,Semi-Furnished,Khar West,Amit Agnani,,46595227
+679,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,16.0,16.0,Semi-Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,46595633
+650,1,1,58000,Sugee Group,20.0,17.0,Semi-Furnished,Gokhale Rd,Jeetendra gaikwad,Sugee Sadan,46596003
+-2147483648,1,2,60000,,7.0,6.0,Furnished,Worli Sea Face,Ghanshyam  Gupta,,46598305
+-2147483648,1,2,40000,,20.0,6.0,Furnished,Lower Parel,Ghanshyam  Gupta,,46598481
+650,1,2,41000,DGS Group,10.0,9.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,Sheetal Airwings,46600201
+650,1,1,40000,,12.0,8.0,Furnished,Wadala East,Piyush  Kothari,,46600795
+700,1,2,55000,Kalpatru,14.0,11.0,Unfurnished,Prabhadevi,Nisha Nair,Rishabh Tower,46602765
+550,1,1,65000,,11.0,4.0,Furnished,Warden Road,Vaseem  Siddique,,46606691
+625,1,1,56000,Hiranandani Group,17.0,16.0,Unfurnished,Powai,Mahesh Nikam,Hiranandani Zen Maple,46606779
+550,1,1,60000,,6.0,5.0,Furnished,Warden Road,Vaseem  Siddique,,46607067
+585,1,1,55000,,7.0,5.0,Semi-Furnished,Prabhadevi,Shweta  Agarwal,,46608019
+666,1,2,41000,,,,Semi-Furnished,Mahim West,Ranvijay Pandey,,46608683
+750,1,2,45000,,,,Furnished,Mahim,Ranvijay Pandey,,46609525
+759,1,1,48000,Godrej Properties,12.0,3.0,Semi-Furnished,Vikhroli,Naresh  Solanki,Godrej The Trees,46610757
+810,1,1,48000,Lodha Group,40.0,11.0,Unfurnished,Wadala,Ashim  Dewan,New Cuffe Parade,46611991
+1000,1,1,57000,Sugee Group,20.0,18.0,Semi-Furnished,Dadar West,Surya Mishra,Sugee Sadan,46612197
+550,1,2,55000,,,,Furnished,Powai,Vaibhav  Lahane,,46615435
+450,1,1,45000,,3.0,3.0,Unfurnished,Hill Rd,Shaid,,46615529
+400,1,1,50000,,3.0,1.0,Semi-Furnished,Waterfield Road,Shaid,,46616277
+700,1,2,55000,,4.0,2.0,Furnished,Andheri West,Arjun Joshi,,46617199
+650,1,1,39000,,9.0,5.0,Unfurnished,Lokhandwala Complex,Arjun Joshi,Troika Apartment,46618185
+650,1,1,40000,,10.0,6.0,Furnished,Wadala East,Kartik  Mudaliar,,46618639
+650,1,2,41000,DGS Group,7.0,5.0,Unfurnished,Santacruz East,Vashdev Nagpal,Sheetal Airwings,46622363
+650,1,1,45000,,6.0,0.0,Unfurnished,Seven Bungalows,Kunal Bajaj Nalavde,,46624991
+600,1,1,55000,,12.0,1.0,Unfurnished,Lower Parel,Ankit  Gupta,,46625785
+550,1,1,38000,,4.0,4.0,Unfurnished,Mahim,Taranum syed,,46629257
+610,1,2,42000,Hiranandani Group,14.0,4.0,Furnished,Powai,Niraj Dubey,Hiranandani Gardens Kingston,46631681
+600,1,1,45000,,7.0,3.0,Furnished,Worli,Dilip  Gupta,,46632145
+1000,1,1,55000,,7.0,7.0,Semi-Furnished,Bandra West,Sammy,,46633205
+650,1,2,45000,Blue Castle Developer Pvt. Ltd.,7.0,5.0,Furnished,Andheri West,Vaishnavi Choudhary,Fiona,46633895
+808,1,1,55000,Godrej Properties,18.0,2.0,Furnished,Vikhroli,Gaurav  Panjabi,Godrej The Trees,46634159
+808,1,1,47000,Godrej Properties,18.0,3.0,Unfurnished,Vikhroli,Gaurav  Panjabi,Godrej The Trees,46634309
+600,1,1,40000,,4.0,2.0,Semi-Furnished,Juhu Tara Road,Jayant  Singh,,46635429
+700,1,1,55000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46639193
+700,1,1,45000,,6.0,2.0,Furnished,Bandra West,Yousuf Emraan,,46639615
+700,1,1,65000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,46640217
+665,1,2,38000,Sheth Creators,22.0,3.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46640855
+650,1,1,40000,Raheja Developers Ltd.,7.0,2.0,Furnished,Chandivali,Surjit Singh Chaudhary,Raheja Vihar,46643921
+650,1,2,41000,Kumar Builders,10.0,5.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,Kul Court,46645137
+585,1,2,38000,DOSTI REALTY,7.0,4.0,Semi-Furnished,Wadala East,Anand Kumar,Dosti Acres,46661531
+600,1,1,42000,Cooperative Group Housing Society,7.0,2.0,Furnished,Andheri West,Dharmesh,Andheri CHS,46662087
+644,1,2,48000,Lodha Group,45.0,10.0,Semi-Furnished,Bhakti Park,Kartik  Mudaliar,New Cuffe Parade,46662193
+750,1,2,52000,,27.0,8.0,Furnished,Dadar East,Vassera Property Solutions Pvt. Ltd.,,46662889
+600,1,1,38000,DOSTI REALTY,39.0,21.0,Semi-Furnished,Wadala,Amrik Singh Grover,Dosti Acres,46666865
+665,1,2,38000,Sheth Creators,22.0,2.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,46667139
+667,1,2,38500,Sheth Creators,22.0,3.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46669347
+600,1,1,54000,Hiranandani Group,17.0,5.0,Semi-Furnished,Powai,Sagar  Gawai,Hiranandani Zen Maple,46669747
+560,1,2,40000,,7.0,5.0,Unfurnished,Dadar,Ravindra Cheulkar,,46670177
+-2147483648,1,2,55000,,7.0,4.0,Unfurnished,Bandra West,Amit Agnani,,46672295
+700,1,1,65000,,8.0,5.0,Furnished,Khar West,Yousuf Emraan,,46674349
+698,1,1,42000,,7.0,3.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46675543
+720,1,1,43000,,7.0,3.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46676091
+780,1,1,43500,,7.0,3.0,Semi-Furnished,Worli,Ranvijay Pandey,,46676479
+700,1,1,55000,,8.0,4.0,Furnished,Linking Road,Yousuf Emraan,,46677245
+550,1,1,55000,,4.0,1.0,Furnished,Juhu Tara Road,Jayant  Singh,,46677267
+700,1,1,49000,Lodha Group,54.0,21.0,Semi-Furnished,Wadala East,Rajendra,New Cuffe Parade,46677575
+700,1,1,60000,,8.0,6.0,Furnished,Khar West,Yousuf Emraan,,46677751
+560,1,1,42000,,4.0,2.0,Unfurnished,Irla,Ashish ,,46677901
+700,1,1,45000,,6.0,3.0,Furnished,Bandra West,Yousuf Emraan,,46678405
+656,1,2,49000,Sheth Creators,24.0,12.0,Furnished,Marol,Ziya N\A,Vasant Oasis,46679051
+700,1,2,50000,,4.0,2.0,Semi-Furnished,Matunga West,Anand Kumar,,46679493
+763,1,1,47000,Lodha Group,43.0,14.0,Semi-Furnished,Wadala,kailash Dubey,New Cuffe Parade,46680247
+575,1,2,55000,Sugee Group,26.0,14.0,Semi-Furnished,Dadar West,Santosh  Pandey,Sugee Sadan,46685295
+450,1,1,45000,,,,Furnished,Lower Parel,Tanaji  Patil,,46685545
+450,1,1,42000,,,,Semi-Furnished,Lower Parel,Tanaji  Patil,,46685607
+490,1,2,38000,DOSTI REALTY,39.0,2.0,Furnished,Wadala,Santosh  Pandey,Dosti Acres,46687293
+700,1,2,43000,,8.0,5.0,Furnished,Chandivali,Vishal Singh,Raheja Nest,46689773
+1000,1,1,40000,Godrej Properties,18.0,8.0,Unfurnished,Vikhroli,Vinayak  Pandya,Godrej The Trees,46690013
+550,1,1,48000,,7.0,4.0,Semi-Furnished,Vile Parle East,Jimisha  Seth,,46690635
+650,1,2,38000,,10.0,5.0,Semi-Furnished,Chandivali,Jilani Shah,West End Chandivali,46691347
+630,1,2,38500,Cooperative Group Housing Society,8.0,4.0,Semi-Furnished,Chandivali,Jilani Shah,Silver Crest CHS,46691841
+754,1,1,49000,Lodha Group,41.0,6.0,Semi-Furnished,Wadala,Ashim  Dewan,New Cuffe Parade,46693705
+600,1,2,45000,,6.0,5.0,Furnished,Andheri West,Kushal,Clifton Apartment,46693821
+675,1,2,53000,,20.0,16.0,Unfurnished,Dadar West,Arvind ,,46695237
+650,1,1,65000,,7.0,4.0,Furnished,Juhu,Jayant  Singh,,46695491
+650,1,1,50000,,7.0,2.0,Unfurnished,Juhu Tara Road,Jayant  Singh,,46695715
+799,1,1,46000,,7.0,4.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46697205
+780,1,1,46000,,7.0,4.0,Semi-Furnished,Worli,Ranvijay Pandey,,46697359
+450,1,1,57000,,20.0,18.0,Semi-Furnished,Gokhale Rd,Amit Jadhav,,46698543
+660,1,1,39000,,7.0,3.0,Unfurnished,Mahalakshmi,Anand Gupta,,46698625
+500,1,1,38000,,23.0,13.0,Semi-Furnished,Lower Parel,Anand Gupta,,46698701
+400,1,1,49000,,7.0,2.0,Furnished,Lower Parel,vishwanath,,46700519
+825,1,1,55000,,2.0,2.0,Furnished,Matunga West,Pankaj Soni,,46704741
+500,1,1,40000,,21.0,9.0,Furnished,Parel,Ankit  Gupta,,46706651
+565,1,1,45000,,7.0,3.0,Unfurnished,Powai,Ashish  Agarwal,,46708965
+665,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,19.0,6.0,Semi-Furnished,Marol,Ziya N\A,Kanakia Rainforest,46711577
+550,1,1,40000,,6.0,4.0,Semi-Furnished,,Raktim N/A ,,46717495
+630,1,2,48000,Godrej Properties,18.0,12.0,Semi-Furnished,Vikhroli,Kawal,Godrej The Trees,46724701
+600,1,1,60000,,4.0,3.0,Furnished,Worli Sea Face,Ankit  Gupta,,46730173
+500,1,1,50000,,7.0,4.0,Furnished,Gamdevi,Vaseem  Siddique,,46732249
+550,1,1,55000,,6.0,2.0,Furnished,Gamdevi,Vaseem  Siddique,,46732501
+550,1,1,55000,,8.0,4.0,Furnished,Charni Road,Vaseem  Siddique,,46732643
+640,1,1,40000,,7.0,6.0,Furnished,,Ahmad Saeed,,46732661
+550,1,1,50000,,8.0,2.0,Furnished,Charni Road,Vaseem  Siddique,,46732761
+650,1,2,41000,DGS Group,11.0,9.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,Sheetal Airwings,46733441
+630,1,2,40000,Roha Builders,3.0,2.0,Semi-Furnished,Poonam Nagar,Saurabh,Takshila Bldg 29 CHS Ltd,46734159
+750,1,2,42000,Godrej Properties,12.0,5.0,Semi-Furnished,Vikhroli,Riyaz  Khan,Godrej The Trees,46734375
+500,1,1,45000,,10.0,4.0,Unfurnished,Grant Road,Vaseem  Siddique,,46736169
+700,1,1,42000,,13.0,9.0,Furnished,Lokhandwala Complex,Dinesh Malhotra,,46736827
+550,1,1,43000,,23.0,21.0,Unfurnished,Lower Parel,Surya Mishra,,46736945
+600,1,1,45000,Hiranandani Group,7.0,6.0,Unfurnished,Powai,Mahesh Nikam,Hiranandani Gardens,46738217
+650,1,1,40000,,7.0,3.0,Unfurnished,Andheri West,Jagjit,,46740325
+600,1,1,48000,Godrej Properties,20.0,7.0,Semi-Furnished,Vikhroli East,Amrik Singh Grover,The Trees,46740547
+650,1,1,60000,,11.0,10.0,Furnished,Prabhadevi,Vassera Property Solutions Pvt. Ltd.,,46741309
+-2147483648,1,1,45000,,4.0,2.0,Unfurnished,Mahim West,Ghanshyam Fatnani,,46741687
+650,1,2,40000,Godrej Constructions,18.0,10.0,Semi-Furnished,Vikhroli East,Riyaz  Khan,Godrej Garden Enclave B Type Tower,46742269
+728,1,2,40000,,20.0,5.0,Semi-Furnished,Vikhroli East,Santosh,,46745627
+550,1,1,38500,,7.0,4.0,Semi-Furnished,Mahalakshmi,Raktim N/A ,,46746279
+600,1,1,45000,,30.0,9.0,Unfurnished,Girgaum,Arvind ,,46747575
+650,1,2,45000,,7.0,1.0,Unfurnished,Hindu Colony,Sunil  Pote,,46747617
+500,1,1,45000,,7.0,2.0,Unfurnished,Lower Parel,Swapnil,Neelganga Apartment,46747917
+600,1,1,40000,,10.0,6.0,Unfurnished,Andheri East,Vipul ` Shah,,46750647
+650,1,1,65000,,6.0,5.0,Unfurnished,Vile Parle East,Vipul ` Shah,,46750731
+550,1,1,46000,,7.0,2.0,Unfurnished,Vile Parle East,Vipul ` Shah,,46750765
+730,1,2,40000,Godrej Constructions,20.0,2.0,Semi-Furnished,Vikhroli East,Kirit,Godrej Garden Enclave B Type Tower,46753201
+725,1,1,42000,,13.0,11.0,Semi-Furnished,Lower Parel,Johnny,,46756707
+650,1,2,38000,Sheth Creators,22.0,15.0,Semi-Furnished,Marol,Chowdhary,Vasant Oasis,46758079
+665,1,2,38000,Sheth Creators,22.0,2.0,Semi-Furnished,Marol,Mudassar,Vasant Oasis,46758873
+650,1,1,43000,,11.0,2.0,Semi-Furnished,Santacruz East,Sunil Kini,,46759695
+650,1,2,43000,,11.0,2.0,Semi-Furnished,Santacruz East,Sunil Kini,,46759809
+700,1,2,40000,Godrej Properties,14.0,9.0,Unfurnished,Chembur,Hiten Haryani,Godrej Prime,46763933
+575,1,2,41000,,4.0,1.0,Furnished,Matunga West,Kamlesh  Joshi,,46764497
+600,1,2,40000,,22.0,11.0,Unfurnished,Deonar,Hiten Haryani,,46766215
+550,1,1,48000,,7.0,4.0,Semi-Furnished,Vile Parle East,Jimisha  Seth,,46767937
+600,1,1,39000,,3.0,2.0,Semi-Furnished,Santacruz West,Soham  Shah,,46768601
+630,1,1,42000,Godrej Properties,18.0,9.0,Unfurnished,Vikhroli,Shailesh  Maurya,Godrej The Trees,46769871
+700,1,1,40000,,,,Unfurnished,Vikhroli East,Sangeeta  Kaduskar,,46773049
+750,1,1,41000,,,,Semi-Furnished,Vikhroli East,Sangeeta  Kaduskar,,46773097
+1000,1,2,55000,,6.0,3.0,Furnished,Khar West,Saif Ali Sarang,,46773991
+700,1,1,50000,Godrej Properties,18.0,16.0,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,46776487
+-2147483648,1,2,45000,,11.0,9.0,Unfurnished,Vile Parle East,Sanjay Patel,,46777085
+730,1,1,47300,Lodha Group,40.0,19.0,Unfurnished,Wadala East,Tanay  Mukhi,New Cuffe Parade,46778101
+665,1,2,37999,Sheth Creators,22.0,2.0,Semi-Furnished,Marol Maroshi,Mudassar,Vasant Oasis,46781285
+65,1,2,38000,Sheth Creators,22.0,2.0,Semi-Furnished,Marol Maroshi Road,Mudassar,Vasant Oasis,46781507
+650,1,1,45000,Satyam Developers,20.0,5.0,Furnished,Chembur,Harmeet Kochhar,Satyam Springs,46781591
+650,1,1,45000,Satyam Developers,20.0,5.0,Furnished,Chembur,Harmeet Kochhar,Satyam Springs,46781687
+650,1,1,45000,Satyam Developers,20.0,5.0,Furnished,Chembur,Harmeet Kochhar,Satyam Springs,46781769
+650,1,2,41000,DGS Group,10.0,9.0,Unfurnished,Santacruz East,Vashdev Nagpal,Sheetal Airwings,46784177
+650,1,1,53000,Hiranandani Group,17.0,17.0,Semi-Furnished,Powai,Niraj Dubey,Hiranandani Zen Maple,46785017
+715,1,2,45000,Raheja Universal Pvt Ltd.,22.0,17.0,Semi-Furnished,Goregaon East,Rajesh  Pathak,Raheja Ridgewood,46785091
+-2147483648,1,1,38000,,8.0,4.0,Semi-Furnished,Powai,Chinchu Varghese ,,46785131
+630,1,2,42000,Godrej Properties,18.0,11.0,Unfurnished,Vikhroli,Shailesh  Maurya,Godrej The Trees,46786309
+550,1,1,40000,,4.0,2.0,Furnished,Lokhandwala Complex,Pradeep  Yadav,,46789575
+600,1,2,40000,,4.0,3.0,Furnished,Vaibhav Nagar,Manish  Haryani,,46790075
+550,1,1,43000,,23.0,9.0,Semi-Furnished,Prabhadevi,Rajendra,,46791203
+550,1,1,45000,,10.0,4.0,Unfurnished,Mumbai Central,Vaseem  Siddique,,46793379
+750,1,1,45000,,4.0,1.0,Furnished,Lower Parel,Pradeep Jain,,46794317
+713,1,2,44000,,22.0,10.0,Semi-Furnished,Bimbisar Nagar,Rajesh  Pathak,,46795043
+-2147483648,1,1,45000,Hilla Builder Pvt. Ltd.,4.0,2.0,Semi-Furnished,Bandra West,Karan Sakhrani,Hill Road,46795407
+600,1,2,48000,,3.0,2.0,Unfurnished,Khar West,Shiv Kumar,,46795559
+600,1,1,38000,,4.0,2.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,46798169
+600,1,2,50000,,7.0,5.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,46798273
+550,1,1,48000,,16.0,6.0,Furnished,Yari Road,Kiran,,46799059
+800,1,2,45000,,2.0,2.0,Furnished,Santacruz East,Shrey,,46802305
+650,1,2,45000,,8.0,8.0,Semi-Furnished,Santacruz East,Vashdev Nagpal,,46802563
+500,1,1,53000,Hiranandani Group,17.0,6.0,Semi-Furnished,Powai,Sagar  Gawai,Hiranandani Zen Maple,46802645
+550,1,1,42000,,7.0,3.0,Furnished,Saat Rasta,Pralhad Angre,,46803191
+700,1,1,42500,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46803329
+450,1,1,45000,,4.0,1.0,Furnished,Worli Hill,Ghanshyam  Gupta,,46807733
+728,1,2,40000,Godrej Constructions,20.0,8.0,Semi-Furnished,Vikhroli East,Santosh Bhandari,Godrej Garden Enclave B Type Tower,46808869
+640,1,1,45000,,3.0,2.0,Semi-Furnished,Abhyudaya Nagar,Anand Kumar,,46808985
+600,1,1,60000,,8.0,5.0,Furnished,Bandra West,Ali  Khan,Band Stand,46809137
+680,1,1,45000,,7.0,3.0,Furnished,Lokhandwala Complex,Mubin  Jeri,Ballerina Apartment,46814429
+800,1,2,42000,,10.0,6.0,Furnished,Vile Parle East,Savil Gandhi,,46814695
+550,1,1,45000,,22.0,13.0,Semi-Furnished,Prabhadevi,Ankit  Gupta,,46819191
+600,1,2,60000,,7.0,3.0,Furnished,Worli,Dilip  Gupta,,46819193
+550,1,1,40000,,22.0,17.0,Semi-Furnished,Prabhadevi,Ankit  Gupta,,46819257
+750,1,1,42000,,7.0,6.0,Unfurnished,Prabhadevi,Ankit  Gupta,,46819273
+500,1,1,42000,,23.0,20.0,Semi-Furnished,Kamala City,Girish,,46820967
+665,1,2,39000,Sheth Creators,22.0,9.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,46824443
+730,1,1,47800,Lodha Group,40.0,17.0,Unfurnished,Wadala East,Tanay  Mukhi,New Cuffe Parade,46825603
+640,1,1,45000,Satyam Developers,21.0,16.0,Unfurnished,Chembur,Sachin  Aswani,Satyam Springs,46825753
+575,1,2,39000,,,,Semi-Furnished,Bhakti Park,Mahesh Palande,,46828511
+665,1,2,50000,Sheth Creators,24.0,11.0,Furnished,Marol,Ziya N\A,Vasant Oasis,46833291
+600,1,1,55000,,4.0,2.0,Semi-Furnished,Santacruz West,Rashid shaikh,,46833703
+800,1,1,50000,Godrej Properties,18.0,12.0,Unfurnished,Vikhroli,Gaurav  Panjabi,Godrej The Trees,46837595
+380,1,1,42000,,23.0,10.0,Furnished,Worli,Ghanshyam  Gupta,City View,46838697
+800,1,1,48000,Lodha Group,38.0,19.0,Unfurnished,Wadala East,Amrik Singh Grover,Lodha Altia,46839085
+800,1,1,50000,Lodha Group,38.0,32.0,Unfurnished,Wadala East,Amrik Singh Grover,Lodha Altia,46839377
+500,1,1,45000,,20.0,10.0,Furnished,Lower Parel,Dilip  Gupta,,46846041
+799,1,1,43000,,7.0,3.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46847449
+650,1,2,41000,DGS Group,10.0,5.0,Unfurnished,"Sundar Nagar, Kalina",Vashdev Nagpal,Sheetal Airwings,46848999
+580,1,1,65000,Cooperative Group Housing Society,7.0,5.0,Furnished,Prabhadevi,Rohit  Gupta,Vaibhav CHS,46850485
+850,1,1,42000,,7.0,5.0,Unfurnished,Santacruz West,Soham  Shah,,46850937
+600,1,1,42000,,7.0,1.0,Semi-Furnished,Seven Bungalows,Bunty,7 Bungalow,46851003
+670,1,1,40000,,15.0,3.0,Unfurnished,Andheri West,Rahul  Sirsath,Samartha Ashish Apartment,46853649
+550,1,1,42000,,7.0,5.0,Furnished,Lokhandwala Complex,Pradeep  Yadav,Kenwood Apartment,46857439
+700,1,2,38000,,9.0,7.0,Unfurnished,Veera Desai Chowk,abdul wafa,,46862877
+650,1,2,38000,,7.0,5.0,Semi-Furnished,Santacruz East,Surendra Gala,,46863231
+450,1,1,38000,,7.0,1.0,Unfurnished,Lower Parel,Dinesh Gupta,,46865787
+500,1,1,38000,Sanghvi Realty ,22.0,16.0,Unfurnished,Worli,Dinesh Gupta,Sanghvi Evana,46865969
+550,1,1,50000,,7.0,4.0,Unfurnished,Haji Ali,Prem Gupta,,46867793
+640,1,1,40000,The Gundecha Group,12.0,8.0,Furnished,Andheri East,Rajan Singh,Gundecha Asta,46867813
+675,1,2,58000,,7.0,2.0,Furnished,Bandra Reclamation,amol,Reclamation,46867917
+550,1,1,40000,,22.0,5.0,Semi-Furnished,Lower Parel,Rambabu  Shah,Ecostruk Florence,46869837
+500,1,2,38000,,22.0,16.0,Semi-Furnished,Lower Parel,Rambabu  Shah,Ecostruk Florence,46869911
+520,1,1,40000,,21.0,20.0,Unfurnished,Prabhadevi,Dinesh Gupta,,46870277
+-2147483648,1,1,50000,,5.0,2.0,Furnished,Bandra West,Karan Sakhrani,,46873679
+655,1,2,40000,Ecohomes,13.0,6.0,Furnished,Marol,Ziya N\A,Eco Park,46873871
+600,1,1,42000,,7.0,3.0,Unfurnished,Saat Rasta,Mitali  Trikha,,46877147
+1080,1,1,47000,,2.0,2.0,Furnished,Kalina,Mumbai LookinRealty,,46877621
+750,1,2,44000,Godrej Properties,12.0,5.0,Semi-Furnished,Vikhroli,Riyaz  Khan,Godrej The Trees,46879033
+750,1,1,40000,Godrej Properties,12.0,5.0,Unfurnished,Vikhroli,Riyaz  Khan,Godrej The Trees,46879059
+650,1,2,55000,,6.0,3.0,Unfurnished,Bandra West,Shiv Kumar,,46879675
+800,1,1,55000,,6.0,3.0,Furnished,Worli,Mallesh  Shetty,,46882545
+700,1,1,45000,,7.0,3.0,Furnished,Andheri West,Jagjit,,46887683
+650,1,2,42000,DGS Group,11.0,5.0,Unfurnished,Santacruz East,Gitesh  Kadam,Sheetal Airwings,46887831
+570,1,2,40000,,7.0,6.0,Semi-Furnished,Powai,Dharmendra  Singh,,46887865
+799,1,1,42000,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46888039
+750,1,1,42000,,7.0,3.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46888377
+775,1,1,42000,,7.0,3.0,Semi-Furnished,Worli,Ranvijay Pandey,,46888779
+750,1,1,42500,,7.0,4.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46889197
+800,1,1,42500,,7.0,3.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46889525
+650,1,2,45000,,9.0,9.0,Furnished,Andheri West,Arshad khan,,46889777
+825,1,1,42500,,7.0,3.0,Semi-Furnished,Worli,Ranvijay Pandey,,46889935
+570,1,1,40000,Hiranandani Group,7.0,5.0,Semi-Furnished,Powai,Dharmendra Singh,Hiranandani Gardens,46890023
+700,1,1,45000,,10.0,2.0,Furnished,Worli Naka Acharaya Atre Chowk,Mallesh  Shetty,,46891007
+550,1,1,40000,,7.0,6.0,Semi-Furnished,Wadala East,Kartik  Mudaliar,,46891969
+750,1,1,57000,,4.0,1.0,Furnished,Kamala City,Vilas,,46894123
+600,1,2,50000,,14.0,8.0,Furnished,Lower Parel,Dilip  Gupta,,46894567
+450,1,1,38000,,4.0,0.0,Unfurnished,Vile Parle East,Jimisha  Seth,,46897201
+700,1,2,45000,Godrej Properties,10.0,3.0,Semi-Furnished,Vikhroli,Kirit,Godrej The Trees,46899667
+650,1,1,38000,,4.0,3.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46902511
+675,1,1,38000,,4.0,3.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46902593
+750,1,1,50000,,22.0,7.0,Unfurnished,Agripada,Dennis  Fernandes,Nathani Residencyq,46902777
+800,1,1,41000,,7.0,3.0,Semi-Furnished,Worli,Ranvijay Pandey,,46904059
+750,1,1,41000,,7.0,3.0,Semi-Furnished,Lower Parel,Ranvijay Pandey,,46904303
+670,1,1,49000,Lodha Group,30.0,6.0,Semi-Furnished,Wadala,Sandeep Sadh,Estrella,46906513
+650,1,1,45000,,9.0,2.0,Unfurnished,Vile Parle East,Prabhakar  Phansekar,,46907819
+400,1,1,52000,,7.0,3.0,Semi-Furnished,Dadar West,Subhal  Kakkad,,46908401
+650,1,2,43151,Omkar Realtors and Developers Pvt. Ltd.,17.0,7.0,Semi-Furnished,Bandra Kurla Complex,Atif Siddique,Omkar Meridia,46908895
+625,1,2,55000,Sugee Group,22.0,6.0,Semi-Furnished,Dadar West,Santosh  Pandey,Sugee Hiranya,46914275
+900,1,2,45000,,,,Furnished,Mazgaon,Aqib  Khan,Dudhwala Aqua Gem,46914911
+700,1,2,55000,,14.0,10.0,Furnished,Tardeo,Prem Gupta,,46915917
+700,1,2,42000,,,,Furnished,Powai lake,Sachin,,46916099
+700,1,2,42000,,22.0,19.0,Furnished,Tunga,Avinash  Babar,,46916157
+700,1,2,42000,,22.0,19.0,Furnished,Tunga,Sagar,,46916513
+700,1,2,42000,,22.0,19.0,Furnished,Powai lake,Kanchan,,46916999
+550,1,1,38000,,4.0,2.0,Unfurnished,Mahim West,Rohit  Gupta,,46920373
+625,1,2,40000,,7.0,2.0,Semi-Furnished,Andheri West,Prathmesh,,46922549
+550,1,1,38000,,,,Semi-Furnished,Wadala East,Tilak Shah,,46925549
+650,1,1,38000,Sanghvi Realty ,21.0,18.0,Unfurnished,Worli,Vinod  Gupta,Sanghvi Evana,46925677
+896,1,2,49000,Godrej Properties,12.0,3.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,46926229
+720,1,1,45000,Satyam Developers,21.0,11.0,Furnished,Chembur,Deepak  Mutreja,Satyam Springs,46926393
+650,1,1,45000,,6.0,5.0,Furnished,Lower Parel,Mallesh  Shetty,,46927849
+900,1,1,49000,,4.0,1.0,Furnished,Vile Parle West,Sagar Visawadia,,46931205
+900,1,1,45000,,4.0,2.0,Semi-Furnished,Juhu,Harshil,,46931557
+460,1,1,40000,,7.0,6.0,Semi-Furnished,Lower Parel,Shashikala sp bamhane,,46932685
+600,1,2,45000,,7.0,5.0,Unfurnished,Hindu Colony,Sunil  Pote,,46933911
+650,1,2,38000,,22.0,17.0,Unfurnished,Dadar TT Circle,Sunil  Pote,,46934077
+600,1,2,38000,Raheja Developers Ltd.,7.0,2.0,Semi-Furnished,Powai,Sachin,Raheja Vihar,46934417
+700,1,2,65000,,7.0,3.0,Furnished,Worli,Ghanshyam  Gupta,,46934661
+600,1,2,42000,,7.0,4.0,Semi-Furnished,Central Area,Sachin,Hiranandani Garden Eden III,46934937
+600,1,2,45000,Hiranandani Group,,,Furnished,Powai,Sachin,Hiranandani Gardens,46935081
+652,1,1,45000,,7.0,2.0,Unfurnished,Vile Parle East,Shripad,,46935387
+412,1,1,40000,,10.0,7.0,Semi-Furnished,Dadar East,Ameya manjrekar ameya manjrekar,,46937287
+500,1,1,40000,,24.0,6.0,Semi-Furnished,Worli,Rohit  Gupta,City View,46937387
+700,1,1,65000,,8.0,3.0,Semi-Furnished,Prabhadevi,Ankit  Gupta,,46937539
+700,1,1,60000,,10.0,3.0,Furnished,Worli Hill,Ankit  Gupta,,46937551
+680,1,1,50000,,6.0,5.0,Unfurnished,Worli,Mallesh  Shetty,,46937929
+670,1,1,60000,,5.0,3.0,Furnished,Worli Hill,Mallesh  Shetty,,46937939
+550,1,2,55000,,19.0,12.0,Unfurnished,Matunga West,Jeetendra gaikwad,,46938567
+450,1,1,50000,,2.0,1.0,Furnished,Juhu,Jigar,Ayyappa Juhu Radhika,46940143
+550,1,1,40000,,24.0,15.0,Semi-Furnished,Kamala City,Vilas,,46940267
+615,1,1,42000,Srishti Group,18.0,12.0,Furnished,Powai,Dharmendra Singh,Srishti Panch Srishti,46940887
+600,1,1,65000,,7.0,3.0,Furnished,Prabhadevi,Bipin Panchal,Project Prabhadevi,46942747
+700,1,1,48000,Matra Realty Ltd.,8.0,3.0,Semi-Furnished,Andheri West,Manoj  Singh,Oshiwara mhada,46943547
+615,1,1,40000,,15.0,6.0,Semi-Furnished,Lal Baug,Kamlesh  Joshi,,46944529
+775,1,1,38000,,4.0,3.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46948321
+600,1,2,50000,,3.0,2.0,Unfurnished,Mahim,Ali  Khan,New Ratna Apartment,46951735
+700,1,1,65000,Cooperative Group Housing Society,10.0,4.0,Unfurnished,Prabhadevi,Rohit  Gupta,Vaibhav CHS,46952521
+800,1,2,43000,,10.0,6.0,Furnished,Vile Parle East,Savil Gandhi,,46953309
+600,1,2,38000,,3.0,2.0,Unfurnished,Santacruz West,Naresh,,46955975
+480,1,1,50000,Godrej Properties,18.0,1.0,Semi-Furnished,Vikhroli,Kapil Vaswani,Godrej The Trees,46957055
+700,1,1,42000,,7.0,3.0,Furnished,Lower Parel,Ranvijay Pandey,,46961339
+720,1,1,42000,,7.0,3.0,Furnished,Worli,Ranvijay Pandey,,46961415
+699,1,1,42000,,7.0,3.0,Furnished,Mahalakshmi,Ranvijay Pandey,,46961453
+710,1,1,42600,,7.0,3.0,Furnished,Mahalakshmi,Ranvijay Pandey,,46961527
+685,1,1,40000,,4.0,1.0,Unfurnished,Mahim,Ranvijay Pandey,,46961777
+555,1,1,40000,,7.0,3.0,Furnished,Lokhandwala Complex,Sheetal Sahni,,46961909
+688,1,2,48000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46962381
+675,1,1,38000,,4.0,3.0,Semi-Furnished,Mahim,Ranvijay Pandey,,46963273
+730,1,1,47500,,,,Semi-Furnished,Wadala East,Tanay  Mukhi,,46963537
+700,1,2,40000,,6.0,4.0,Semi-Furnished,"Sundar Nagar, Kalina",Dilip Parikh Parikh,,46965385
+-2147483648,1,1,52000,,6.0,2.0,Unfurnished,Juhu Tara Road,Vicky,,46967361
+806,1,2,45000,,4.0,1.0,Furnished,Vile Parle West,Deepak Chheda,,46970935
+600,1,1,50000,,7.0,4.0,Unfurnished,Bandra West,Ali  Khan,,46972085
+500,1,1,50000,,5.0,3.0,Semi-Furnished,Pali Hill,Monomozo,,46972175
+565,1,1,42000,,7.0,4.0,Unfurnished,Powai,Ashish  Agarwal,,46972211
+650,1,2,39999,,7.0,4.0,Unfurnished,Juhu Versova Link,Gurmmeet,,46972905
+800,1,1,38000,,5.0,2.0,Unfurnished,Kothu Wadi,Ganesh Padhy,,46973041
+555,1,1,45000,,7.0,3.0,Furnished,Lokhandwala Complex,Sheetal,Breeze Apartment,46976167
+900,1,1,50000,,22.0,7.0,Unfurnished,Agripada,Dennis  Fernandes,Nathani Residencyq,46979291
+650,1,2,45000,,7.0,5.0,Furnished,Santacruz East,Vashdev  Nagpal,,46980099
+750,1,1,42000,,7.0,3.0,Furnished,Lokhandwala Complex,Vinod Kumar,,46981609
+550,1,2,45000,,7.0,6.0,Semi-Furnished,Parel,Bipin  Tawde,,46981739
+650,1,2,40000,Redstone Group,13.0,3.0,Unfurnished,Mazgaon,Afzal,Redstone Saifee Park,46982297
+750,1,2,45000,Sumer Group,22.0,4.0,Unfurnished,Mazgaon,Afzal,Sumer Group Burhani Park,46982405
+850,1,2,55000,DB Realty Limited,20.0,8.0,Semi-Furnished,Mumbai Central,Afzal,DB Orchid Tower,46982421
+730,1,1,42000,,,,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,46983519
+750,1,2,45000,Motiwala Builder,21.0,9.0,Semi-Furnished,Mumbai Central,Afzal,Klassic Towers,46983723
+650,1,2,55000,Sugee Group,22.0,14.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,46984419
+1150,1,2,42000,,7.0,5.0,Furnished,Shastri Nagar,Suresh  Yadav ,,46986863
+700,1,1,38000,,,,Semi-Furnished,Mahim,Ranvijay Pandey,,46986959
+699,1,1,40000,,,,Semi-Furnished,Mahim,Ranvijay Pandey,,46987503
+520,1,1,60000,,6.0,3.0,Semi-Furnished,Colaba,Anil Cordeiro,,46988025
+750,1,1,42000,,,,Furnished,Mahim,Ranvijay Pandey,,46989267
+599,1,1,39000,,4.0,2.0,Semi-Furnished,Matunga West,Ranvijay Pandey,,46989611
+700,1,1,55000,Hiranandani Group,18.0,9.0,Semi-Furnished,Powai,Amol  Kharat,Hiranandani Zen Maple,46990033
+608,1,1,45000,,5.0,5.0,Unfurnished,Vile Parle East,Shripad,,46990631
+830,1,1,46000,Godrej Properties,18.0,5.0,Semi-Furnished,Vikhroli,Balbhim bhansode Bansode,Godrej The Trees,46991069
+700,1,1,60000,,8.0,2.0,Furnished,Carter Road,Yousuf Emraan,,46991433
+850,1,2,50000,DB Realty Limited,27.0,12.0,Semi-Furnished,Mumbai Central,Afzal,DB Orchid Tower,46993805
+700,1,2,40000,,13.0,3.0,Unfurnished,Chembur,Hiten Haryani,Sindhi Society,46994119
+450,1,2,45000,,15.0,8.0,Unfurnished,Matunga East,Rahul Vaid,,46994815
+400,1,1,52000,,5.0,2.0,Furnished,Shivaji Park,satish,,46995147
+700,1,1,55000,,8.0,3.0,Furnished,Bandra West,Yousuf Emraan,,46996047
+950,1,1,38000,Godrej Properties,7.0,-1.0,Unfurnished,Vikhroli,Uttam,Godrej The Trees,46996107
+680,1,2,45000,Sumer Group,28.0,4.0,Unfurnished,Mazgaon,Afzal,Sumer Group Burhani Park,46996485
+590,1,1,65000,,6.0,4.0,Semi-Furnished,Colaba,Anil Cordeiro,,46996625
+525,1,1,38000,,23.0,16.0,Unfurnished,Lower Parel,Dilip  Gupta,,46997631
+658,1,2,52000,,21.0,12.0,Furnished,Dadar East,Sachin Jadhav,,46998853
+650,1,1,38000,,10.0,5.0,Semi-Furnished,Byculla,Afzal,,47000195
+680,1,2,50000,Sarkar Group,18.0,-1.0,Semi-Furnished,Mazgaon,Afzal,Sarkar Residency,47001795
+565,1,1,40000,,7.0,6.0,Unfurnished,Worli,Sachin  Adakhale,,47002109
+700,1,2,55000,,6.0,3.0,Furnished,Siddharth Nagar Central Mumbai,Mallesh  Shetty,,47004785
+550,1,2,45000,,22.0,7.0,Furnished,Worli,Mallesh  Shetty,City View,47005173
+650,1,2,40000,,2.0,0.0,Unfurnished,Bandra West,Shiv Kumar,,47006267
+580,1,2,40000,Cooperative Group Housing Society,7.0,1.0,Semi-Furnished,Andheri West,Pradeep  Yadav,Andheri Panchvati CHS,47006737
+-2147483648,1,2,45000,,6.0,3.0,Furnished,Andheri West,Kuldeep,,47009391
+650,1,1,45000,,,,Furnished,Santacruz East,Vashdev Nagpal,,47009931
+500,1,1,42000,,10.0,5.0,Furnished,Worli,ranjeet gamre,,47011327
+600,1,1,50000,,5.0,0.0,Furnished,Mahim West,Prashant  Rangari,,47015061
+730,1,1,48100,Lodha Group,40.0,15.0,Unfurnished,Wadala East,Tanay  Mukhi,New Cuffe Parade,47016051
+550,1,1,65000,,7.0,0.0,Furnished,Carter Rd,Sandeep Sadh,,47017801
+800,1,1,48500,Lodha Group,38.0,25.0,Unfurnished,Wadala East,Amrik Singh Grover,Lodha Altia,47017875
+600,1,2,47000,Godrej Properties,18.0,9.0,Unfurnished,Vikhroli,Keshav,Godrej The Trees,47022229
+750,1,2,40000,Godrej Properties,,,Unfurnished,Chembur,Paras  Bhojwani,Godrej Prime,47023207
+580,1,1,60000,,7.0,5.0,Semi-Furnished,Colaba,Anil Cordeiro,,47025683
+783,1,1,47000,Godrej Properties,18.0,7.0,Unfurnished,Vikhroli,Gaurav  Panjabi,Godrej The Trees,47025701
+800,1,1,45000,Godrej Properties,,,Semi-Furnished,Vikhroli,Sachin  Aswani,Godrej The Trees,47025977
+500,1,1,55000,,6.0,1.0,Semi-Furnished,Colaba,Anil Cordeiro,Usha Sadan Apartment,47026175
+650,1,2,55000,,9.0,4.0,Furnished,Prabhadevi,Arvind ,,47028643
+650,1,1,50000,,6.0,2.0,Furnished,Mahim West,Rohit  Gupta,,47029167
+700,1,2,40000,Kamanwala Industries,12.0,2.0,Furnished,Andheri East,Zara  Nadvi,Manavsthal,47029455
+450,1,1,48000,,6.0,3.0,Unfurnished,Pali Naka,Monomozo,,47030089
+300,1,1,40000,,8.0,4.0,Unfurnished,Bandra West,Monomozo,,47030675
+792,1,1,45000,,,,Semi-Furnished,Vikhroli East,Bhavesh Khetia,,47031125
+792,1,1,45000,Godrej Properties,,,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,47031367
+-2147483648,1,1,40000,,,0.0,Furnished,Worli Naka Acharaya Atre Chowk,Samir,,47031447
+764,1,1,50000,,,,Semi-Furnished,Vikhroli East,Bhavesh Khetia,,47031475
+700,1,2,55000,,17.0,12.0,Furnished,Lower Parel,Mallesh  Shetty,,47032929
+640,1,1,65000,,6.0,1.0,Semi-Furnished,Hughes Road,Ranoo  Sheth,,47034765
+600,1,2,50000,,6.0,2.0,Furnished,Hasmukh Nagar,Ganesh Padhy,,47037355
+700,1,2,38000,Hiranandani Group,14.0,4.0,Furnished,Powai,Shinoy,Hiranandani Gardens,47039323
+450,1,1,38000,,3.0,3.0,Unfurnished,Vile Parle East,Jimisha  Seth,,47039545
+380,1,1,50000,,9.0,1.0,Semi-Furnished,Malabar Hill,Ashok Turakhia,,47040125
+700,1,1,55000,,8.0,3.0,Furnished,Mehboob Studio,Yousuf Emraan,,47040275
+700,1,1,44200,Omkar Realtors and Developers Pvt. Ltd.,15.0,5.0,Semi-Furnished,Bandra Kurla Complex,Atif Siddique,Omkar Meridia,47040671
+600,1,2,45000,,15.0,6.0,Unfurnished,Oshiwara,Sajid Sheikh,Samartha Ashish Apartment,47041419
+700,1,1,60000,,8.0,4.0,Furnished,Carter Road,Yousuf Emraan,,47041449
+700,1,1,55000,,7.0,3.0,Furnished,Bandra West,Yousuf Emraan,,47041649
+450,1,1,40000,,4.0,2.0,Unfurnished,Santacruz West,Jimisha  Seth,,47042049
+700,1,1,50000,,7.0,3.0,Semi-Furnished,Nana Chowk,Pralhad Angre,,47042465
+556,1,1,50000,Godrej Properties,21.0,16.0,Semi-Furnished,Vikhroli,Deepak  Jagasia,Godrej The Trees,47042917
+450,1,1,45000,,7.0,2.0,Furnished,Santacruz West,Jimisha  Seth,,47043095
+880,1,2,38000,Godrej Properties,14.0,8.0,Semi-Furnished,Chembur,Deepak  Mutreja,Godrej Prime,47045817
+711,1,2,41000,Raheja Universal Pvt Ltd.,22.0,1.0,Semi-Furnished,CAMA Industrial Estate,Rajesh  Pathak,Raheja Ridgewood,47048461
+600,1,1,55000,,10.0,3.0,Unfurnished,Prabhadevi,Mallesh  Shetty,,47050309
+620,1,1,56000,,5.0,2.0,Unfurnished,Prabhadevi,Mallesh  Shetty,,47050441
+640,1,2,55000,,8.0,5.0,Unfurnished,Shivaji Park,Mallesh  Shetty,,47050521
+650,1,1,60000,,8.0,3.0,Semi-Furnished,Prabhadevi,Mallesh  Shetty,,47050609
+500,1,1,45000,,4.0,2.0,Unfurnished,Prabhadevi,Mallesh  Shetty,,47050701
+650,1,2,60000,,15.0,13.0,Unfurnished,Prabhadevi,Mallesh  Shetty,,47050777
+650,1,2,55000,,10.0,5.0,Furnished,Lower Parel,Mallesh  Shetty,,47050839
+620,1,2,55000,,7.0,5.0,Furnished,Worli,Mallesh  Shetty,,47050901
+600,1,2,52000,,22.0,12.0,Unfurnished,Prabhadevi,Mallesh  Shetty,,47051035
+630,1,2,55000,,6.0,3.0,Unfurnished,Worli Hill,Mallesh  Shetty,,47051449
+500,1,2,40000,,20.0,15.0,Unfurnished,Worli,Mallesh  Shetty,,47051547
+670,1,2,55000,,6.0,3.0,Unfurnished,Worli,Mallesh  Shetty,,47051589
+675,1,2,40000,,5.0,1.0,Semi-Furnished,Vile Parle East,Shripad,,47054173
+700,1,1,55000,,8.0,3.0,Unfurnished,Bandra West,Yousuf Emraan,,47054725
+700,1,1,60000,,8.0,4.0,Furnished,Khar West,Yousuf Emraan,,47054861
+600,1,2,60000,,12.0,10.0,Unfurnished,Worli,Mallesh  Shetty,,47056725
+650,1,1,60000,,4.0,1.0,Furnished,Versova,Dheeraj Singh,,47058285
+650,1,2,45000,,6.0,4.0,Furnished,Vile Parle East,JALENDU,,47059947
+650,1,2,41777,Omkar Realtors and Developers Pvt. Ltd.,14.0,8.0,Semi-Furnished,Bandra Kurla Complex,Atif Siddique,Omkar Meridia,47061691
+731,1,1,47600,Lodha Group,40.0,18.0,Unfurnished,Wadala East,Tanay  Mukhi,New Cuffe Parade,47061793
+650,1,2,40500,Cooperative Group Housing Society,15.0,7.0,Semi-Furnished,"Sundar Nagar, Kalina",Atif Siddique,Jewel Tower CHS,47061995
+699,1,1,38500,,4.0,1.0,Semi-Furnished,Mahim,Ranvijay Pandey,,47063597
+600,1,1,45000,,22.0,15.0,Unfurnished,Prabhadevi,Dilip  Gupta,,47063887
+799,1,1,41000,,4.0,1.0,Semi-Furnished,Mahim West,Ranvijay Pandey,Garden Colony,47064573
+560,1,1,40000,Cooperative Group Housing Society,10.0,8.0,Furnished,Mahim,Azuro,The Vivekanand CHS,47065329
+650,1,1,60000,,8.0,4.0,Furnished,Dadar West,Rohit  Gupta,,47066119
+650,1,2,38000,,8.0,4.0,Semi-Furnished,Lokhandwala Complex,Jagjit,Benzer Apartment,47066777
+500,1,1,39000,,5.0,3.0,Semi-Furnished,Bandra West,M A Ayaz,,47067077
+560,1,1,40000,Cooperative Group Housing Society,10.0,7.0,Furnished,Mahim,Azuro,The Vivekanand CHS,47069201
+750,1,2,39000,Kanakia Spaces Realty Pvt. Ltd.,19.0,9.0,Unfurnished,Andheri East,Ameet Motwani,Kanakia Sevens,47070977
+750,1,1,40000,,3.0,2.0,Semi-Furnished,Dadar,Dilip  Gupta,,47072123
+600,1,1,50000,,5.0,2.0,Furnished,Bandra West,Yousuf Emraan,,47072909
+650,1,1,39000,,4.0,2.0,Semi-Furnished,Matunga West,Ranvijay Pandey,,47073209
+700,1,1,55000,,5.0,3.0,Furnished,Bandra West,Yousuf Emraan,,47073379
+700,1,1,52000,,5.0,3.0,Furnished,Khar West,Yousuf Emraan,,47073799
+700,1,1,55000,,6.0,3.0,Furnished,Linking Road,Yousuf Emraan,,47074095
+600,1,1,48000,,7.0,3.0,Semi-Furnished,Bandra West,Ali  Khan,,47075165
+550,1,1,38000,,7.0,6.0,Semi-Furnished,Wadala East,Kartik  Mudaliar,,47075615
+700,1,2,40000,,3.0,2.0,Semi-Furnished,Dadar West,Ankit  Gupta,,47075907
+550,1,2,40000,,3.0,2.0,Semi-Furnished,Dadar West,Rohit  Gupta,,47076243
+650,1,2,50000,,8.0,5.0,Semi-Furnished,Vile Parle East,Deepak Chheda,,47077367
+625,1,1,55000,Hiranandani Group,17.0,9.0,Semi-Furnished,Powai,Satish,Hiranandani Zen Maple,47078811
+600,1,2,38000,,7.0,3.0,Semi-Furnished,Andheri West,Prathmesh,,47080959
+550,1,1,38000,,11.0,6.0,Furnished,,Menon,,47083401
+625,1,1,40000,,18.0,5.0,Furnished,Andheri West,Prathmesh,,47083417
+400,1,1,40000,,8.0,5.0,Semi-Furnished,Bandra West,Ali  Khan,Grace Apartments,47087273
+653,1,1,47000,,5.0,3.0,Semi-Furnished,Vile Parle East,Shripad,,47088105
+880,1,2,43000,Godrej Properties,15.0,7.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,47088833
+900,1,1,40000,,4.0,1.0,Furnished,"Sundar Nagar, Kalina",Usha  Bhaskar,Project Kalina,47089101
+750,1,2,40000,,7.0,3.0,Unfurnished,Chembur,Lalit  Wadhwa,Sindhi Society,47091223
+650,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,16.0,9.0,Semi-Furnished,Andheri East,Ameet Motwani,Kanakia Rain Forest,47092129
+530,1,1,40000,,16.0,9.0,Semi-Furnished,Lower Parel,Gurudatta  Tawde,,47092651
+550,1,1,60000,,6.0,3.0,Furnished,Colaba,Anil Cordeiro,,47096211
+700,1,2,47000,,3.0,2.0,Semi-Furnished,Matunga West,Raj Payal,,47096639
+650,1,1,65000,,6.0,3.0,Furnished,Prabhadevi,Ashok kumar,,47096849
+700,1,2,58000,,7.0,3.0,Furnished,Prabhadevi,Raj Payal,,47096921
+650,1,1,65000,,6.0,2.0,Furnished,Colaba,Anil Cordeiro,,47096931
+600,1,2,53000,,6.0,5.0,Furnished,Prabhadevi,Ashok kumar,,47097415
+650,1,1,42000,,17.0,4.0,Semi-Furnished,Abhyudaya Nagar,Anand Kumar,Bhavya Supreme,47099127
+575,1,1,40000,,7.0,3.0,Unfurnished,Lower Parel,Ghanshyam  Gupta,Mahavir Darshan,47100953
+550,1,1,45000,,8.0,2.0,Unfurnished,Worli Naka Acharaya Atre Chowk,Rohit  Gupta,,47103439
+720,1,1,50000,Lodha Group,43.0,16.0,Semi-Furnished,Wadala,Ashim  Dewan,New Cuffe Parade,47109421
+300,1,1,45000,Girnar Builders & Developers,16.0,2.0,Furnished,Tardeo,Purvi,Girnar Building,47109863
+550,1,1,52000,,5.0,2.0,Furnished,Shivaji Park,Shweta  Agarwal,,47110209
+700,1,2,40000,,,,Furnished,Wadala East,Bansal,,47111117
+775,1,2,43000,,4.0,2.0,Furnished,Mahim,Ranvijay Pandey,Ashwini Apartment,47111543
+750,1,2,38500,,8.0,4.0,Unfurnished,Kanti Nagar,harish s shetty Vyas,,47112285
+500,1,1,55000,,6.0,1.0,Semi-Furnished,Colaba,Anil Cordeiro,,47113971
+650,1,1,42000,,,,Furnished,Bhoiwada,Dream Properties,,47114103
+700,1,1,55000,,5.0,2.0,Furnished,Mahim,Ankit  Gupta,,47114741
+650,1,1,65000,,9.0,4.0,Furnished,Dadar West,Ankit  Gupta,Gyan Sagar,47114829
+573,1,1,41000,Godrej Properties,14.0,5.0,Unfurnished,Vikhroli,Dinesh ,Godrej The Trees,47115067
+700,1,1,55000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,47115315
+700,1,1,50000,,8.0,3.0,Semi-Furnished,Bandra West,Yousuf Emraan,,47115525
+700,1,1,60000,,8.0,5.0,Furnished,Linking Road,Yousuf Emraan,,47115695
+500,1,1,38000,,22.0,16.0,Semi-Furnished,Worli,Dinesh Gupta,City View,47115767
+300,1,1,45000,,15.0,2.0,Furnished,Tardeo,Paresh Shah,,47115903
+650,1,2,45000,,5.0,3.0,Unfurnished,Bandra West,Ganesh Padhy,,47115963
+525,1,1,38000,Sanghvi Realty ,22.0,18.0,Unfurnished,Worli,Dinesh Gupta,Sanghvi Evana,47116035
+700,1,1,40000,,8.0,2.0,Furnished,Bandra West,Yousuf Emraan,,47116159
+700,1,1,55000,,8.0,4.0,Furnished,Bandra West,Yousuf Emraan,,47116815
+750,1,1,55000,,7.0,4.0,Semi-Furnished,Prabhadevi,Rambabu  Shah,,47117077
+900,1,2,38000,GHP Corporation,7.0,2.0,Semi-Furnished,Central Area,Mudassar,Suncity Complex,47118671
+500,1,1,45000,,3.0,2.0,Semi-Furnished,Khar West,Dewan,,47121125
+666,1,2,50000,,8.0,5.0,Semi-Furnished,Vile Parle East,Pramod  Sutar,,47121433
+600,1,1,43000,,18.0,1.0,Furnished,Veera Desai Industrial Estate,abdul wafa,,47124889
+640,1,1,65000,,10.0,3.0,Semi-Furnished,Bandra West,Mallesh  Shetty,Reclamation,47126133
+595,1,1,43000,,7.0,4.0,Furnished,Lokhandwala Complex,Anand,Kenwood Apartment,47126445
+655,1,2,55000,,20.0,15.0,Unfurnished,Matunga West,Arvind ,,47126519
+715,1,2,48000,Divine Space Pvt Ltd and  Amal Group,16.0,8.0,Furnished,CAMA Industrial Estate,Rajesh  Pathak,Aspen Garden & Park,47127745
+480,1,1,40000,,6.0,6.0,Furnished,Vile Parle West,Anamika Godha,Amit Darshan,47128303
+650,1,1,40000,,7.0,3.0,Furnished,Mahalakshmi,Anand Gupta,,47129091
+425,1,1,40000,,6.0,1.0,Unfurnished,4 Bunglows,ikhlaq muddla,,47129413
+600,1,1,55000,Rizvi Builders,2.0,1.0,Furnished,Bandra West,Clinton  Lobo,Rizvi Complex,47134191
+750,1,2,43000,,6.0,2.0,Semi-Furnished,Lal Baug,Santosh P,Poonam Park,47135591
+500,1,1,42000,Nathani Group,72.0,14.0,Unfurnished,Mumbai Central,Jitendra  Patil,Nathani Heights,47136171
+732,1,1,40000,,7.0,7.0,Unfurnished,Millat Nagar,Farhan,,47136525
+684,1,1,47000,Godrej Properties,18.0,4.0,Unfurnished,Vikhroli,Dinesh ,Godrej The Trees,47136587
+732,1,1,40000,,7.0,7.0,Unfurnished,Millat Nagar,Mohammed Sheikh,,47136889
+500,1,1,45000,,5.0,2.0,Unfurnished,Lower Parel,Prashant  Rangari,,47138837
+455,1,1,40000,,7.0,6.0,Furnished,Bandra West,lakshmi,,47142901
+700,1,2,41000,Sheth Creators,24.0,14.0,Unfurnished,Marol,Rajesh  Gupta,Vasant Oasis,47143035
+700,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,15.0,3.0,Unfurnished,Andheri East,Rajesh  Gupta,Kanakia Rainforest,47143817
+720,1,2,45000,,4.0,3.0,Unfurnished,Bandra West,Ganesh Padhy,,47145117
+700,1,1,45000,,5.0,3.0,Semi-Furnished,Santacruz East,Prince singh,,47145617
+700,1,2,50000,,7.0,2.0,Semi-Furnished,Dadar West,Anand Kumar,,47146799
+700,1,2,45000,,4.0,2.0,Semi-Furnished,Mahim West,Louis David,,47147799
+500,1,1,43000,,5.0,3.0,Unfurnished,Vile Parle East,Jimisha  Seth,,47150115
+560,1,1,42000,,7.0,5.0,Furnished,Kalina,Vernon Sierer,,47150287
+750,1,1,40000,Crescent Group,11.0,4.0,Unfurnished,Marol Naka Junction,Rajesh  Gupta,Crescent Landmark,47151857
+630,1,1,39000,,6.0,3.0,Semi-Furnished,Kalina,Vernon Sierer,,47152171
+700,1,1,38000,The Gundecha Group,12.0,3.0,Unfurnished,Sakinaka Junction,Rajesh  Gupta,Gundecha Asta,47152259
+-2147483648,1,2,60000,,7.0,3.0,Unfurnished,Prabhadevi,vijaylaxmi purohit,,47152767
+500,1,1,40000,,20.0,15.0,Unfurnished,Lower Parel,Rishabh  Gaud,,47153043
+675,1,1,40000,,3.0,2.0,Unfurnished,Vile Parle East,Shripad,,47154723
+700,1,2,43000,Atul Projects,14.0,10.0,Furnished,Marol,Ziya N\A,Atul Blue Fortuna,47155475
+650,1,1,48500,Godrej Properties,15.0,6.0,Semi-Furnished,Vikhroli East,Amrik Singh Grover,The Trees,47156019
+600,1,2,38000,Sheth Creators,22.0,9.0,Unfurnished,Andheri East,Vicky  Kourani,Vasant Oasis,47159277
+650,1,2,45000,Cooperative Group Housing Society,7.0,5.0,Furnished,Andheri West,Pratibha,Sholay CHS,47160645
+600,1,2,45000,Omkar Realtors and Developers Pvt. Ltd.,10.0,4.0,Semi-Furnished,Bandra Kurla Complex,sukhvinder lohia,Omkar Meridia,47166843
+500,1,2,40000,Hiranandani Group,14.0,3.0,Furnished,Powai,Niraj Dubey,Hiranandani Gardens Kingston,47167181
+850,1,2,45000,Godrej Properties,12.0,6.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,47167361
+560,1,1,40000,Cooperative Group Housing Society,10.0,7.0,Furnished,Mahim,Azuro,The Vivekanand CHS,47167619
+650,1,2,45000,,6.0,0.0,Unfurnished,Juhu Versova Link,Devson Housing Agency,,47168025
+800,1,1,42000,,21.0,1.0,Unfurnished,Datta Guru Society,Sandesh,,47169045
+700,1,2,47000,,8.0,6.0,Furnished,Yari Road,Gurmmeet,,47169555
+650,1,2,38000,,7.0,7.0,Semi-Furnished,Kalina,Dilip Parikh Parikh,,47169829
+650,1,1,43000,,5.0,1.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,47170107
+900,1,1,45000,,4.0,2.0,Semi-Furnished,Juhu,Rahul  Shirsat,,47170119
+600,1,1,40000,,10.0,9.0,Unfurnished,Kalina,Dilip Parikh Parikh,,47170173
+500,1,2,40000,,8.0,1.0,Furnished,Lokhandwala Complex,Manoj  Singh,Lennie Apartment,47170225
+650,1,2,45000,,7.0,2.0,Semi-Furnished,Hindu Colony,Sunil  Pote,,47172677
+555,1,2,40000,,7.0,4.0,Semi-Furnished,Wadala East,Raj Payal,,47173389
+1000,1,1,60000,,7.0,2.0,Furnished,Khar West,Sammy,,47173507
+600,1,1,45000,,7.0,3.0,Semi-Furnished,Mahalaxmi Race Course,Mahesh  Gupta,,47173637
+650,1,2,40000,,22.0,14.0,Unfurnished,Dadar TT Circle,Sunil  Pote,,47173731
+600,1,1,40000,,7.0,4.0,Unfurnished,Mahalaxmi Race Course,Mahesh  Gupta,,47173847
+1025,1,1,62000,,7.0,1.0,Furnished,Khar West,Sammy,,47174435
+650,1,2,43000,,13.0,4.0,Furnished,Seven Bungalows,Kailash,,47176013
+665,1,2,46000,,6.0,5.0,Furnished,"Sundar Nagar, Kalina",Desouza,,47177151
+500,1,1,45000,,4.0,1.0,Semi-Furnished,Colaba,Anil Cordeiro,,47178361
+650,1,2,55000,,6.0,2.0,Furnished,Juhu,Nidhi,Ashish Apartment Juhu,47178569
+470,1,2,45000,Sheth Creators,22.0,10.0,Furnished,Marol,Shanti,Vasant Oasis,47178793
+600,1,1,40200,,4.0,4.0,Unfurnished,Matunga West,Nita Nadkarni,,47179781
+675,1,1,40000,,7.0,3.0,Furnished,Lokhandwala Complex,kamlesh ved,,47181261
+500,1,1,45000,,4.0,0.0,Furnished,Juhu Tara Road,Durgesh jadhav,,47182853
+700,1,2,40000,,10.0,4.0,Furnished,Vile Parle West,Savil Gandhi,,47183457
+700,1,1,60000,,8.0,5.0,Furnished,Union Park,Yousuf Emraan,,47183743
+700,1,1,50000,,8.0,4.0,Furnished,Khar West,Yousuf Emraan,,47183991
+600,1,1,60000,,4.0,2.0,Semi-Furnished,Bandra West,Durgesh jadhav,,47184003
+700,1,1,55000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,47184277
+700,1,1,65000,,8.0,2.0,Furnished,Carter Road,Yousuf Emraan,,47184733
+792,1,1,50000,Godrej Properties,7.0,4.0,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,47185211
+550,1,1,50000,Kapcon Builders,4.0,2.0,Furnished,Worli,Rishabh  Gaud,Pankaj Mansion,47185887
+650,1,1,50000,Kapcon Builders,7.0,2.0,Furnished,Worli,Vinod  Gupta,Pankaj Mansion,47186475
+700,1,2,40600,Omkar Realtors and Developers Pvt. Ltd.,15.0,9.0,Semi-Furnished,Bandra Kurla Complex,Atif Siddique,Omkar Meridia,47187137
+600,1,1,50000,Kapcon Builders,3.0,2.0,Furnished,Worli,Ankit  Gupta,Pankaj Mansion,47188989
+700,1,2,52000,,10.0,7.0,Unfurnished,Bandra West,Allauddin  Shaikh,Reclamation,47189215
+750,1,2,55000,,7.0,1.0,Unfurnished,Bandra West,Allauddin  Shaikh,,47189257
+240,1,1,50000,,4.0,2.0,Semi-Furnished,Andheri East,Raj Huda,,47189389
+600,1,2,55000,,22.0,5.0,Semi-Furnished,Dadar West,Hemnath Waghela,,47189751
+850,1,2,44000,Godrej Properties,12.0,6.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,47192729
+700,1,1,45000,,14.0,8.0,Unfurnished,Lokhandwala Complex,Devson Housing Agency,,47194311
+550,1,1,38000,,4.0,3.0,Furnished,Andheri West,Rahul  Sirsath,,47197241
+650,1,1,42000,,14.0,5.0,Unfurnished,Powai,Ashish  Agarwal,,47200793
+700,1,1,45000,,8.0,3.0,Furnished,Bandra West,Yousuf Emraan,,47202015
+700,1,1,60000,,6.0,4.0,Furnished,Bandra Reclamation,Yousuf Emraan,,47202301
+650,1,1,43000,Godrej Properties,15.0,11.0,Semi-Furnished,Vikhroli,Krishna Sawant,Godrej The Trees,47202341
+700,1,1,55000,,7.0,3.0,Furnished,Bandra West,Yousuf Emraan,,47202553
+700,1,1,40000,,7.0,3.0,Furnished,Bandra West,Yousuf Emraan,,47202743
+700,1,1,65000,,8.0,5.0,Furnished,Linking Road,Yousuf Emraan,,47202997
+650,1,1,55000,,6.0,1.0,Furnished,Mahim West,Ravindra Cheulkar,,47203685
+650,1,1,45000,Godrej Properties,18.0,12.0,Semi-Furnished,Vikhroli,Krishna Sawant,Godrej The Trees,47204133
+800,1,2,50000,,20.0,14.0,Furnished,Gandhi Market,Prakash ,Sion East,47204379
+750,1,1,45000,,8.0,4.0,Furnished,Lokhandwala Complex,Jagjit,Breeze Apartment,47204745
+700,1,1,42500,Godrej Properties,18.0,6.0,Semi-Furnished,Vikhroli,Krishna Sawant,Godrej The Trees,47204955
+500,1,1,47000,Kapcon Builders,4.0,2.0,Furnished,Worli Naka Acharaya Atre Chowk,Pradeep Jain,Pankaj Mansion,47205385
+750,1,1,40000,,22.0,19.0,Semi-Furnished,Powai,Satish Mishra,,47205987
+650,1,2,45000,Atul Projects,12.0,10.0,Furnished,Andheri East,Nanson Mascarenhas Mascarenhas,Atul Blue Fortuna,47207269
+550,1,2,55000,Hiranandani Group,18.0,8.0,Semi-Furnished,Central Area,PAWAN SONI,Hiranandani Zen Maple,47208727
+550,1,2,55000,Sugee Group,22.0,10.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,47209001
+700,1,2,40000,Nahar Group,7.0,5.0,Furnished,MHADA Colony,PAWAN SONI,Magnolia Enclave,47209035
+650,1,2,45000,,6.0,1.0,Semi-Furnished,Vile Parle East,Shishil Chheda,,47211067
+640,1,2,38000,,7.0,3.0,Unfurnished,Jeevan Nagar,Sandeep  Hanchate,,47211795
+400,1,1,50000,Rizvi Builders,7.0,4.0,Semi-Furnished,Bandra West,Clinton  Lobo,Rizvi Complex,47211881
+750,1,1,47000,Lodha Group,40.0,12.0,Semi-Furnished,Wadala East,Krishna Sawant,Lodha Altia,47211919
+540,1,2,45000,,13.0,2.0,Semi-Furnished,Shri Swami Samarth Nagar,Kailash,,47213949
+550,1,1,45000,,7.0,4.0,Unfurnished,Manish Nagar,Vishal Sejpal,,47214125
+600,1,2,55000,,4.0,2.0,Furnished,Shivaji Park,Anil,,47215265
+-2147483648,1,2,62000,,8.0,4.0,Semi-Furnished,Juhu,Salmani ,,47215385
+575,1,2,40000,,7.0,7.0,Semi-Furnished,Jacob Circle,Dennis  Fernandes,,47215607
+690,1,2,40000,Sheth Creators,22.0,18.0,Semi-Furnished,Andheri East,Zara  Nadvi,Vasant Oasis,47215711
+500,1,1,52000,,5.0,4.0,Unfurnished,Santacruz West,Sunil Savla,,47216707
+550,1,2,55000,Sugee Group,22.0,10.0,Unfurnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,47217043
+620,1,2,45000,,7.0,5.0,Semi-Furnished,Vile Parle East,Rugved,,47218145
+668,1,2,40000,Sheth Creators,24.0,8.0,Unfurnished,Marol,Ziya N\A,Vasant Oasis,47218491
+530,1,1,40000,,5.0,1.0,Furnished,Andheri West,Pratibha,,47218531
+435,1,1,50000,,7.0,1.0,Furnished,Khetwadi,shraddha gala,,47218903
+650,1,1,43000,,7.0,1.0,Unfurnished,Seven Bungalows,Pravin  Nalavde,,47220963
+500,1,1,38000,,7.0,5.0,Unfurnished,Wadala East,Raj Kumar  Saw,,47222627
+700,1,1,47000,,5.0,3.0,Semi-Furnished,Abhyudaya Nagar,Anand Kumar,,47224093
+575,1,1,49500,,6.0,5.0,Furnished,Juhu Tara Road,Abdul Karim,,47228049
+520,1,2,45000,,6.0,2.0,Furnished,Khar West,Ganesh Padhy,,47228107
+665,1,2,38000,Sheth Creators,22.0,10.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,47230745
+665,1,2,38000,Sheth Creators,22.0,2.0,Unfurnished,Andheri East,Mudassar,Vasant Oasis,47230857
+763,1,1,47000,Lodha Group,43.0,14.0,Semi-Furnished,Wadala East,Kailash Dubey Amlani,New Cuffe Parade,47230867
+800,1,1,38000,,4.0,2.0,Semi-Furnished,Matunga West,Ranvijay Pandey,,47231659
+800,1,1,43000,,4.0,3.0,Furnished,Mahim,Ranvijay Pandey,,47232959
+700,1,1,55000,,8.0,4.0,Furnished,Khar West,Yousuf Emraan,,47234335
+800,1,1,50000,Godrej Properties,14.0,7.0,Semi-Furnished,Vikhroli,Kailash Dubey Amlani,Godrej The Trees,47234551
+720,1,1,63000,Poonam Group,7.0,3.0,Furnished,Worli,Santosh  Pandey,Poonam Apartments,47234831
+700,1,1,60000,,8.0,6.0,Semi-Furnished,Carter Road,Yousuf Emraan,,47234873
+700,1,1,65000,,8.0,5.0,Furnished,Bandra West,Yousuf Emraan,,47235055
+792,1,1,45000,Godrej Properties,7.0,7.0,Semi-Furnished,Vikhroli,Bhavesh Khetia,Godrej The Trees,47235201
+600,1,1,50000,Ajmera Realtyand Infra India,40.0,25.0,Semi-Furnished,Bhakti Park,Gurudeep Singh  Kaura,Ajmera Aeon,47237191
+560,1,1,38000,DOSTI REALTY,7.0,6.0,Furnished,Wadala,Prakash Pherwani Pherwani,Dosti Acres,47238763
+850,1,2,43000,Godrej Properties,12.0,6.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,47239365
+600,1,1,45000,Dynamic Developers,22.0,12.0,Semi-Furnished,Dadar East,Firdaus Khan,Crystal Height,47239931
+650,1,2,40000,Cooperative Group Housing Society,10.0,6.0,Unfurnished,Kalina,Gitesh  Kadam,Jewel Tower CHS,47239967
+625,1,2,45000,,16.0,4.0,Semi-Furnished,Parel,Arvind ,,47240149
+580,1,1,60000,,7.0,6.0,Semi-Furnished,Bandra West,Taukeer,Samrat Apartment,47240155
+600,1,2,55000,Sugee Group,20.0,5.0,Semi-Furnished,Dadar West,Jeetendra gaikwad,Sugee Hiranya,47241655
+555,1,2,40000,Sanghvi Realty ,24.0,21.0,Unfurnished,Worli,Tanaji  Patil,Sanghvi Evana,47242073
+625,1,1,56000,Hiranandani Group,17.0,6.0,Furnished,Powai,Mahesh Nikam,Hiranandani Zen Maple,47244607
+600,1,1,40000,,3.0,3.0,Unfurnished,Mahim West,Akansha Singh,,47244647
+550,1,1,40000,,,,Semi-Furnished,Wadala East,R D Real Estate,,47245891
+625,1,2,46000,Ekta World,14.0,14.0,Furnished,Powai,Mahesh Nikam,Lake Florence,47246641
+615,1,1,40000,Srishti Group,18.0,17.0,Semi-Furnished,Powai,Dharmendra Singh,Panch Srishti,47249089
+550,1,1,40000,DOSTI REALTY,,,Semi-Furnished,Wadala,R D Real Estate,Dosti Acres,47249645
+550,1,1,45000,Raj Developers,14.0,11.0,Unfurnished,Lower Parel,Dinesh Gupta,God Gifts Building,47250469
+850,1,1,52000,,6.0,1.0,Furnished,Vile Parle West,Jay  Thakkar,,47251047
+730,1,1,50000,Lodha Group,41.0,10.0,Unfurnished,Wadala East,Jeetu Chhaabria,Lodha Altia,47251439
+520,1,2,45000,,2.0,2.0,Furnished,Khar West,Rahul Sonik,,47252105
+500,1,1,40000,,22.0,13.0,Furnished,Worli,Dinesh Gupta,City View,47252575
+650,1,2,40000,,11.0,5.0,Unfurnished,Kalina,Dilip Parikh Parikh,,47252767
+850,1,1,41500,,7.0,3.0,Semi-Furnished,Mahalakshmi,Ranvijay Pandey,,47254205
+600,1,2,42000,,10.0,1.0,Unfurnished,Vile Parle West,Savil Gandhi,,47254501
+405,1,1,40000,,3.0,1.0,Unfurnished,Bharat Nagar,NITIN,,47254513
+750,1,1,38000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,47254737
+600,1,1,38000,V.R. Mittal Pvt. Ltd.,10.0,3.0,Furnished,Santacruz East,Naresh Padam Singh,Krishna Galaxy,47255407
+600,1,2,40000,,10.0,1.0,Unfurnished,Andheri West,Savil Gandhi,,47255819
+400,1,1,50000,,12.0,3.0,Furnished,Juhu Versova Link,Manoj  Singh,Maurya Apartment,47258761
+750,1,1,48000,Lodha Group,40.0,5.0,Semi-Furnished,Wadala,Narayan  Singh,New Cuffe Parade,47261743
+750,1,1,50000,,7.0,5.0,Unfurnished,Juhu,Sandeep  Hanchate,,47262731
+750,1,1,50000,,4.0,2.0,Unfurnished,Juhu,Sandeep  Hanchate,,47262845
+700,1,2,60000,,7.0,2.0,Furnished,Versova,Manoj  Singh,Palm Beach Apartment,47265127
+450,1,1,41000,,20.0,7.0,Semi-Furnished,Parel,Dinesh Gupta,Bhavya Supreme,47267747
+650,1,1,50000,,10.0,7.0,Unfurnished,Santacruz West,Soham  Shah,,47268707
+675,1,1,40000,,4.0,0.0,Semi-Furnished,Mahim,Ranvijay Pandey,,47270347
+550,1,1,60000,,7.0,1.0,Furnished,Khar West,Sapna,,47270629
+750,1,1,38000,Srishti Group,18.0,17.0,Semi-Furnished,Powai,Dharmendra  Singh,Panch Srishti,47270851
+600,1,1,50000,,5.0,4.0,Semi-Furnished,Matunga West,Mahesh  Gupta,,47271589
+650,1,1,50000,,4.0,3.0,Furnished,Andheri West,Pravin  Nalavde,,47272297
+680,1,2,40000,Cooperative Group Housing Society,7.0,3.0,Unfurnished,Santacruz East,Naresh Padam Singh,Silver Square CHS Ltd,47272377
+680,1,2,55000,,3.0,2.0,Furnished,Jeet Nagar,Dheeraj Singh,,47273111
+650,1,1,38000,DOSTI REALTY,7.0,5.0,Semi-Furnished,Antop Hill,Raj Kumar  Saw,Dosti Acres,47274701
+650,1,2,45000,,7.0,4.0,Semi-Furnished,Dadar TT Circle,Sunil  Pote,,47276461
+700,1,1,40000,,13.0,10.0,Unfurnished,Bandra East,Babu  Boja,Bandra Government Colony,47276985
+800,1,1,44500,Godrej Properties,17.0,2.0,Unfurnished,Chembur,Leena,Godrej Serenity Mumbai,47277423
+700,1,1,60000,,6.0,5.0,Furnished,Bandra Reclamation,Yousuf Emraan,,47277541
+800,1,2,40000,Nahar Group,10.0,8.0,Semi-Furnished,Chandivali,Rajesh  Gupta,Chandivali Powai,47279415
+575,1,1,38000,,22.0,12.0,Unfurnished,Prabhadevi,Rajendra,,47282177
+-2147483648,1,1,40000,The Gundecha Group,12.0,6.0,Furnished,Sakinaka,Rajan Singh,Gundecha Asta,47283151
+590,1,1,45000,Godrej Properties,15.0,4.0,Semi-Furnished,Vikhroli,Kanchan Tendulkar,Godrej The Trees,47283709
+591,1,1,43000,Godrej Properties,15.0,9.0,Semi-Furnished,Vikhroli,Kanchan Tendulkar,The Trees,47283791
+750,1,1,60000,,11.0,1.0,Furnished,Bandra West,Vikas Singh Singh,,47283837
+749,1,2,45000,,14.0,8.0,Furnished,Marol,Tarun,,47284265
+550,1,1,38000,,23.0,8.0,Unfurnished,Lower Parel,Mukul Jain,,47287367
+650,1,2,45000,,7.0,4.0,Semi-Furnished,Mahim,Hemnath Waghela,,47289137
+700,1,2,42223,Omkar Realtors and Developers Pvt. Ltd.,16.0,5.0,Semi-Furnished,Bandra Kurla Complex,Atif Siddique,Omkar Meridia,47289329
+900,1,2,41000,Godrej Properties,12.0,10.0,Unfurnished,Vikhroli,Sanjeev Mathur,Godrej The Trees,47290057
+674,1,1,40000,,7.0,6.0,Unfurnished,Andheri East,Shripad,,47294683
+650,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,15.0,6.0,Unfurnished,Bhavani Nagar,Vicky  Kourani,Kanakia Rain Forest,47295649
+-2147483648,1,2,40000,,11.0,6.0,Semi-Furnished,"Sundar Nagar, Kalina",Gaurav,,47295839
+700,1,2,46000,,7.0,3.0,Furnished,Seven Bungalows,Bhavin ,,47296021
+550,1,1,50000,,3.0,2.0,Furnished,Worli,Rohit  Gupta,,47296949
+700,1,2,38000,Kanakia Spaces Realty Pvt. Ltd.,16.0,16.0,Semi-Furnished,Andheri East,Zara  Nadvi,Kanakia Rain Forest,47297991
+650,1,2,42000,,7.0,2.0,Furnished,Chembur,Lalit  Wadhwa,,47301881
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Sachin Babar,,47302501
+750,1,2,60000,,7.0,3.0,Furnished,Prabhadevi,Shweta  Agarwal,,47302829
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Avinash  Babar,,47303051
+600,1,2,38000,,,,Semi-Furnished,Raheja Vihar,Avinash  Babar,,47303257
+600,1,2,38000,,,,Semi-Furnished,Raheja Vihar,Sachin Babar,,47303393
+650,1,1,45000,,6.0,-1.0,Semi-Furnished,Mahim West,Mohit Bhagnari,,47303925
+650,1,2,38000,,7.0,2.0,Semi-Furnished,Raheja Vihar,Sachin,,47303989
+552,1,2,38000,Emgee Group,10.0,6.0,Furnished,Wadala East,Kartik  Mudaliar,Emgee Greens,47304127
+500,1,1,42000,,4.0,3.0,Unfurnished,Tardeo,Pralhad Angre,,47304241
+650,1,2,38000,,7.0,2.0,Semi-Furnished,Chandivali,Ganesh,,47304375
+650,1,2,38000,,7.0,2.0,Semi-Furnished,Chandivali,Sagar,,47304679
+680,1,1,52000,,7.0,2.0,Semi-Furnished,Shivaji Park,velji Shah,,47304769
+650,1,2,38000,,7.0,2.0,Semi-Furnished,Chandivali,Kanchan,,47304845
+650,1,1,45000,,3.0,3.0,Semi-Furnished,Matunga West,Mohit Bhagnari,,47305233
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Sachin,,47305381
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Ganesh,,47305515
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Sagar,,47305627
+650,1,1,38000,,7.0,3.0,Semi-Furnished,Powai,Kanchan,,47306099
+800,1,2,55000,,13.0,3.0,Semi-Furnished,Mount Mary,Manish  Maurya,Kanti Apartment,47306405
+750,1,2,46000,,6.0,3.0,Furnished,Seven Bungalows,Gurmmeet,,47306531
+1000,1,1,44000,Godrej Properties,18.0,9.0,Unfurnished,Vikhroli,Vinayak  Pandya,Godrej The Trees,47306569
+800,1,1,42000,Godrej Properties,18.0,2.0,Unfurnished,Vikhroli,Vinayak  Pandya,Godrej The Trees,47306735
+700,1,2,39500,,6.0,3.0,Furnished,Seven Bungalows,Gurmmeet,,47307139
+700,1,2,45000,,5.0,1.0,Semi-Furnished,Seven Bungalows,Gurmmeet,,47307641
+580,1,1,43000,,8.0,4.0,Semi-Furnished,Kamala City,Vilas,,47310933
+650,1,1,55000,,6.0,2.0,Furnished,Juhu,Jimisha  Seth,,47312419
+700,1,2,44000,Atul Projects,12.0,8.0,Furnished,Andheri East,Javed Loon,Atul Blue Fortuna,47312805
+750,1,2,45000,Atul Projects,15.0,8.0,Furnished,Andheri East,Mohammed Sarfaraz Bhati,Atul Blue Fortuna,47313185
+625,1,2,45000,Ekta World,22.0,13.0,Furnished,Powai,Sachin,Lake Florence,47313313
+610,1,1,65000,Cooperative Group Housing Society,15.0,8.0,Furnished,Worli,Kailash,Himalaya CHS LTD,47313625
+470,1,1,45000,,3.0,3.0,Unfurnished,Mahim West,Manoj,,47314119
+630,1,1,42000,Godrej Properties,18.0,8.0,Semi-Furnished,Vikhroli,Santosh,Godrej The Trees,47318331
+680,1,1,43000,Godrej Properties,18.0,15.0,Semi-Furnished,Vikhroli,Santosh Bhandari,Godrej The Trees,47318451

@@ -1,0 +1,13 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+2400,5,3,90000,,,0.0,Semi-Furnished,Chembur,Sanjay Acharya,,13093700
+1800,5,5,95000,Nahar Group,7.0,1.0,Furnished,Seven Bungalows,Asif Hasmi,Everest Apartment,17392255
+2815,5,4,110000,Radius Developers,44.0,24.0,Semi-Furnished,Oshiwara,Vishal Mihani Lalwani,Imperial Heights,32125823
+2815,5,4,105000,Radius Group,44.0,23.0,Semi-Furnished,Goregaon West,Vishal Mihani Lalwani,Wadhwa Imperial Heights,33258343
+3125,5,4,105000,Radius Developers,44.0,9.0,Semi-Furnished,Goregaon West,Vishal Mihani Lalwani,Imperial Heights,34833669
+3250,5,5,110000,The Wadhwa Group,44.0,29.0,Semi-Furnished,BEST Housing Colony,Vishal Mihani Lalwani,Imperial Heights,39952195
+3125,5,5,110000,The Wadhwa Group,45.0,30.0,Semi-Furnished,Goregaon West,Vishal Mihani Lalwani,Imperial Heights,42682061
+2815,5,5,110000,The Wadhwa Group,45.0,5.0,Semi-Furnished,Goregaon West,Vishal Mihani Lalwani,Imperial Heights,42899683
+2200,5,5,60000,,20.0,4.0,Semi-Furnished,Link Road,Prashant Dave,,46104011
+3200,5,4,110000,,,0.0,Unfurnished,Basant Cinema,Naresh  Dulgach,,46227151
+2500,5,5,100000,Sunteck Realty Limited,30.0,25.0,Semi-Furnished,Borivali East,Sumairaa,Signia High,46872233
+-2147483648,5,5,95000,,,1.0,Semi-Furnished,Chembur,Vaibhav,,47320721

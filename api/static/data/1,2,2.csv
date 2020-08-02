@@ -1,0 +1,16 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+2500,2,3,250000,Orbit Corporation Ltd.,40.0,37.0,Furnished,Nana Chowk,Ajmera,Orbit Heights,40284503
+1320,2,2,250000,Shethcorp Pvt. Ltd.,32.0,8.0,Furnished,Prabhadevi,Prem Gupta,Beau Monde,40453963
+1305,2,2,250000,,40.0,10.0,Unfurnished,Prabhadevi,Ghanshyam Fatnani,,41104877
+-2147483648,2,2,250000,,16.0,6.0,Semi-Furnished,Worli,Ghanshyam Fatnani,,43514065
+1500,2,2,250000,Sheth Developers,16.0,8.0,Furnished,Bandra West,Nisha Nair,Sea Bird Apartment,44889485
+1700,2,2,250000,,12.0,4.0,Semi-Furnished,Carmichael Road,Ajay  Singh,,45245689
+1400,2,2,265000,Shethcorp Pvt. Ltd.,41.0,21.0,Furnished,Prabhadevi,Dolly  Parekh,Beau Monde,45337539
+1539,2,3,250000,Indiabulls Real Estate,40.0,28.0,Furnished,Worli,Sachin  Bamgude,Indiabulls Blu,45821703
+800,2,3,260000,,7.0,5.0,Semi-Furnished,Goregaon East,prasad,,46310999
+1500,2,3,235000,,19.0,12.0,Furnished,Worli,Ravi Bhor,,46869307
+1600,2,2,250000,,20.0,12.0,Semi-Furnished,Malabar Hill,Harakh Shah,,46939901
+1170,2,2,250000,,15.0,13.0,Furnished,Mahalaxmi Race Course,Ajmera,,47056705
+1700,2,3,250000,,14.0,7.0,Semi-Furnished,Breach Candy,Ajay  Singh,,47147941
+1924,2,2,260000,,10.0,9.0,Unfurnished,Altamount Road,Ajmera,,47212933
+1600,2,3,250000,,13.0,6.0,Semi-Furnished,Nepeansea Road,Mohit Ramchandani,Ashoka Apartments,47227341

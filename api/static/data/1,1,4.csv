@@ -1,0 +1,436 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+2000,4,4,196000,Kalpataru Limited,17.0,14.0,Unfurnished,Andheri East,Sushant,Kalpataru Estates,13817756
+2100,4,4,185000,Kalpataru Limited,17.0,14.0,Unfurnished,Andheri East,Sushant,Kalpataru Estates,14433162
+3350,4,4,170000,,16.0,12.0,Semi-Furnished,Chembur,Pankaj Dembla,,15330570
+2650,4,5,225000,,15.0,8.0,Semi-Furnished,Bandra West,Shafik Sayed,,15699140
+2200,4,4,200000,,9.0,9.0,Unfurnished,Vile Parle East,Raju Mehta,,16485360
+2400,4,4,200000,,9.0,6.0,Furnished,Khar West,Rajni S,,18572816
+2000,4,4,200000,,13.0,3.0,Unfurnished,Khar West,Ajay  Kapur,,18652106
+1800,4,3,200000,,14.0,7.0,Semi-Furnished,Turner Road,Sarfraz khan,,18715807
+2500,4,4,225000,,14.0,12.0,Semi-Furnished,Bandra West,gopal singh,SSD Pali Palms,20842137
+3800,4,5,225000,,14.0,11.0,Unfurnished,Turner Road,Sarfraz khan,Dheeraj Affaire,22252053
+2800,4,4,175000,Hiranandani Group,29.0,21.0,Semi-Furnished,Powai,Ramesh  Babar,Hiranandani Gardens Odyssey I,22467773
+2800,4,4,230000,Hiranandani Group,29.0,19.0,Semi-Furnished,Powai,Ramesh  Babar,Hiranandani Gardens,22891603
+2800,4,4,200000,Hiranandani Group,30.0,-1.0,Furnished,Powai,Shailesh  Shinde,Hiranandani Gardens,23627467
+2815,4,5,170000,Bharat Infrastructure and Engineering,19.0,11.0,Unfurnished,Andheri West,Rightway Realty,Bharat Skyvistas,25810465
+2900,4,3,180000,Hiranandani Group,29.0,21.0,Semi-Furnished,Powai,Ramesh  Babar,Hiranandani Gardens Odyssey II,27401737
+3800,4,5,170000,,15.0,12.0,Semi-Furnished,Santacruz West,Rajni S,,28331133
+3200,4,5,210000,The Wadhwa Group,26.0,11.0,Semi-Furnished,Powai,Guru Prasad,The Wadhwa Solitaire,30564441
+2400,4,4,200000,,13.0,10.0,Furnished,Bandra West,SACHIN RAUT,,30902455
+2200,4,5,220000,,7.0,3.0,Furnished,Santacruz West,Rajni S,,32515891
+5113,4,6,200000,,21.0,16.0,Unfurnished,Ghatkopar West,Parth  Shah,The Address Panorama,32669563
+4300,4,4,225000,Windsor Realty,32.0,21.0,Unfurnished,Andheri West,Salim Merchant,Windsor Grande Residences,32727037
+3230,4,6,170000,Oberoi Realty Limited,50.0,10.0,Semi-Furnished,Aarey Milk Colony,Dinesh Yadav,Oberoi Esquire,33813777
+2400,4,4,200000,,5.0,4.0,Unfurnished,Subhash Road,Raju Mehta,,33929557
+2000,4,4,200000,,8.0,2.0,Furnished,Juhu,amod dubey,,34469175
+2200,4,4,171991,,12.0,5.0,Unfurnished,Juhu,Mehul  Gada,,34571681
+2280,4,4,178245,,12.0,5.0,Semi-Furnished,Juhu,Mehul  Gada,,34571715
+2400,4,4,175000,,10.0,3.0,Semi-Furnished,Vile Parle West,Mehul  Gada,,34571783
+2500,4,4,200000,,7.0,6.0,Semi-Furnished,Juhu,amod dubey,Kamla Heritage,34997701
+4200,4,4,225000,Lake Homes,22.0,5.0,Semi-Furnished,MHADA Colony 20,Rishi Bhasin,Lake Superior,35506225
+3800,4,5,170000,Lake Homes,22.0,5.0,Unfurnished,Powai,Mahesh Nikam,Lake Superior,35727731
+3200,4,5,205000,Supreme Universal,25.0,12.0,Semi-Furnished,Andheri West,Arjun Joshi,Supreme 19,35757457
+3195,4,4,175000,Lodha Group,51.0,18.0,Semi-Furnished,MHADA Vanrai Colony,Narmada Ghanvat Parmar,Lodha Fiorenza,35916749
+2600,4,3,175000,Oberoi Realty Limited,31.0,7.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Narmada Ghanvat Parmar,Oberoi Prisma,36466507
+2800,4,4,225000,Aristo Realty Developers Limited,23.0,7.0,Unfurnished,Prabhadevi,Rajesh  Singh,Aristo Pearl Residency,36474267
+3300,4,5,185000,Oberoi Realty Limited,50.0,14.0,Semi-Furnished,Goregaon East,Arvind Goyal,Oberoi Esquire,36716789
+3300,4,5,180000,Runwal Developers,30.0,17.0,Unfurnished,Lokhandwala Complex,Vijay,Runwal Elegante,36842823
+2600,4,6,180000,Oberoi Realty Limited,30.0,10.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Sushant,Oberoi Prisma,37223019
+1410,4,4,225000,Rustomjee,20.0,19.0,Semi-Furnished,Bandra Kurla Complex,Manoj Prithiani,Rustomjee Seasons,37288995
+1650,4,4,220000,Rustomjee,20.0,10.0,Unfurnished,Bandra Kurla Complex,Manoj Prithiani,Rustomjee Seasons,37289257
+3230,4,6,180000,Oberoi Realty Limited,52.0,43.0,Unfurnished,Sai Baba Complex,Sanjeev Agrawal,Oberoi Esquire,37418549
+3000,4,5,200000,,12.0,8.0,Furnished,Santacruz West,Sammy,,37812607
+3240,4,4,175000,Ekta World,22.0,22.0,Unfurnished,Powai,Amol  Tambe,Lake Lucerne,37837691
+2200,4,4,200000,,9.0,4.0,Unfurnished,Shivaji Park,Vikram Garud,,38193023
+2200,4,4,175000,Adani Realty,28.0,17.0,Semi-Furnished,4 Bunglows,Asif Hasmi,Western Heights,38531093
+6000,4,2,175000,Windsor Realty,28.0,20.0,Semi-Furnished,Andheri West,Sumairaa,Windsor Grande Residences,38586323
+3350,4,4,200000,Oberoi Realty Limited,45.0,18.0,Semi-Furnished,Goregaon East,Arvind Goyal,Oberoi Esquire,38922391
+2600,4,6,170000,Oberoi Realty Limited,32.0,10.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Dinesh Yadav,Oberoi Prisma,38968427
+3230,4,6,170000,Oberoi Realty Limited,50.0,11.0,Semi-Furnished,Goregaon East,Dinesh Yadav,Oberoi Esquire,39006889
+2400,4,4,200000,,14.0,3.0,Furnished,JVPD Scheme,amod dubey,,39338323
+1650,4,4,190000,Oberoi Realty Limited,35.0,23.0,Unfurnished,Andheri East,Abhinesh Dubey,Oberoi Prisma,39486295
+3000,4,4,200000,,18.0,15.0,Furnished,Bandra West,Sammy,,39509037
+2050,4,4,225000,,12.0,7.0,Furnished,Santacruz West,Rishi  Dusija,,39540439
+4300,4,4,230000,Windsor Realty,30.0,23.0,Semi-Furnished,Andheri West,Arjun Joshi,Windsor Grande Residences,39595181
+2665,4,5,180000,Rustomjee,24.0,18.0,Semi-Furnished,Bandra Kurla Complex,Danish Ansari,Rustomjee Seasons,39612077
+3230,4,4,180000,Oberoi Realty Limited,51.0,25.0,Semi-Furnished,Yeshodham,Vivek Mishra,Oberoi Esquire,39656985
+2000,4,5,170000,Rustomjee,23.0,8.0,Unfurnished,Bandra Kurla Complex,Allauddin  Shaikh,Rustomjee Seasons,39709505
+2665,4,4,200000,,21.0,17.0,Unfurnished,Kala Nagar,Kamal,,39795807
+3320,4,5,170000,L&T Realty,27.0,24.0,Semi-Furnished,Powai lake,Dinesh Yadav,Emerald Isle Phase 2,39857221
+1800,4,4,200000,Rustomjee,14.0,7.0,Unfurnished,Bandra Kurla Complex,Ajay  Sen,Rustomjee Seasons,39860643
+3230,4,6,210000,Oberoi Realty Limited,,,Furnished,Goregaon East,Jyoti,Oberoi Esquire,39962283
+2800,4,4,210000,,10.0,5.0,Furnished,Santacruz West,Ajay  Kapur,,39988583
+2400,4,4,200000,,7.0,1.0,Semi-Furnished,Santacruz West,Rajni S,,40149547
+2200,4,4,170000,,23.0,15.0,Semi-Furnished,Bandra East,Allauddin  Shaikh,,40185479
+-2147483648,4,4,200000,,14.0,8.0,Unfurnished,Santacruz West,Ghanshyam Fatnani,,40305325
+3230,4,5,205000,Oberoi Realty Limited,,,Semi-Furnished,Goregaon East,Jyoti,Oberoi Esquire,40316165
+4300,4,4,220000,Windsor Realty,25.0,11.0,Semi-Furnished,Andheri West,Azuro,Windsor Grande Residences,40504033
+2665,4,4,225000,,21.0,17.0,Semi-Furnished,Kala Nagar,Kamal,,40570267
+2400,4,5,225000,Runwal Developers,,,Semi-Furnished,Worli,Prem Gupta,The Reserve,40732247
+3000,4,4,225000,Hiranandani Group,11.0,5.0,Semi-Furnished,Powai,Ramesh  Babar,Hiranandani Gardens Glen Ridge,40762837
+2665,4,4,225000,Rustomjee,27.0,19.0,Unfurnished,Bandra Kurla Complex,Manoj Prithiani,Rustomjee Seasons,40770127
+-2147483648,4,4,225000,,11.0,3.0,Semi-Furnished,Santacruz West,Amit Agnani,,40843573
+1600,4,4,175000,Golden Nest Builders & Developers,9.0,5.0,Furnished,Khar West,Durgesh jadhav,Satnam Sagar,40845005
+2600,4,4,200000,,12.0,5.0,Furnished,JVPD Scheme,Chandan Poddar,,40901107
+1600,4,4,180000,,4.0,3.0,Furnished,Dadar West,Mohit Bhagnari,,40904737
+3412,4,5,200000,Oberoi Realty Limited,49.0,20.0,Semi-Furnished,Goregaon East,Ashu,Oberoi Esquire,40928047
+2100,4,4,180000,,12.0,3.0,Furnished,Lokhandwala Complex,Kamal Malkani,,40938725
+4300,4,4,220000,Windsor Realty,25.0,14.0,Semi-Furnished,Andheri West,Azuro,Windsor Grande Residences,40982281
+4300,4,4,201000,Windsor Realty,34.0,17.0,Semi-Furnished,Oshiwara,Sumairaa,Windsor Grande Residences,41018985
+3300,4,4,200000,Windsor Realty,34.0,27.0,Semi-Furnished,Oshiwara,Sumairaa,Windsor Grande Residences,41019041
+1950,4,4,180000,,5.0,3.0,Unfurnished,Shivaji Park,Surya Mishra,,41022879
+3300,4,4,220600,Windsor Realty,33.0,15.0,Semi-Furnished,Andheri West,Santosh,Windsor Grande Residences,41055717
+2790,4,3,200000,Hiranandani Group,23.0,11.0,Semi-Furnished,Powai lake,Mihir Desai,Hiranandani Gardens Odyssey II,41112231
+3230,4,5,180000,Oberoi Realty Limited,,,Semi-Furnished,Goregaon East,Indoo,Oberoi Esquire,41145643
+2200,4,4,210000,Hiranandani Group,30.0,11.0,Semi-Furnished,Powai lake,Mihir Desai,Hiranandani Gardens Octavius,41147331
+2500,4,3,200000,,30.0,19.0,Semi-Furnished,Powai lake,Mihir Desai,,41149239
+2500,4,4,200000,,7.0,7.0,Furnished,Matunga West,Mohit Bhagnari,,41196283
+2300,4,5,175000,,22.0,16.0,Semi-Furnished,Bandra East,Allauddin  Shaikh,,41202875
+2790,4,4,200000,Hiranandani Group,27.0,16.0,Furnished,Powai,v Sinha,Hiranandani Gardens Odyssey I,41278355
+2550,4,4,190000,,27.0,7.0,Semi-Furnished,Prabhadevi,Vijay  Singh,,41418725
+2450,4,4,170000,Hubtown Limited,20.0,5.0,Semi-Furnished,Andheri East,Azuro,Hubtown Sunmist,41465773
+4300,4,4,225000,Windsor Realty,36.0,21.0,Unfurnished,Andheri West,Salim Merchant,Windsor Grande Residences,41611551
+2200,4,4,190000,,15.0,4.0,Furnished,JVPD Scheme,amod dubey,,41732975
+3200,4,6,175000,,3.0,2.0,Furnished,Subhash Road,Raju Mehta,,42025811
+3032,4,4,175000,Oberoi Realty Limited,51.0,20.0,Semi-Furnished,Yeshodham,Ankush  Pujari,Oberoi Esquire,42364909
+3800,4,4,185000,,30.0,16.0,Unfurnished,Seven Bungalows,Sumairaa,,42566753
+2140,4,4,225000,Bombay Realty,58.0,14.0,Semi-Furnished,Dadar East,Kartik  Mudaliar,Bombay Realty Island City Center ICC 1 and 2,42604439
+2600,4,3,190000,L&T Realty,54.0,45.0,Furnished,Parel,Santosh  Pandey,Crescent Bay,42670629
+2000,4,4,210000,,12.0,8.0,Furnished,Khar West,Saif Ali Sarang,,42681359
+3820,4,5,170000,Cooperative Group Housing Society,15.0,8.0,Semi-Furnished,Chembur,Pankaj Dembla,diamond garden,42718767
+2500,4,4,195000,Rustomjee,22.0,4.0,Unfurnished,Bandra East,Allauddin  Shaikh,Rustomjee Oriana,42829099
+3000,4,4,200000,,22.0,-1.0,Semi-Furnished,Andheri West,Vinod Kumar,Infinite Poorna Apartments,42858911
+2200,4,4,175000,,22.0,20.0,Unfurnished,Bandra East,Allauddin  Shaikh,,42945465
+2700,4,5,180100,,15.0,10.0,Semi-Furnished,Andheri West,Santosh,,43143667
+2500,4,4,170000,Shiv Shakti Group,22.0,10.0,Unfurnished,Andheri West,Chandan Poddar,Shiv Shakti Apartments,43166339
+-2147483648,4,4,200000,Lodha Group,,,Unfurnished,Worli,Jatin  Vaidya,Lodha Park,43187347
+-2147483648,4,4,210000,Lodha Group,,,Unfurnished,Worli,Jatin  Vaidya,Lodha Park,43187355
+-2147483648,4,4,220000,Lodha Group,,,Unfurnished,Worli,Jatin  Vaidya,Lodha Park,43187365
+2900,4,4,200000,L&T Realty,55.0,40.0,Semi-Furnished,Parel,Amol  Tambe,Crescent Bay,43238881
+3970,4,4,195000,L&T Realty,55.0,19.0,Semi-Furnished,Bhoiwada,Kartik  Mudaliar,Crescent Bay,43274819
+1950,4,4,190000,Rustomjee,22.0,17.0,Semi-Furnished,Bandra Kurla Complex,Nisha Nair,Rustomjee Seasons,43291055
+3600,4,5,225000,Oberoi Realty Limited,,1.0,Semi-Furnished,Goregaon East,Ajit  Bodke,Oberoi Esquire,43467035
+2400,4,4,175000,,19.0,9.0,Furnished,Lokhandwala Complex,Jaspreet  Singh,,43553717
+2079,4,3,225000,Lodha Group,70.0,29.0,Semi-Furnished,Worli,Kailash,Lodha Marquise,43640097
+-2147483648,4,4,225000,,17.0,7.0,Semi-Furnished,Bandra East,Ghanshyam Fatnani,,43804237
+1890,4,5,175000,,,,Semi-Furnished,Lower Parel,Amrutha Panicker,,43811731
+1890,4,5,185000,,,,Semi-Furnished,Lower Parel,Amrutha Panicker,,43812235
+1800,4,4,200000,Lodha Group,78.0,54.0,Semi-Furnished,Worli,Azuro,Lodha The Park,43888407
+-2147483648,4,4,200000,,11.0,10.0,Furnished,Lokhandwala Complex,Raj  Mishra,,43924737
+3250,4,5,180000,L&T Realty,54.0,24.0,Semi-Furnished,Parel,Piyush  Kothari,Crescent Bay,43939969
+2000,4,4,170000,,42.0,14.0,Furnished,Oshiwara,Gajanan Agrawal,,43969985
+3060,4,4,185000,Bombay Realty,65.0,5.0,Semi-Furnished,Dadar East,Vassera Property Solutions Pvt. Ltd.,Bombay Dyeing Two ICC,43972753
+2400,4,5,225000,K Raheja Corp,23.0,10.0,Furnished,New Link Road,Chandan Poddar,Raheja Classique,43995611
+1420,4,4,200000,,20.0,17.0,Semi-Furnished,Bandra East,jyoti,,44068239
+2864,4,5,200000,,3.0,1.0,Semi-Furnished,Shivaji Park,Omprakash  Dubey,,44157811
+2700,4,4,195000,Bombay Realty,64.0,28.0,Semi-Furnished,Dadar East,Vassera Property Solutions Pvt. Ltd.,Bombay Dyeing Two ICC,44158015
+2800,4,4,225000,,12.0,3.0,Furnished,Santacruz West,Dhiren  Chainani,AP Grandeur,44261191
+2600,4,4,225000,,7.0,4.0,Unfurnished,Khar West,Dhiren  Chainani,Vijay Roshandeep,44267249
+4500,4,4,215000,Lake Homes,22.0,7.0,Semi-Furnished,Powai,Joyson Dsouza,Lake Superior,44354439
+3910,4,3,200000,L&T Realty,42.0,15.0,Furnished,Parel,Kartik  Mudaliar,Crescent Bay,44423585
+2100,4,4,185000,Bombay Realty,63.0,16.0,Semi-Furnished,Dadar,Kartik  Mudaliar,Bombay Dyeing Two ICC,44424323
+3910,4,4,200000,L&T Realty,43.0,12.0,Semi-Furnished,Parel,Kartik  Mudaliar,Crescent Bay,44429987
+3500,4,4,170000,L&T Realty,41.0,23.0,Semi-Furnished,Parel,Azuro,Crescent Bay,44468783
+2000,4,4,170000,,12.0,5.0,Furnished,Khar West,Nitesh Thawani,,44519635
+2345,4,4,185000,Bombay Realty,65.0,15.0,Semi-Furnished,Dadar East,Kartik  Mudaliar,Bombay Dyeing Two ICC,44563371
+3500,4,4,170000,L&T Realty,41.0,23.0,Semi-Furnished,Bhoiwada,Azuro,Crescent Bay,44565959
+2080,4,4,180000,Raj Developer,5.0,4.0,Furnished,Shivaji Park,Pratik Chhabra,Amber Kutir CHS,44614959
+2580,4,4,214000,Lodha Group,78.0,14.0,Semi-Furnished,Worli,Ravi,Lodha Marquise,44655541
+2400,4,3,180000,Kalptaru Construction,25.0,6.0,Furnished,Parel,Pratik Chhabra,Kalpataru Habitat Apartment,44666515
+2400,4,4,175000,K Raheja Corp,4.0,4.0,Furnished,Andheri West,Varad Properties,Raheja Classique,44684577
+2500,4,3,225000,,9.0,8.0,Semi-Furnished,Pali Hill,Amar Motwani,,44701983
+3025,4,4,180000,,23.0,11.0,Unfurnished,MIG Colony,Danish Ansari,,44820821
+3750,4,4,209000,Bombay Realty,55.0,31.0,Semi-Furnished,Dadar East,Shashank Kamble,Bombay Dyeing Two ICC,44907067
+1800,4,4,175000,,5.0,4.0,Furnished,Shivaji Park,Anand Kumar,,44917631
+2500,4,4,225000,,10.0,8.0,Semi-Furnished,Khar,Nisha Nair,,44948563
+3500,4,4,170000,L&T Realty,41.0,23.0,Semi-Furnished,Parel,Azuro,Crescent Bay,44998525
+3220,4,4,225000,Windsor Realty,25.0,11.0,Semi-Furnished,Andheri West,Azuro,Windsor Grande Residences,45001935
+3000,4,4,200000,,4.0,2.0,Furnished,Shivaji Park,Vikram Garud,,45013945
+3640,4,4,200000,L&T Realty,,,Semi-Furnished,Powai,Azuro,Emerald Isle,45025851
+2349,4,5,185000,Lodha Group,78.0,13.0,Semi-Furnished,Worli,Manoj  Prithiani,Lodha The Park,45028629
+2349,4,5,185000,Lodha Group,78.0,14.0,Semi-Furnished,Worli,Manoj Prithiani,Lodha The Park,45029225
+2349,4,5,190000,Lodha Group,,,Semi-Furnished,Worli,Manoj Prithiani,Lodha Marquise,45045835
+2349,4,5,190000,Lodha Group,,,Semi-Furnished,Worli,Manoj  Prithiani,Lodha Marquise,45047189
+2500,4,4,215000,,11.0,8.0,Semi-Furnished,Warden Road,Ajay  Singh,,45047763
+2590,4,4,190000,Ekta World,16.0,12.0,Semi-Furnished,Chembur,Naresh  Dulgach,Panorama,45120897
+2691,4,4,175000,Spark Developers,12.0,6.0,Semi-Furnished,Worli,Mehul ,Desai Oceanic,45187391
+3200,4,4,200000,L&T Realty,,,Semi-Furnished,Parel,Piyush  Kothari,Crescent Bay,45197487
+3200,4,5,175000,Runwal Developers,27.0,16.0,Unfurnished,Lokhandwala Complex,Beant Singh  Dhindsa,Runwal Elegante,45237773
+2259,4,4,200000,Lodha Group,60.0,20.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,45249665
+2050,4,4,180000,,28.0,12.0,Unfurnished,Shastri Nagar,Vinod Kumar,Infinite Poorna Apartments,45255089
+3200,4,4,175000,Ekta World,18.0,8.0,Semi-Furnished,Chembur,Sachin  Aswani,Panorama,45276657
+1600,4,5,210000,Dheeraj Realty,15.0,11.0,Furnished,Santacruz West,Sarfraz khan,Dheeraj Serenity,45284573
+2600,4,4,200000,,10.0,5.0,Semi-Furnished,Khar West,Sammy,,45293475
+2800,4,4,200000,,12.0,7.0,Furnished,Khar West,Sammy,,45293747
+2500,4,5,215000,,12.0,4.0,Furnished,Bandra West,Tarik Mirza,,45298041
+2300,4,4,210000,,11.0,5.0,Furnished,Khar West,Tarik Mirza,Tirupati Balaji Apartment,45298119
+-2147483648,4,5,180000,Oberoi Realty Limited,31.0,28.0,Furnished,Andheri East,Kumar,Oberoi Prisma,45314127
+2700,4,3,200000,,12.0,8.0,Semi-Furnished,Juhu Vile Parle Development Scheme,amod dubey,,45327137
+2345,4,4,190000,Bombay Realty,63.0,14.0,Semi-Furnished,Wadala West,Kartik  Mudaliar,Bombay Dyeing Two ICC,45363937
+2400,4,4,200000,K Raheja Corp,20.0,18.0,Furnished,Andheri West,Rohan  Nair,Raheja Classique,45366805
+2220,4,4,200000,,12.0,7.0,Furnished,Union Park,Sandeep Sadh,Saigals Apartment,45383241
+2500,4,4,210000,San Group,10.0,3.0,Furnished,Khar West,Sandeep Sadh,Urvashi Terraces,45440561
+2665,4,4,200000,Rustomjee,23.0,17.0,Semi-Furnished,Bandra Kurla Complex,Danish Ansari,Rustomjee Seasons,45441317
+-2147483648,4,4,175000,Rustomjee,23.0,6.0,Semi-Furnished,Bandra Kurla Complex,Vidhiyan,Rustomjee Seasons,45444703
+2200,4,4,200000,,54.0,54.0,Furnished,Bhoiwada,santu hati,,45463075
+2345,4,4,170000,Bombay Realty,63.0,15.0,Semi-Furnished,Wadala,Kartik  Mudaliar,Bombay Dyeing Two ICC,45491181
+1459,4,5,230000,Rustomjee,27.0,15.0,Semi-Furnished,Bandra Kurla Complex,Jasvinder Singh  Lamba,Rustomjee Seasons,45496407
+2345,4,4,170000,Bombay Realty,63.0,15.0,Semi-Furnished,Dadar,Kartik  Mudaliar,Bombay Dyeing Two ICC,45502773
+2355,4,6,225000,Lodha Group,78.0,14.0,Semi-Furnished,Worli,Bunty,Lodha Park,45533693
+3000,4,4,175000,Bharat Infrastructure and Engineering,,,Semi-Furnished,Andheri West,Deep  Gopalani,Bharat Skyvistas,45595827
+2850,4,4,185000,Bharat Infrastructure and Engineering,19.0,15.0,Semi-Furnished,D.N. Nagar,Rahul  Singh ,Bharat Skyvistas,45606205
+2200,4,4,200000,Rustomjee,22.0,19.0,Semi-Furnished,Bandra Kurla Complex,Vicky  Rathore,Rustomjee Seasons,45628431
+3125,4,5,180000,Oberoi Realty Limited,31.0,24.0,Semi-Furnished,Andheri East,Jasvinder Singh  Lamba,Oberoi Prisma,45643709
+2790,4,3,180000,Hiranandani Group,22.0,9.0,Semi-Furnished,Powai,Sandeep Sadh,Hiranandani Gardens Odyssey II,45659339
+3547,4,4,200000,Bombay Realty,68.0,34.0,Semi-Furnished,Dadar East,Sushil  Raheja,Bombay Dyeing Two ICC,45717581
+2782,4,4,185000,,63.0,16.0,Semi-Furnished,Wadala West,Kartik  Mudaliar,,45739893
+1525,4,4,180000,Lodha Group,78.0,24.0,Unfurnished,Worli,Jasvinder Singh  Lamba,Lodha The Park,45745813
+2355,4,6,200000,Lodha Group,,,Semi-Furnished,Worli,Dolly  Parekh,Lodha Park,45762125
+2000,4,5,180000,,,,Semi-Furnished,Andheri West,Deep  Gopalani,Bharat Sky Vistas Bluez,45766307
+2450,4,4,205000,Lodha Group,70.0,18.0,Unfurnished,Worli,Rajesh Shah,Lodha Park,45796987
+1999,4,4,199000,Aristo Realty Developers Limited,,,Semi-Furnished,Prabhadevi,Dilip Roge,Aristo Pearl Residency,45827013
+1500,4,4,185000,Raj Developer,5.0,4.0,Furnished,Dadar West,Raj  Kumar,Amber Kutir CHS,45853401
+1950,4,4,180000,Aristo Realty Developers Limited,27.0,14.0,Semi-Furnished,Prabhadevi,Amrik Singh Grover,Aristo Pearl Residency,45863171
+4148,4,6,225000,Bombay Realty,59.0,17.0,Unfurnished,Dadar East,Nilesh Mishra,Island City Center,45887233
+3234,4,6,190000,Oberoi Realty Limited,51.0,1.0,Furnished,Goregaon East,Jignesh Shah,Oberoi Esquire,45931729
+2650,4,4,200000,Lodha Group,75.0,26.0,Semi-Furnished,Worli,Arvind ,Lodha Marquise,45932987
+2750,4,3,185000,L&T Realty,50.0,7.0,Semi-Furnished,Parel,Gopal  Raheja,Crescent Bay,45935741
+2800,4,5,200000,Supreme Universal,22.0,5.0,Furnished,Andheri West,suresh,Supreme 19,45976777
+3250,4,4,190000,L&T Realty,,,Semi-Furnished,Parel,Piyush  Kothari,Crescent Bay,46020299
+3000,4,4,200000,,20.0,15.0,Furnished,Khar West,Yousuf Emraan,,46050659
+3000,4,4,230000,,18.0,16.0,Furnished,Khar West,Yousuf Emraan,,46051177
+3310,4,5,200000,Bombay Realty,66.0,4.0,Unfurnished,Dadar East,Sumita,Bombay Dyeing Two ICC,46056971
+3400,4,6,185000,L&T Realty,24.0,14.0,Semi-Furnished,Powai lake,Brij Agarwal,Emerald Isle,46070355
+3280,4,4,180000,Bombay Realty,63.0,10.0,Semi-Furnished,Dadar,Kartik  Mudaliar,Bombay Dyeing Two ICC,46071971
+2450,4,4,225000,L&T Realty,50.0,14.0,Semi-Furnished,Parel,NRI RENTAL SERVICES PVT LTD,Crescent Bay,46074307
+2100,4,4,225000,,9.0,7.0,Furnished,Haji Ali,Sunil Kumar  Singh,,46091455
+3500,4,4,170000,L&T Realty,41.0,23.0,Semi-Furnished,Parel,Azuro,Crescent Bay,46094811
+2600,4,4,200000,,10.0,4.0,Unfurnished,Bandra West,Sagar Visawadia,,46095337
+3970,4,4,190000,L&T Realty,54.0,21.0,Semi-Furnished,Parel,Avanish  Singh,Crescent Bay,46101853
+2250,4,5,200000,Lodha Group,57.0,21.0,Semi-Furnished,Worli,Rajendra,Lodha The Park,46115917
+2345,4,5,200000,Bombay Realty,50.0,13.0,Semi-Furnished,Dadar East,Dilip Roge,Bombay Realty Island City Center ICC 1 and 2,46126595
+2349,4,5,225000,Lodha Group,75.0,30.0,Unfurnished,Worli,Sandeep  Autkar,Lodha The Park,46127539
+1800,4,4,180000,Raj Developer,5.0,3.0,Furnished,Dadar West,Manan Sethi,Amber Kutir CHS,46142199
+3500,4,4,200000,,5.0,3.0,Semi-Furnished,Juhu,SHiv Shakti,,46142503
+3200,4,4,180000,Hiranandani Group,3.0,3.0,Furnished,Powai,Shinoy,Hiranandani Gardens,46150801
+2800,4,4,170000,Adani Realty,29.0,20.0,Semi-Furnished,Andheri West,Rishikesh  Upadhayay,Western Heights,46161025
+3000,4,4,200000,,18.0,15.0,Furnished,Khar West,Yousuf Emraan,,46186457
+3000,4,4,230000,,18.0,14.0,Furnished,Khar West,Yousuf Emraan,,46187063
+2400,4,5,225000,Rustomjee,23.0,16.0,Semi-Furnished,Bandra Kurla Complex,Karan,Rustomjee Seasons,46204107
+2400,4,6,170000,Runwal Developers,27.0,14.0,Semi-Furnished,Lokhandwala Complex,Rishikesh  Upadhayay,Runwal Elegante,46208551
+3000,4,4,180000,,18.0,12.0,Furnished,Santacruz West,Yousuf Emraan,,46235209
+3000,4,4,200000,,18.0,12.0,Furnished,Khar West,Yousuf Emraan,,46235487
+3000,4,4,230000,,18.0,15.0,Furnished,Bandra West,Yousuf Emraan,,46236015
+3500,4,5,200000,,14.0,12.0,Semi-Furnished,Bandra West,Krishna ,,46244183
+1711,4,4,225000,Rustomjee,22.0,9.0,Unfurnished,Bandra Kurla Complex,Amrik Singh Grover,Rustomjee Seasons,46248197
+1711,4,4,225000,Rustomjee,22.0,14.0,Semi-Furnished,Bandra Kurla Complex,Amrik Singh Grover,Rustomjee Seasons,46249275
+1711,4,4,225000,Rustomjee,22.0,12.0,Semi-Furnished,Bandra Kurla Complex,Amrik Singh Grover,Rustomjee Seasons,46252741
+1800,4,5,225000,Rustomjee,22.0,18.0,Unfurnished,Bandra Kurla Complex,Kawal,Rustomjee Seasons,46253499
+3400,4,5,200000,,12.0,11.0,Semi-Furnished,Bandra West,Krishna ,,46261255
+2400,4,3,225000,,15.0,11.0,Semi-Furnished,Girgaon Chowpatty,Ajmera,,46261615
+3300,4,5,190000,Oberoi Realty Limited,,,Furnished,Andheri East,Deep  Gopalani,Oberoi Prisma,46271083
+5113,4,5,220000,,21.0,16.0,Furnished,Ghatkopar West,Harsh,,46280309
+1908,4,4,200000,Lodha Group,78.0,49.0,Semi-Furnished,Worli,Azuro,Lodha The Park,46306187
+2815,4,5,210000,The Wadhwa Group,,,Furnished,Goregaon West,Lalwani Lalwani,Imperial Heights,46306583
+4125,4,4,225000,Bombay Realty,68.0,35.0,Semi-Furnished,Dadar East,Sushil  Raheja,Bombay Realty Island City Center ICC 1 and 2,46312853
+3000,4,4,180000,,18.0,12.0,Furnished,Santacruz West,Yousuf Emraan,,46313247
+3300,4,5,200000,,41.0,16.0,Semi-Furnished,Goregaon East,Annu,,46322129
+2600,4,5,190000,Lodha Group,60.0,29.0,Semi-Furnished,Worli,Vinod  Bait,Lodha Marquise,46330655
+2400,4,5,225000,Godrej Properties,7.0,2.0,Furnished,Santacruz West,Ketan  Jaiswal,Godrej Indraprastha,46334773
+2572,4,5,200000,Adani Realty,25.0,20.0,Furnished,Andheri West,Suresh  Yadav ,Western Heights,46336319
+2768,4,4,169000,Runwal Developers,27.0,10.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46345533
+2798,4,4,170000,Runwal Developers,27.0,14.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46345781
+-2147483648,4,4,225000,,40.0,18.0,Semi-Furnished,Worli,Harshad Shah,,46346289
+1500,4,4,190000,,,,Semi-Furnished,Worli,Rishabh,,46350279
+3100,4,5,180000,,,,Semi-Furnished,Wadala East,Mukesh ,,46353039
+3200,4,5,190000,,,,Semi-Furnished,Wadala East,Mukesh ,,46354115
+3200,4,5,190000,Lodha Group,40.0,38.0,Furnished,Wadala East,Mukesh ,Lodha Evoq,46354167
+2392,4,4,170000,Runwal Developers,27.0,17.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46356211
+2691,4,3,210000,Spark Developers,12.0,6.0,Semi-Furnished,Worli,Sameer  Chauhan,Desai Oceanic,46366653
+3230,4,5,190000,Oberoi Realty Limited,50.0,16.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,46375303
+3230,4,5,190000,Oberoi Realty Limited,50.0,16.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,46375329
+2000,4,4,185000,Lodha Group,65.0,25.0,Semi-Furnished,Worli,Jyoti,Lodha The Park,46376173
+3360,4,4,175000,Runwal Developers,27.0,10.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46380119
+3000,4,4,180000,,18.0,14.0,Furnished,Santacruz West,Yousuf Emraan,,46381347
+3000,4,4,230000,,18.0,14.0,Furnished,Khar West,Yousuf Emraan,,46382257
+3000,4,4,210000,,18.0,11.0,Furnished,Bandra West,Yousuf Emraan,,46382715
+2345,4,4,185000,Bombay Realty,63.0,14.0,Semi-Furnished,Dadar East,Kartik  Mudaliar,Bombay Dyeing Two ICC,46389105
+3200,4,5,200000,,12.0,11.0,Semi-Furnished,Bandra West,Krishna ,,46393381
+3325,4,5,200000,,13.0,11.0,Semi-Furnished,Bandra West,Krishna ,,46393565
+2600,4,4,200000,,11.0,11.0,Unfurnished,Dadar West,vinay,,46396811
+3360,4,5,179000,Rajesh LifeSpaces,32.0,26.0,Furnished,Powai,Sagar  Gawai,Raj Grandeur,46403565
+2500,4,4,200000,Oberoi Realty Limited,32.0,10.0,Furnished,JVLR-Jogeshwari Vikhroli Link Road,Ashish  Agarwal,Oberoi Prisma,46409113
+3280,4,5,200000,,11.0,9.0,Semi-Furnished,Bandra West,Krishna ,,46417193
+2575,4,5,180000,L&T Realty,54.0,52.0,Furnished,Parel,Piyush  Kothari,Crescent Bay,46423119
+2349,4,4,180000,Lodha Group,72.0,25.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,46436617
+2800,4,4,170000,Oberoi Realty Limited,28.0,10.0,Semi-Furnished,Andheri East,Dinesh Yadav,Oberoi Prisma,46451111
+2800,4,4,170000,,12.0,8.0,Semi-Furnished,Bandra West,Sammy,,46453467
+3200,4,5,230000,,26.0,9.0,Furnished,Powai lake,Zaheer shaikh,,46454745
+2400,4,4,170000,Ekta World,16.0,12.0,Semi-Furnished,Chembur,Manoj Punjabi,Panorama,46457421
+2200,4,4,190000,Bombay Realty,65.0,12.0,Semi-Furnished,Dadar East,Anil Cordeiro,Bombay Realty Island City Center ICC 1 and 2,46459567
+3000,4,4,200000,,18.0,12.0,Furnished,Santacruz West,Yousuf Emraan,,46460663
+2800,4,5,175000,L&T Realty,,,Furnished,Parel,Aqib  Khan,Crescent Bay,46460997
+3230,4,6,190000,Oberoi Realty Limited,50.0,16.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,46474247
+1975,4,4,175000,Raj Developer,7.0,6.0,Furnished,Shivaji Park,Santosh  Pandey,Amber Kutir CHS,46479213
+1650,4,5,175000,K Raheja Corp,24.0,10.0,Semi-Furnished,Andheri West,RAJVEER SINGH singh,Raheja Classique,46480817
+2450,4,4,225000,Aristo Realty Developers Limited,27.0,9.0,Semi-Furnished,Prabhadevi,Dilip Roge,Aristo Pearl Residency,46496721
+2400,4,4,200000,K Raheja Corp,24.0,10.0,Furnished,Andheri West,Sunil  Ghevade,Raheja Classique,46496763
+2135,4,5,210000,Lodha Group,78.0,18.0,Semi-Furnished,Worli,Bunty,Lodha Marquise,46514821
+3300,4,4,210000,Windsor Realty,30.0,10.0,Furnished,Oshiwara,Sumairaa,Windsor,46536029
+3000,4,4,180000,,18.0,12.0,Furnished,Khar West,Yousuf Emraan,,46541137
+3300,4,5,200000,Lodha Group,41.0,16.0,Semi-Furnished,Goregaon East,Sunil  Ghevade,Lodha Fiorenza,46559769
+2000,4,4,230000,Lodha Group,69.0,43.0,Semi-Furnished,Worli,Amrik Singh Grover,Lodha The Park,46564971
+2700,4,4,170000,,22.0,14.0,Unfurnished,Sewri,Mustafa  Chhil,,46584077
+2428,4,5,225000,Lodha Group,76.0,38.0,Semi-Furnished,Worli,Zeeshan,Lodha Marquise,46612621
+2800,4,4,200000,Hiranandani Group,29.0,21.0,Furnished,Powai,Ramesh  Babar,Hiranandani Gardens Odyssey I,46615367
+2000,4,3,189000,Adani Realty,30.0,22.0,Semi-Furnished,Andheri West,Dinesh Malhotra,Western Heights,46617719
+3795,4,4,223000,Lodha Group,79.0,26.0,Semi-Furnished,Worli Sea Face,Gaurav  Panjabi,Lodha The Park,46621615
+2492,4,4,220000,RNA Corp,40.0,15.0,Semi-Furnished,Worli,Azuro,RNA Mirage,46629593
+3150,4,5,175000,Runwal Developers,27.0,10.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46631645
+3025,4,5,200000,Supreme Universal,21.0,5.0,Furnished,Andheri West,Suresh  Yadav ,Supreme 19,46632029
+3230,4,6,210000,Oberoi Realty Limited,51.0,39.0,Semi-Furnished,Goregaon East,Vivek  Singh,Oberoi Esquire,46636203
+3481,4,4,225000,Bombay Realty,68.0,37.0,Unfurnished,Dadar East,Gaurav  Panjabi,Bombay Realty Island City Center ICC 1 and 2,46639275
+2992,4,5,170000,Runwal Developers,27.0,10.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46654771
+2800,4,4,230000,Cooperative Group Housing Society,25.0,5.0,Unfurnished,Andheri West,Dharmesh,Andheri CHS,46658975
+3500,4,6,185000,L&T Realty,24.0,12.0,Semi-Furnished,Central Area,Harpreet,Emerald Isle,46663663
+2345,4,4,190000,Bombay Realty,63.0,16.0,Semi-Furnished,Dadar East,Kartik  Mudaliar,Bombay Dyeing Two ICC,46664909
+2780,4,4,190000,,15.0,7.0,Semi-Furnished,Chembur,Manish Narang,,46666941
+3200,4,6,190000,Oberoi Realty Limited,31.0,26.0,Furnished,Andheri East,Harpreet,Oberoi Prisma,46677921
+2100,4,5,225000,Lodha Group,70.0,22.0,Semi-Furnished,Worli,Santosh  Pandey,Lodha Marquise,46678623
+2100,4,6,200000,,78.0,15.0,Semi-Furnished,Worli,Bipin Ram,,46683123
+2349,4,4,180000,Lodha Group,72.0,25.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,46684199
+2560,4,5,225000,,11.0,7.0,Unfurnished,Chakala,Inderpal,Satellite Gazebo,46706449
+2400,4,5,210000,Lodha Group,75.0,30.0,Semi-Furnished,Worli,Krishna  Modi,Lodha Marquise,46721581
+2000,4,5,170000,Lodha Group,75.0,30.0,Semi-Furnished,Worli,Krishna  Modi,Lodha The Park,46721699
+1592,4,4,200000,Adani Realty,26.0,22.0,Furnished,Andheri West,Sandeep,Western Heights,46723965
+2860,4,4,175000,The Wadhwa Group,41.0,40.0,Semi-Furnished,Best Nagar - Goregaon West,Sandeep,Imperial Heights,46724969
+2348,4,5,190000,Lodha Group,78.0,30.0,Semi-Furnished,Worli,Manoj Prithiani,Lodha Park,46727273
+2349,4,4,185000,Lodha Group,78.0,27.0,Semi-Furnished,Worli,Manoj Prithiani,Lodha Park,46727295
+2450,4,5,230000,L&T Realty,50.0,11.0,Semi-Furnished,Parel,NRI RENTAL SERVICES PVT LTD,Crescent Bay,46743351
+2250,4,5,190000,Lodha Group,75.0,25.0,Semi-Furnished,Worli,lifescape property,Lodha The Park,46744511
+2800,4,5,170000,Lodha Group,75.0,17.0,Semi-Furnished,Worli,Krishna  Modi,Lodha The Park,46746955
+3125,4,5,200000,,14.0,12.0,Semi-Furnished,Bandra West,Krishna ,,46750267
+3230,4,6,210000,Oberoi Realty Limited,,,Furnished,Goregaon East,Jyoti,Oberoi Esquire,46770011
+-2147483648,4,5,190000,,12.0,5.0,Semi-Furnished,Bandra West,Karan Sakhrani,,46772929
+3000,4,4,180000,Hiranandani Group,29.0,14.0,Semi-Furnished,Powai,NRI RENTAL SERVICES PVT LTD,Hiranandani Gardens Odyssey II,46779803
+3900,4,4,230000,,59.0,7.0,Semi-Furnished,Dadar East,Vassera Property Solutions Pvt. Ltd.,,46785495
+2500,4,4,199000,,18.0,13.0,Furnished,Lokhandwala Complex,Dinesh Malhotra,,46802669
+3250,4,4,200000,Bombay Realty,55.0,33.0,Semi-Furnished,Dadar East,Shoeb  Sayed,Bombay Realty Island City Center ICC 1 and 2,46802901
+3230,4,6,190000,Oberoi Realty Limited,50.0,21.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,46803801
+3202,4,4,200000,Oberoi Realty Limited,51.0,3.0,Semi-Furnished,Sai Baba Complex,Rajesh  Pathak,Oberoi Esquire,46804429
+3300,4,4,180000,Supreme Universal,20.0,14.0,Semi-Furnished,Andheri West,Santosh,Supreme 19,46804765
+2259,4,4,200000,Lodha Group,60.0,20.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,46812885
+1850,4,4,200000,,16.0,8.0,Semi-Furnished,Gulmohar Road,Paresh Talati,Supreme Imperial Residency,46836933
+1800,4,6,180000,Lodha Group,75.0,10.0,Furnished,Worli Hill,Aqib  Khan,Lodha The Park,46843045
+3600,4,5,195000,Supreme Universal,19.0,16.0,Semi-Furnished,Union Park,Sushil  Raheja,Supreme Signature,46844137
+2800,4,4,200000,,11.0,7.0,Furnished,Juhu Vile Parle Development Scheme,Mehul  Gada,,46845699
+3300,4,5,200000,Lodha Group,41.0,16.0,Unfurnished,Goregaon East,Deepak  shrama,Lodha Fiorenza,46846203
+2200,4,4,190000,Bombay Realty,65.0,16.0,Semi-Furnished,Dadar East,Anil Cordeiro,Bombay Dyeing Two ICC,46853077
+2200,4,3,200000,Bombay Realty,65.0,15.0,Semi-Furnished,Dadar East,Anil Cordeiro,Bombay Dyeing Two ICC,46853853
+4200,4,4,210000,L&T Realty,20.0,12.0,Semi-Furnished,Powai,Kuldeep  Singh,Emerald Isle,46860509
+2467,4,5,225000,Lodha Group,78.0,29.0,Semi-Furnished,Worli,Vivek  Solanki,Lodha Marquise,46865017
+3970,4,4,225000,L&T Realty,54.0,14.0,Unfurnished,Parel,Ajay Singh,Crescent Bay,46886785
+3970,4,4,210000,L&T Realty,54.0,25.0,Unfurnished,Parel,Ajay Singh,Crescent Bay,46887395
+3970,4,4,225000,L&T Realty,54.0,32.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46888123
+2810,4,4,196000,The Wadhwa Group,45.0,11.0,Furnished,BEST Housing Colony,Akash Mehta,Imperial Heights,46891005
+1950,4,5,230000,Lodha Group,79.0,52.0,Semi-Furnished,Worli,Amrik Singh Grover,Lodha The Park,46909523
+2500,4,4,200000,L&T Realty,60.0,50.0,Furnished,Parel,Shashikant Mishra,Crescent Bay,46911071
+2349,4,4,180000,Lodha Group,72.0,25.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,46913271
+3500,4,4,199000,,6.0,4.0,Furnished,Andheri West,Sagar Visawadia,,46932031
+1700,4,4,200000,Lodha Group,70.0,19.0,Semi-Furnished,Worli,Mallesh  Shetty,Lodha Park,46937927
+-2147483648,4,4,200000,Hiranandani Group,29.0,14.0,Semi-Furnished,Powai,sakshi,Hiranandani Gardens Odyssey II,46939133
+4125,4,4,199000,Bombay Realty,68.0,36.0,Unfurnished,Dadar East,Gaurav  Panjabi,Bombay Dyeing Two ICC,46945527
+1700,4,4,200000,,8.0,4.0,Semi-Furnished,Mount Mary,Ali  Khan,,46950711
+1960,4,4,225000,,23.0,10.0,Unfurnished,Sewri,Ajay Singh,Ashok Gardens,46957763
+4100,4,4,200000,L&T Realty,60.0,25.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46959495
+3500,4,5,180000,L&T Realty,50.0,35.0,Semi-Furnished,Parel,Vijay  Singh,Crescent Bay,46965337
+3200,4,4,220000,The Wadhwa Group,25.0,15.0,Semi-Furnished,Powai lake,Kuldeep  Singh,The Wadhwa Solitaire,46972697
+2500,4,4,185000,,15.0,15.0,Semi-Furnished,Versova,Amaan,,46978297
+2790,4,5,168000,Runwal Developers,27.0,10.0,Semi-Furnished,Lokhandwala Complex,Rahul  Singh ,Runwal Elegante,46984171
+3970,4,4,225000,L&T Realty,54.0,33.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46989311
+3970,4,4,200000,L&T Realty,54.0,26.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46989841
+3970,4,4,210000,L&T Realty,54.0,14.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46990291
+3970,4,4,180000,L&T Realty,54.0,26.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,46990519
+3230,4,6,190000,Oberoi Realty Limited,50.0,25.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,46993557
+2750,4,4,180000,DB Realty Limited,54.0,28.0,Semi-Furnished,Mumbai Central,Afzal,DB Orchid Enclave,47001933
+2000,4,4,190000,Lodha Group,75.0,40.0,Semi-Furnished,Worli,lifescape property,Lodha The Park,47002123
+2000,4,4,230000,,11.0,8.0,Furnished,Santacruz West,Rishi  Dusija,,47021387
+2450,4,4,225000,L&T Realty,50.0,14.0,Semi-Furnished,Parel,NRI RENTAL SERVICES PVT LTD,Crescent Bay,47027847
+2200,4,3,220000,,10.0,7.0,Semi-Furnished,Khar West,Sandeep Sadh,,47029695
+2100,4,3,210000,Lodha Group,77.0,12.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47031857
+2286,4,3,170000,Lodha Group,77.0,27.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47031965
+1846,4,4,185000,,20.0,4.0,Semi-Furnished,Bandra Kurla Complex,Praveen Shetty,Bandra Kurla Complex – BKC,47039539
+1700,4,4,200000,Adani Realty,30.0,25.0,Furnished,Andheri West,Varad Properties,Western Heights,47040085
+2300,4,4,225000,,20.0,12.0,Semi-Furnished,Gamdevi,Harakh Shah,,47042501
+2650,4,5,210000,,7.0,7.0,Unfurnished,Pali Naka,Ketan  Jaiswal,,47042967
+2200,4,5,190000,Lodha Group,45.0,20.0,Semi-Furnished,Worli,lifescape property,Lodha Marquise,47044989
+2220,4,4,220000,Lodha Group,77.0,33.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047115
+2250,4,4,215000,Lodha Group,77.0,22.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047133
+2250,4,4,225000,Lodha Group,77.0,19.0,Furnished,Worli,Mallesh  Shetty,Lodha Marquise,47047141
+2250,4,4,190000,Lodha Group,77.0,14.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047165
+2250,4,4,220000,Lodha Group,77.0,23.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047225
+2250,4,4,215000,Lodha Group,77.0,14.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047251
+2250,4,4,210000,Lodha Group,77.0,26.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047279
+2250,4,4,210000,Lodha Group,77.0,23.0,Unfurnished,Worli,Mallesh  Shetty,Lodha Marquise,47047323
+3500,4,4,175000,L&T Realty,24.0,10.0,Furnished,Saki Vihar Road,Rajesh  Gupta,Emerald Isle,47052261
+3400,4,5,170000,L&T Realty,24.0,13.0,Semi-Furnished,Powai,vinod mishra,Emerald Isle,47053661
+1960,4,4,220000,,23.0,10.0,Unfurnished,Sewri,Ajay Singh,Ashok Gardens,47062633
+2200,4,4,225000,Lodha Group,75.0,20.0,Semi-Furnished,Worli,Dolly  Parekh,Trump Towers,47065231
+3230,4,4,180000,Oberoi Realty Limited,,,Semi-Furnished,Goregaon East,Akshay,Oberoi Esquire,47066167
+2400,4,5,200000,Bombay Realty,60.0,5.0,Semi-Furnished,Dadar East,Anant,Bombay Realty Island City Center ICC 1 and 2,47068049
+2259,4,4,200000,Lodha Group,60.0,20.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,47069845
+3800,4,5,200000,,,,Unfurnished,Chembur,Vikash,,47076695
+2200,4,4,170000,,22.0,9.0,Furnished,Versova,Amaan,,47081135
+2000,4,5,200000,Lodha Group,79.0,45.0,Semi-Furnished,Worli,Amrik Singh Grover,Lodha The Park,47095947
+1975,4,4,225000,,28.0,10.0,Unfurnished,Dadar East,Santosh  Pandey,,47101001
+2112,4,4,230000,,7.0,2.0,Semi-Furnished,Santacruz West,Vijay,,47109575
+1900,4,4,180000,Bharat Infrastructure and Engineering,,,Semi-Furnished,Andheri West,Indoo,Bharat Skyvistas,47109857
+2400,4,4,170000,K Raheja Corp,,,Furnished,Andheri West,Indoo,Raheja Classique,47114011
+2702,4,4,180000,Bharat Infrastructure and Engineering,,,Semi-Furnished,Andheri West,Akshay,Bharat Skyvistas,47116405
+1500,4,4,220000,,10.0,4.0,Semi-Furnished,Worli,rani verma,,47119109
+2800,4,4,220000,Aristo Realty Developers Limited,30.0,26.0,Semi-Furnished,Prabhadevi,Mallesh  Shetty,Aristo Pearl Residency,47119175
+2400,4,4,170000,K Raheja Corp,,,Semi-Furnished,Andheri West,Akshay,Raheja Classique,47120751
+3052,4,4,180000,Runwal Developers,,,Semi-Furnished,Andheri West,Akshay,Runwal Elegante,47121873
+2400,4,4,200000,K Raheja Corp,21.0,19.0,Furnished,Andheri West,Kailash,Raheja Classique,47122979
+6750,4,4,225000,Lake Homes,22.0,6.0,Semi-Furnished,Powai,Ramprasad  Padhi,Lake Superior,47124251
+2200,4,4,200000,Kanakia Spaces Realty Pvt. Ltd.,40.0,20.0,Semi-Furnished,Mahim,Mallesh  Shetty,Kanakia Miami,47126067
+1850,4,5,180000,Rustomjee,21.0,19.0,Semi-Furnished,Bandra Kurla Complex,Ketan  Jaiswal,Rustomjee Seasons,47147803
+1650,4,4,170000,Rustomjee,21.0,10.0,Semi-Furnished,Bandra Kurla Complex,Ketan  Jaiswal,Rustomjee Seasons,47148363
+2000,4,4,190000,,23.0,22.0,Furnished,Andheri West,Sagar Visawadia,,47162015
+3300,4,4,225000,Windsor Realty,31.0,16.0,Semi-Furnished,Andheri West,Vishal Mihani Lalwani,Windsor Grande Residences,47169159
+3230,4,3,210000,Oberoi Realty Limited,45.0,5.0,Semi-Furnished,Film City Road,Sameer  Shaikh,Oberoi Esquire,47172951
+1800,4,4,185000,Bachhers Developers,11.0,6.0,Furnished,Santacruz West,Ketan  Jaiswal,Satguru Tower,47179691
+3500,4,4,170000,L&T Realty,41.0,23.0,Semi-Furnished,Parel,Azuro,Crescent Bay,47180429
+2400,4,4,180000,Hiranandani Group,36.0,34.0,Semi-Furnished,Powai lake,Sagar  Gawai,Hiranandani Gardens Octavius,47182939
+2250,4,4,225000,,8.0,8.0,Unfurnished,Linking Road,Ketan  Jaiswal,,47195609
+2400,4,4,200000,Adani Realty,29.0,20.0,Furnished,4 Bunglows,Rishikesh  Upadhayay,Western Heights,47197941
+3300,4,4,200000,Lodha Group,45.0,15.0,Furnished,Goregaon East,Dinesh Malhotra,Lodha Fiorenza,47202969
+3300,4,4,199000,Lodha Group,45.0,32.0,Furnished,Goregaon East,Dinesh Malhotra,Lodha Fiorenza,47203517
+3000,4,4,200000,,18.0,15.0,Semi-Furnished,Bandra West,Yousuf Emraan,,47206247
+5625,4,4,225000,,15.0,5.0,Semi-Furnished,Powai,Nitesh Thawani,,47209607
+1500,4,3,225000,Ekta World,28.0,12.0,Semi-Furnished,Dadar East,Sneha,Ekta Invictus,47211513
+1500,4,3,230000,Ekta World,24.0,12.0,Semi-Furnished,Dadar East,Sneha,Ekta Invictus,47211581
+2349,4,4,176000,Lodha Group,70.0,32.0,Unfurnished,Worli,HRIDAY,Lodha The Park,47218931
+2800,4,6,175000,Oberoi Realty Limited,31.0,16.0,Semi-Furnished,JVLR-Jogeshwari Vikhroli Link Road,Brij Agarwal,Oberoi Prisma,47221791
+3970,4,4,185000,L&T Realty,54.0,25.0,Unfurnished,Parel,Ajay Singh,Crescent Bay,47222731
+3970,4,4,200000,L&T Realty,54.0,28.0,Unfurnished,Parel,Ajay Singh,Crescent Bay,47223035
+469,4,5,230000,Lake Homes,14.0,6.0,Furnished,Powai,Bipin  Mange,Lake Superior,47225463
+3230,4,6,190000,Oberoi Realty Limited,50.0,24.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,47225987
+4900,4,4,210000,,32.0,9.0,Furnished,Powai,Mangesh  Wajage,,47227019
+2500,4,4,200000,L&T Realty,60.0,50.0,Furnished,Parel,Shashikant Mishra,Crescent Bay,47234585
+2259,4,4,174000,Lodha Group,70.0,15.0,Unfurnished,Worli,HRIDAY,Lodha The Park,47245197
+3195,4,6,172500,Oberoi Realty Limited,32.0,26.0,Semi-Furnished,Andheri East,Jignesh Shah,Oberoi Prisma,47248617
+3000,4,4,185000,,27.0,19.0,Semi-Furnished,Andheri West,Suresh  Yadav ,Bharat Sky Vistas Bluez,47249805
+2800,4,3,210000,Hiranandani Group,29.0,15.0,Furnished,Powai,Amar,Hiranandani Gardens Odyssey II,47255159
+3195,4,6,175000,Oberoi Realty Limited,32.0,28.0,Semi-Furnished,Andheri East,Jignesh Shah,Oberoi Prisma,47260001
+2549,4,5,225000,Lodha Group,75.0,52.0,Unfurnished,Worli,Ajay Singh,Lodha Marquise,47261319
+2800,4,5,220000,,6.0,3.0,Furnished,Juhu,Nvie Realty,,47271149
+-2147483648,4,4,210000,,30.0,18.0,Semi-Furnished,Worli,Dhiren,,47271425
+2259,4,5,170200,Lodha Group,75.0,28.0,Unfurnished,Worli,HRIDAY,Lodha The Park,47304325
+2200,4,4,200000,Hiranandani Group,36.0,15.0,Semi-Furnished,Powai lake,mahadev,Hiranandani Gardens Octavius,47313049
+2259,4,4,200000,Lodha Group,60.0,20.0,Semi-Furnished,Worli,Shashikant Mishra,Lodha Marquise,47313173
+2800,4,4,210000,Hiranandani Group,29.0,12.0,Furnished,Powai,mahadev,Hiranandani Gardens Odyssey I,47313231
+3970,4,5,200000,L&T Realty,54.0,17.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,47316679
+3970,4,5,210000,L&T Realty,54.0,25.0,Semi-Furnished,Parel,Ajay Singh,Crescent Bay,47316743
+3230,4,4,190000,Oberoi Realty Limited,50.0,27.0,Semi-Furnished,Gokuldham,Brij Agarwal,Oberoi Esquire,47324621
+-2147483648,4,4,200000,MSL Group,11.0,10.0,Furnished,Khar West,Durgesh jadhav,Golden Tower,47330145

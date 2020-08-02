@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+       <div style = 'background-color: #4091e2; padding : 10px 20px; border-radius: 12px'>
+        <form method = "post">
+            {% csrf_token %}
+                {{form}}
+                &emsp;  
+                              
+            <input type = "submit" value = "Apply Filters" style = 'background-color: powderblue; color:#1e1e2f; border-radius: 8px'>
+        </form>
+        </div> 
+       <div style = 'height: 20px'></div>
+    <div "card card-plain table-plain-bg">   
+    <div class="card-body table-full-width table-responsive" style = 'background-color: rgba(30,30,47,0.9); color: rgba(158,185,212); padding : 10px 10px; border-radius: 10px; overflow-x: auto;'>
+        {% autoescape off %}       
+            {{ table }}
+        {% endautoescape %}   
+    </div>
+    </div>
+{% endblock %}

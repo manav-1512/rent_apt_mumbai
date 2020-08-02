@@ -1,0 +1,24 @@
+area,bedroom_num,bathroom_num,price,dev_name,floor_count,floor_num,furnishing,locality,poster_name,project,id
+20,5,5,400000,,12.0,6.0,Unfurnished,Bandra West,Vilas,,11030760
+5833,5,8,450000,Indiabulls Distribution Services Limited,49.0,37.0,Furnished,Lower Parel,Pravin  Vaishnav,Indiabulls Sky,24392797
+5833,5,8,450000,Indiabulls Distribution Services Limited,49.0,37.0,Furnished,Lower Parel,Pravin  Vaishnav,Indiabulls Sky,24625163
+3000,5,5,350000,,12.0,5.0,Semi-Furnished,Santacruz West,Rajni S,,25382187
+4750,5,5,400000,Hiranandani Group,29.0,13.0,Furnished,Powai,Ramesh  Babar,Hiranandani Gardens,27163737
+5600,5,4,505000,Indiabulls Distribution Services Limited,50.0,50.0,Unfurnished,Lower Parel,Deepa,Indiabulls Sky,30541265
+5000,5,5,390890,,10.0,7.0,Semi-Furnished,Juhu,Mehul  Gada,,34571731
+3000,5,5,500000,,10.0,9.0,Unfurnished,Malabar Hill,Ashok Turakhia,,38960833
+5000,5,5,350000,,16.0,13.0,Unfurnished,Bandra West,Ali  Khan,,39342147
+3500,5,5,350000,,12.0,10.0,Furnished,Khar West,Vijay,,41025235
+4575,5,4,375000,Hiranandani Group,30.0,9.0,Furnished,Powai lake,Mihir Desai,Evita,41083795
+2600,5,5,450000,,9.0,9.0,Unfurnished,Prem Puriji Chowk,Ashok Turakhia,,42305033
+4750,5,5,400000,Hiranandani Group,36.0,19.0,Semi-Furnished,Central Area,Shinoy,Hiranandani Gardens,42356569
+2670,5,5,350000,,24.0,19.0,Furnished,Sewri,Kailash,Ashok Gardens,42492459
+4000,5,5,480000,,20.0,11.0,Semi-Furnished,JVPD Scheme,Sumairaa,,43565895
+1950,5,5,450000,,,,Unfurnished,Nepeansea Road,Digvijay Ram Salve,Bhaveshwar Sagar,45080009
+-2147483648,5,5,350000,Kalptaru Construction,23.0,22.0,Furnished,Parel,Jitesh Jain jitesh,Kalpataru Habitat Apartment,46119381
+4500,5,6,400000,Zara Habitats Llp,20.0,19.0,Furnished,Dadar West,Santosh,Horizon,46121559
+3855,5,5,425000,Peninsula Land Limited,31.0,25.0,Furnished,Parel,Jitesh Jain jitesh,Ashok tower,46414995
+4000,5,5,500000,,20.0,11.0,Furnished,Cuffe Parade,Harakh Shah,,46478953
+6000,5,5,350000,Prathana Builders And Developers,13.0,-1.0,Semi-Furnished,Parel,Harakh Shah,Prarthna Heights,46642383
+2500,5,5,475000,,14.0,12.0,Semi-Furnished,Byculla,Harakh Shah,,46806907
+4000,5,4,350000,Prathana Builders And Developers,57.0,35.0,Semi-Furnished,Bharat Mata Chowk,Santosh P,Prarthna Heights,47079531
